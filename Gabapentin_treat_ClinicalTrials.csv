@@ -1,0 +1,2084 @@
+nct_id,drug_mesh,cond_mesh,mesh_type
+NCT00619983,Gabapentin,Neuralgia,mesh-list
+NCT00619983,Gabapentin,Diabetic Neuropathies,mesh-list
+NCT00619983,Gabapentin,Back Pain,mesh-list
+NCT00619983,Gabapentin,Low Back Pain,mesh-list
+NCT00619983,Gabapentin,Pain,mesh-ancestor
+NCT00619983,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT00619983,Gabapentin,Peripheral Nervous System Diseases,mesh-ancestor
+NCT00619983,Gabapentin,Neuromuscular Diseases,mesh-ancestor
+NCT00619983,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT00619983,Gabapentin,Diabetes Complications,mesh-ancestor
+NCT00619983,Gabapentin,Diabetes Mellitus,mesh-ancestor
+NCT00619983,Gabapentin,Endocrine System Diseases,mesh-ancestor
+NCT00620555,Gabapentin,"Epilepsies, Partial",mesh-list
+NCT00620555,Gabapentin,Epilepsy,mesh-ancestor
+NCT00620555,Gabapentin,Brain Diseases,mesh-ancestor
+NCT00620555,Gabapentin,Central Nervous System Diseases,mesh-ancestor
+NCT00620555,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT00624455,Gabapentin,"Pain, Postoperative",mesh-list
+NCT00624455,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT00624455,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT00624455,Gabapentin,Pain,mesh-ancestor
+NCT00624455,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT00603473,Gabapentin,Seizures,mesh-list
+NCT00603473,Gabapentin,"Epilepsies, Partial",mesh-list
+NCT00603473,Gabapentin,Epilepsy,mesh-ancestor
+NCT00603473,Gabapentin,Brain Diseases,mesh-ancestor
+NCT00603473,Gabapentin,Central Nervous System Diseases,mesh-ancestor
+NCT00603473,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT00603473,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT00593463,Gabapentin,Substance-Related Disorders,mesh-list
+NCT00593463,Gabapentin,Chemically-Induced Disorders,mesh-ancestor
+NCT00593463,Gabapentin,Mental Disorders,mesh-ancestor
+NCT00588159,Gabapentin,,
+NCT00584779,Gabapentin,Renal Insufficiency,mesh-list
+NCT00584779,Gabapentin,Kidney Diseases,mesh-ancestor
+NCT00584779,Gabapentin,Urologic Diseases,mesh-ancestor
+NCT00578552,Gabapentin,,
+NCT00572208,Gabapentin,"Pain, Postoperative",mesh-list
+NCT00572208,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT00572208,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT00572208,Gabapentin,Pain,mesh-ancestor
+NCT00572208,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT00577967,Gabapentin,Pruritus,mesh-list
+NCT00577967,Gabapentin,Skin Diseases,mesh-ancestor
+NCT00577967,Gabapentin,Skin Manifestations,mesh-ancestor
+NCT00573664,Gabapentin,"Pain, Postoperative",mesh-list
+NCT00573664,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT00573664,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT00573664,Gabapentin,Pain,mesh-ancestor
+NCT00573664,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT00567268,Gabapentin,"Epilepsies, Partial",mesh-list
+NCT00567268,Gabapentin,Epilepsy,mesh-ancestor
+NCT00567268,Gabapentin,Brain Diseases,mesh-ancestor
+NCT00567268,Gabapentin,Central Nervous System Diseases,mesh-ancestor
+NCT00567268,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT00555776,Gabapentin,Tinnitus,mesh-list
+NCT00555776,Gabapentin,Hearing Disorders,mesh-ancestor
+NCT00555776,Gabapentin,Ear Diseases,mesh-ancestor
+NCT00555776,Gabapentin,Otorhinolaryngologic Diseases,mesh-ancestor
+NCT00555776,Gabapentin,Sensation Disorders,mesh-ancestor
+NCT00555776,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT00555776,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT00533455,Gabapentin,Tremor,mesh-list
+NCT00533455,Gabapentin,Dyskinesias,mesh-ancestor
+NCT00533455,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT00533455,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT00537940,Gabapentin,Epilepsy,mesh-list
+NCT00537940,Gabapentin,Seizures,mesh-list
+NCT00537940,Gabapentin,"Epilepsies, Partial",mesh-list
+NCT00537940,Gabapentin,"Epilepsy, Complex Partial",mesh-list
+NCT00537940,Gabapentin,Disease,mesh-list
+NCT00537940,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT00537940,Gabapentin,Brain Diseases,mesh-ancestor
+NCT00537940,Gabapentin,Central Nervous System Diseases,mesh-ancestor
+NCT00537940,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT00537940,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT00511953,Gabapentin,Hot Flashes,mesh-list
+NCT00395044,Gabapentin,Marijuana Abuse,mesh-list
+NCT00395044,Gabapentin,Substance-Related Disorders,mesh-ancestor
+NCT00395044,Gabapentin,Chemically-Induced Disorders,mesh-ancestor
+NCT00395044,Gabapentin,Mental Disorders,mesh-ancestor
+NCT00420771,Gabapentin,Opioid-Related Disorders,mesh-list
+NCT00420771,Gabapentin,Narcotic-Related Disorders,mesh-ancestor
+NCT00420771,Gabapentin,Substance-Related Disorders,mesh-ancestor
+NCT00420771,Gabapentin,Chemically-Induced Disorders,mesh-ancestor
+NCT00420771,Gabapentin,Mental Disorders,mesh-ancestor
+NCT00475904,Gabapentin,Neuralgia,mesh-list
+NCT00475904,Gabapentin,"Neuralgia, Postherpetic",mesh-list
+NCT00475904,Gabapentin,Peripheral Nervous System Diseases,mesh-ancestor
+NCT00475904,Gabapentin,Neuromuscular Diseases,mesh-ancestor
+NCT00475904,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT00475904,Gabapentin,Pain,mesh-ancestor
+NCT00475904,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT00414466,Gabapentin,"Pain, Intractable",mesh-list
+NCT00414466,Gabapentin,Pain,mesh-ancestor
+NCT00414466,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT00391716,Gabapentin,Alcoholism,mesh-list
+NCT00391716,Gabapentin,Alcohol-Related Disorders,mesh-ancestor
+NCT00391716,Gabapentin,Substance-Related Disorders,mesh-ancestor
+NCT00391716,Gabapentin,Chemically-Induced Disorders,mesh-ancestor
+NCT00391716,Gabapentin,Mental Disorders,mesh-ancestor
+NCT00390013,Gabapentin,Vulvodynia,mesh-list
+NCT00390013,Gabapentin,Vulvar Diseases,mesh-ancestor
+NCT00385671,Gabapentin,Neuralgia,mesh-list
+NCT00385671,Gabapentin,Diabetic Neuropathies,mesh-list
+NCT00385671,Gabapentin,Peripheral Nervous System Diseases,mesh-ancestor
+NCT00385671,Gabapentin,Neuromuscular Diseases,mesh-ancestor
+NCT00385671,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT00385671,Gabapentin,Pain,mesh-ancestor
+NCT00385671,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT00385671,Gabapentin,Diabetes Complications,mesh-ancestor
+NCT00385671,Gabapentin,Diabetes Mellitus,mesh-ancestor
+NCT00385671,Gabapentin,Endocrine System Diseases,mesh-ancestor
+NCT00262639,Gabapentin,Alcoholism,mesh-list
+NCT00262639,Gabapentin,Alcohol-Related Disorders,mesh-ancestor
+NCT00262639,Gabapentin,Substance-Related Disorders,mesh-ancestor
+NCT00262639,Gabapentin,Chemically-Induced Disorders,mesh-ancestor
+NCT00262639,Gabapentin,Mental Disorders,mesh-ancestor
+NCT00317850,Gabapentin,Tinnitus,mesh-list
+NCT00317850,Gabapentin,Hearing Disorders,mesh-ancestor
+NCT00317850,Gabapentin,Ear Diseases,mesh-ancestor
+NCT00317850,Gabapentin,Otorhinolaryngologic Diseases,mesh-ancestor
+NCT00317850,Gabapentin,Sensation Disorders,mesh-ancestor
+NCT00317850,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT00317850,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT00312260,Gabapentin,Neuralgia,mesh-list
+NCT00312260,Gabapentin,Peripheral Nervous System Diseases,mesh-ancestor
+NCT00312260,Gabapentin,Neuromuscular Diseases,mesh-ancestor
+NCT00312260,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT00312260,Gabapentin,Pain,mesh-ancestor
+NCT00312260,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT00276081,Gabapentin,Hot Flashes,mesh-list
+NCT00257270,Gabapentin,Tinnitus,mesh-list
+NCT00257270,Gabapentin,Hearing Disorders,mesh-ancestor
+NCT00257270,Gabapentin,Ear Diseases,mesh-ancestor
+NCT00257270,Gabapentin,Otorhinolaryngologic Diseases,mesh-ancestor
+NCT00257270,Gabapentin,Sensation Disorders,mesh-ancestor
+NCT00257270,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT00257270,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT00335933,Gabapentin,Neuralgia,mesh-list
+NCT00335933,Gabapentin,"Neuralgia, Postherpetic",mesh-list
+NCT00335933,Gabapentin,Peripheral Nervous System Diseases,mesh-ancestor
+NCT00335933,Gabapentin,Neuromuscular Diseases,mesh-ancestor
+NCT00335933,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT00335933,Gabapentin,Pain,mesh-ancestor
+NCT00335933,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT00279487,Gabapentin,,
+NCT00250744,Gabapentin,Nausea,mesh-list
+NCT00250744,Gabapentin,Vomiting,mesh-list
+NCT00250744,Gabapentin,"Signs and Symptoms, Digestive",mesh-ancestor
+NCT00221338,Gabapentin,Delirium,mesh-list
+NCT00221338,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT00221338,Gabapentin,Confusion,mesh-ancestor
+NCT00221338,Gabapentin,Neurobehavioral Manifestations,mesh-ancestor
+NCT00221338,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT00221338,Gabapentin,Neurocognitive Disorders,mesh-ancestor
+NCT00221338,Gabapentin,Mental Disorders,mesh-ancestor
+NCT00209885,Gabapentin,Cholecystolithiasis,mesh-list
+NCT00209885,Gabapentin,Cholelithiasis,mesh-list
+NCT00209885,Gabapentin,Gallstones,mesh-list
+NCT00209885,Gabapentin,Biliary Tract Diseases,mesh-ancestor
+NCT00209885,Gabapentin,Digestive System Diseases,mesh-ancestor
+NCT00209885,Gabapentin,Gallbladder Diseases,mesh-ancestor
+NCT00209885,Gabapentin,Calculi,mesh-ancestor
+NCT00209885,Gabapentin,"Pathological Conditions, Anatomical",mesh-ancestor
+NCT00236223,Gabapentin,"Pain, Postoperative",mesh-list
+NCT00236223,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT00236223,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT00236223,Gabapentin,Pain,mesh-ancestor
+NCT00236223,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT00229125,Gabapentin,Syndrome,mesh-list
+NCT00229125,Gabapentin,Substance Withdrawal Syndrome,mesh-list
+NCT00229125,Gabapentin,Disease,mesh-ancestor
+NCT00229125,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT00229125,Gabapentin,Substance-Related Disorders,mesh-ancestor
+NCT00229125,Gabapentin,Chemically-Induced Disorders,mesh-ancestor
+NCT00229125,Gabapentin,Mental Disorders,mesh-ancestor
+NCT00218374,Gabapentin,Hyperalgesia,mesh-list
+NCT00218374,Gabapentin,Opioid-Related Disorders,mesh-list
+NCT00218374,Gabapentin,Somatosensory Disorders,mesh-ancestor
+NCT00218374,Gabapentin,Sensation Disorders,mesh-ancestor
+NCT00218374,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT00218374,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT00218374,Gabapentin,Narcotic-Related Disorders,mesh-ancestor
+NCT00218374,Gabapentin,Substance-Related Disorders,mesh-ancestor
+NCT00218374,Gabapentin,Chemically-Induced Disorders,mesh-ancestor
+NCT00218374,Gabapentin,Mental Disorders,mesh-ancestor
+NCT00187707,Gabapentin,,
+NCT00209872,Gabapentin,,
+NCT00183196,Gabapentin,Alcoholism,mesh-list
+NCT00183196,Gabapentin,Alcohol-Related Disorders,mesh-ancestor
+NCT00183196,Gabapentin,Substance-Related Disorders,mesh-ancestor
+NCT00183196,Gabapentin,Chemically-Induced Disorders,mesh-ancestor
+NCT00183196,Gabapentin,Mental Disorders,mesh-ancestor
+NCT00189072,Gabapentin,Neuralgia,mesh-list
+NCT00189072,Gabapentin,Peripheral Nervous System Diseases,mesh-ancestor
+NCT00189072,Gabapentin,Neuromuscular Diseases,mesh-ancestor
+NCT00189072,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT00189072,Gabapentin,Pain,mesh-ancestor
+NCT00189072,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT00163046,Gabapentin,Sleep Initiation and Maintenance Disorders,mesh-list
+NCT00163046,Gabapentin,"Sleep Disorders, Intrinsic",mesh-ancestor
+NCT00163046,Gabapentin,Dyssomnias,mesh-ancestor
+NCT00163046,Gabapentin,Sleep Wake Disorders,mesh-ancestor
+NCT00163046,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT00163046,Gabapentin,Mental Disorders,mesh-ancestor
+NCT00169013,Gabapentin,,
+NCT00153283,Gabapentin,Asthma,mesh-list
+NCT00153283,Gabapentin,Bronchial Diseases,mesh-ancestor
+NCT00153283,Gabapentin,Respiratory Tract Diseases,mesh-ancestor
+NCT00153283,Gabapentin,"Lung Diseases, Obstructive",mesh-ancestor
+NCT00153283,Gabapentin,Lung Diseases,mesh-ancestor
+NCT00153283,Gabapentin,Respiratory Hypersensitivity,mesh-ancestor
+NCT00153283,Gabapentin,"Hypersensitivity, Immediate",mesh-ancestor
+NCT00153283,Gabapentin,Hypersensitivity,mesh-ancestor
+NCT00153283,Gabapentin,Immune System Diseases,mesh-ancestor
+NCT00137735,Gabapentin,Carpal Tunnel Syndrome,mesh-list
+NCT00137735,Gabapentin,Syndrome,mesh-list
+NCT00137735,Gabapentin,Disease,mesh-ancestor
+NCT00137735,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT00137735,Gabapentin,Median Neuropathy,mesh-ancestor
+NCT00137735,Gabapentin,Mononeuropathies,mesh-ancestor
+NCT00137735,Gabapentin,Peripheral Nervous System Diseases,mesh-ancestor
+NCT00137735,Gabapentin,Neuromuscular Diseases,mesh-ancestor
+NCT00137735,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT00137735,Gabapentin,Nerve Compression Syndromes,mesh-ancestor
+NCT00137735,Gabapentin,Cumulative Trauma Disorders,mesh-ancestor
+NCT00137735,Gabapentin,Sprains and Strains,mesh-ancestor
+NCT00137735,Gabapentin,Wounds and Injuries,mesh-ancestor
+NCT00112138,Gabapentin,Hot Flashes,mesh-list
+NCT00058890,Gabapentin,Liver Diseases,mesh-list
+NCT00058890,Gabapentin,Cholestasis,mesh-list
+NCT00058890,Gabapentin,Pruritus,mesh-list
+NCT00058890,Gabapentin,Fibrosis,mesh-list
+NCT00058890,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT00058890,Gabapentin,Digestive System Diseases,mesh-ancestor
+NCT00058890,Gabapentin,Skin Diseases,mesh-ancestor
+NCT00058890,Gabapentin,Skin Manifestations,mesh-ancestor
+NCT00058890,Gabapentin,Bile Duct Diseases,mesh-ancestor
+NCT00058890,Gabapentin,Biliary Tract Diseases,mesh-ancestor
+NCT00108550,Gabapentin,Back Pain,mesh-list
+NCT00108550,Gabapentin,Low Back Pain,mesh-list
+NCT00108550,Gabapentin,Pain,mesh-ancestor
+NCT00108550,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT00087399,Gabapentin,Breast Neoplasms,mesh-list
+NCT00087399,Gabapentin,Hot Flashes,mesh-list
+NCT00087399,Gabapentin,Neoplasms by Site,mesh-ancestor
+NCT00087399,Gabapentin,Neoplasms,mesh-ancestor
+NCT00087399,Gabapentin,Breast Diseases,mesh-ancestor
+NCT00087399,Gabapentin,Skin Diseases,mesh-ancestor
+NCT00057278,Gabapentin,Fibromyalgia,mesh-list
+NCT00057278,Gabapentin,Myofascial Pain Syndromes,mesh-list
+NCT00057278,Gabapentin,Muscular Diseases,mesh-ancestor
+NCT00057278,Gabapentin,Musculoskeletal Diseases,mesh-ancestor
+NCT00057278,Gabapentin,Rheumatic Diseases,mesh-ancestor
+NCT00057278,Gabapentin,Neuromuscular Diseases,mesh-ancestor
+NCT00057278,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT00028574,Gabapentin,Prostatic Neoplasms,mesh-list
+NCT00028574,Gabapentin,Hot Flashes,mesh-list
+NCT00028574,Gabapentin,"Genital Neoplasms, Male",mesh-ancestor
+NCT00028574,Gabapentin,Urogenital Neoplasms,mesh-ancestor
+NCT00028574,Gabapentin,Neoplasms by Site,mesh-ancestor
+NCT00028574,Gabapentin,Neoplasms,mesh-ancestor
+NCT00028574,Gabapentin,Prostatic Diseases,mesh-ancestor
+NCT00011297,Gabapentin,Alcoholism,mesh-list
+NCT00011297,Gabapentin,Alcohol-Related Disorders,mesh-ancestor
+NCT00011297,Gabapentin,Substance-Related Disorders,mesh-ancestor
+NCT00011297,Gabapentin,Chemically-Induced Disorders,mesh-ancestor
+NCT00011297,Gabapentin,Mental Disorders,mesh-ancestor
+NCT00027963,Gabapentin,Peripheral Nervous System Diseases,mesh-list
+NCT00027963,Gabapentin,Neurotoxicity Syndromes,mesh-list
+NCT00027963,Gabapentin,Neuromuscular Diseases,mesh-ancestor
+NCT00027963,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT00027963,Gabapentin,Poisoning,mesh-ancestor
+NCT00027963,Gabapentin,Chemically-Induced Disorders,mesh-ancestor
+NCT00018291,Gabapentin,Alzheimer Disease,mesh-list
+NCT00018291,Gabapentin,Dementia,mesh-list
+NCT00018291,Gabapentin,Brain Diseases,mesh-ancestor
+NCT00018291,Gabapentin,Central Nervous System Diseases,mesh-ancestor
+NCT00018291,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT00018291,Gabapentin,Tauopathies,mesh-ancestor
+NCT00018291,Gabapentin,Neurodegenerative Diseases,mesh-ancestor
+NCT00018291,Gabapentin,Neurocognitive Disorders,mesh-ancestor
+NCT00018291,Gabapentin,Mental Disorders,mesh-ancestor
+NCT04523935,Gabapentin,Cerebral Palsy,mesh-list
+NCT04523935,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT04523935,Gabapentin,"Brain Damage, Chronic",mesh-ancestor
+NCT04523935,Gabapentin,Brain Diseases,mesh-ancestor
+NCT04523935,Gabapentin,Central Nervous System Diseases,mesh-ancestor
+NCT03472521,Gabapentin,Puerperal Disorders,mesh-list
+NCT03472521,Gabapentin,Chronic Pain,mesh-list
+NCT03472521,Gabapentin,Pain,mesh-ancestor
+NCT03472521,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT03472521,Gabapentin,Pregnancy Complications,mesh-ancestor
+NCT05076110,Gabapentin,,
+NCT05064319,Gabapentin,Disease,mesh-list
+NCT05064319,Gabapentin,Marijuana Abuse,mesh-list
+NCT05064319,Gabapentin,Bipolar Disorder,mesh-list
+NCT05064319,Gabapentin,Psychotic Disorders,mesh-list
+NCT05064319,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT05064319,Gabapentin,Bipolar and Related Disorders,mesh-ancestor
+NCT05064319,Gabapentin,Mental Disorders,mesh-ancestor
+NCT05064319,Gabapentin,Substance-Related Disorders,mesh-ancestor
+NCT05064319,Gabapentin,Chemically-Induced Disorders,mesh-ancestor
+NCT05064319,Gabapentin,Schizophrenia Spectrum and Other Psychotic Disorders,mesh-ancestor
+NCT04860141,Gabapentin,Sensation Disorders,mesh-list
+NCT04860141,Gabapentin,"Pain, Postoperative",mesh-list
+NCT04860141,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT04860141,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT04860141,Gabapentin,Pain,mesh-ancestor
+NCT04860141,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT04860141,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT04802967,Gabapentin,,
+NCT04805827,Gabapentin,,
+NCT04766229,Gabapentin,,
+NCT04724252,Gabapentin,"Pain, Postoperative",mesh-list
+NCT04724252,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT04724252,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT04724252,Gabapentin,Pain,mesh-ancestor
+NCT04724252,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT04700592,Gabapentin,Chronic Pain,mesh-list
+NCT04700592,Gabapentin,Hernia,mesh-list
+NCT04700592,Gabapentin,"Hernia, Inguinal",mesh-list
+NCT04700592,Gabapentin,Pain,mesh-ancestor
+NCT04700592,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT04700592,Gabapentin,"Pathological Conditions, Anatomical",mesh-ancestor
+NCT04700592,Gabapentin,"Hernia, Abdominal",mesh-ancestor
+NCT04620720,Gabapentin,"Pain, Postoperative",mesh-list
+NCT04620720,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT04620720,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT04620720,Gabapentin,Pain,mesh-ancestor
+NCT04620720,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT04606264,Gabapentin,,
+NCT04570436,Gabapentin,Substance-Related Disorders,mesh-list
+NCT04570436,Gabapentin,Chemically-Induced Disorders,mesh-ancestor
+NCT04570436,Gabapentin,Mental Disorders,mesh-ancestor
+NCT04491786,Gabapentin,,
+NCT04429022,Gabapentin,"Pain, Postoperative",mesh-list
+NCT04429022,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT04429022,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT04429022,Gabapentin,Pain,mesh-ancestor
+NCT04429022,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT04429347,Gabapentin,Sleep Initiation and Maintenance Disorders,mesh-list
+NCT04429347,Gabapentin,Chronic Pain,mesh-list
+NCT04429347,Gabapentin,Pain,mesh-ancestor
+NCT04429347,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT04429347,Gabapentin,"Sleep Disorders, Intrinsic",mesh-ancestor
+NCT04429347,Gabapentin,Dyssomnias,mesh-ancestor
+NCT04429347,Gabapentin,Sleep Wake Disorders,mesh-ancestor
+NCT04429347,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT04429347,Gabapentin,Mental Disorders,mesh-ancestor
+NCT04285281,Gabapentin,Carpal Tunnel Syndrome,mesh-list
+NCT04285281,Gabapentin,Syndrome,mesh-list
+NCT04285281,Gabapentin,Disease,mesh-ancestor
+NCT04285281,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT04285281,Gabapentin,Median Neuropathy,mesh-ancestor
+NCT04285281,Gabapentin,Mononeuropathies,mesh-ancestor
+NCT04285281,Gabapentin,Peripheral Nervous System Diseases,mesh-ancestor
+NCT04285281,Gabapentin,Neuromuscular Diseases,mesh-ancestor
+NCT04285281,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT04285281,Gabapentin,Nerve Compression Syndromes,mesh-ancestor
+NCT04285281,Gabapentin,Cumulative Trauma Disorders,mesh-ancestor
+NCT04285281,Gabapentin,Sprains and Strains,mesh-ancestor
+NCT04285281,Gabapentin,Wounds and Injuries,mesh-ancestor
+NCT04176419,Gabapentin,"Pain, Postoperative",mesh-list
+NCT04176419,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT04176419,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT04176419,Gabapentin,Pain,mesh-ancestor
+NCT04176419,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT04148846,Gabapentin,Post-Dural Puncture Headache,mesh-list
+NCT04148846,Gabapentin,Headache,mesh-list
+NCT04148846,Gabapentin,Pain,mesh-ancestor
+NCT04148846,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT04148846,Gabapentin,"Headache Disorders, Secondary",mesh-ancestor
+NCT04148846,Gabapentin,Headache Disorders,mesh-ancestor
+NCT04148846,Gabapentin,Brain Diseases,mesh-ancestor
+NCT04148846,Gabapentin,Central Nervous System Diseases,mesh-ancestor
+NCT04148846,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT04003350,Gabapentin,Osteoarthritis,mesh-list
+NCT04003350,Gabapentin,"Osteoarthritis, Knee",mesh-list
+NCT04003350,Gabapentin,Arthritis,mesh-ancestor
+NCT04003350,Gabapentin,Joint Diseases,mesh-ancestor
+NCT04003350,Gabapentin,Musculoskeletal Diseases,mesh-ancestor
+NCT04003350,Gabapentin,Rheumatic Diseases,mesh-ancestor
+NCT03859102,Gabapentin,Coronary Artery Disease,mesh-list
+NCT03859102,Gabapentin,Aortic Valve Disease,mesh-list
+NCT03859102,Gabapentin,Coronary Disease,mesh-ancestor
+NCT03859102,Gabapentin,Myocardial Ischemia,mesh-ancestor
+NCT03859102,Gabapentin,Heart Diseases,mesh-ancestor
+NCT03859102,Gabapentin,Cardiovascular Diseases,mesh-ancestor
+NCT03859102,Gabapentin,Arteriosclerosis,mesh-ancestor
+NCT03859102,Gabapentin,Arterial Occlusive Diseases,mesh-ancestor
+NCT03859102,Gabapentin,Vascular Diseases,mesh-ancestor
+NCT03859102,Gabapentin,Heart Valve Diseases,mesh-ancestor
+NCT03826615,Gabapentin,Hyperalgesia,mesh-list
+NCT03826615,Gabapentin,Cataract,mesh-list
+NCT03826615,Gabapentin,Lens Diseases,mesh-ancestor
+NCT03826615,Gabapentin,Eye Diseases,mesh-ancestor
+NCT03826615,Gabapentin,Somatosensory Disorders,mesh-ancestor
+NCT03826615,Gabapentin,Sensation Disorders,mesh-ancestor
+NCT03826615,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT03826615,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT03818919,Gabapentin,Rotator Cuff Injuries,mesh-list
+NCT03818919,Gabapentin,Rupture,mesh-ancestor
+NCT03818919,Gabapentin,Wounds and Injuries,mesh-ancestor
+NCT03818919,Gabapentin,Shoulder Injuries,mesh-ancestor
+NCT03818919,Gabapentin,Tendon Injuries,mesh-ancestor
+NCT03820193,Gabapentin,,
+NCT03806530,Gabapentin,Psychomotor Agitation,mesh-list
+NCT03806530,Gabapentin,Restless Legs Syndrome,mesh-list
+NCT03806530,Gabapentin,"Kidney Failure, Chronic",mesh-list
+NCT03806530,Gabapentin,Syndrome,mesh-list
+NCT03806530,Gabapentin,Disease,mesh-ancestor
+NCT03806530,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT03806530,Gabapentin,Kidney Diseases,mesh-ancestor
+NCT03806530,Gabapentin,Urologic Diseases,mesh-ancestor
+NCT03806530,Gabapentin,"Renal Insufficiency, Chronic",mesh-ancestor
+NCT03806530,Gabapentin,Renal Insufficiency,mesh-ancestor
+NCT03806530,Gabapentin,Dyskinesias,mesh-ancestor
+NCT03806530,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT03806530,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT03806530,Gabapentin,Psychomotor Disorders,mesh-ancestor
+NCT03806530,Gabapentin,Neurobehavioral Manifestations,mesh-ancestor
+NCT03806530,Gabapentin,"Sleep Disorders, Intrinsic",mesh-ancestor
+NCT03806530,Gabapentin,Dyssomnias,mesh-ancestor
+NCT03806530,Gabapentin,Sleep Wake Disorders,mesh-ancestor
+NCT03806530,Gabapentin,Parasomnias,mesh-ancestor
+NCT03806530,Gabapentin,Mental Disorders,mesh-ancestor
+NCT03750773,Gabapentin,"Pain, Postoperative",mesh-list
+NCT03750773,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT03750773,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT03750773,Gabapentin,Pain,mesh-ancestor
+NCT03750773,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT03747562,Gabapentin,Head and Neck Neoplasms,mesh-list
+NCT03747562,Gabapentin,Neuralgia,mesh-list
+NCT03747562,Gabapentin,Neoplasms by Site,mesh-ancestor
+NCT03747562,Gabapentin,Neoplasms,mesh-ancestor
+NCT03747562,Gabapentin,Peripheral Nervous System Diseases,mesh-ancestor
+NCT03747562,Gabapentin,Neuromuscular Diseases,mesh-ancestor
+NCT03747562,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT03747562,Gabapentin,Pain,mesh-ancestor
+NCT03747562,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT03689114,Gabapentin,Epilepsy,mesh-list
+NCT03689114,Gabapentin,"Epilepsies, Partial",mesh-list
+NCT03689114,Gabapentin,Brain Diseases,mesh-ancestor
+NCT03689114,Gabapentin,Central Nervous System Diseases,mesh-ancestor
+NCT03689114,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT03679013,Gabapentin,"Pain, Postoperative",mesh-list
+NCT03679013,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT03679013,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT03679013,Gabapentin,Pain,mesh-ancestor
+NCT03679013,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT03668041,Gabapentin,Sleep Initiation and Maintenance Disorders,mesh-list
+NCT03668041,Gabapentin,"Sleep Disorders, Intrinsic",mesh-ancestor
+NCT03668041,Gabapentin,Dyssomnias,mesh-ancestor
+NCT03668041,Gabapentin,Sleep Wake Disorders,mesh-ancestor
+NCT03668041,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT03668041,Gabapentin,Mental Disorders,mesh-ancestor
+NCT03635905,Gabapentin,"Dilatation, Pathologic",mesh-list
+NCT03635905,Gabapentin,"Pathological Conditions, Anatomical",mesh-ancestor
+NCT03625011,Gabapentin,Tonsillitis,mesh-list
+NCT03625011,Gabapentin,"Pain, Postoperative",mesh-list
+NCT03625011,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT03625011,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT03625011,Gabapentin,Pain,mesh-ancestor
+NCT03625011,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT03625011,Gabapentin,Pharyngitis,mesh-ancestor
+NCT03625011,Gabapentin,Respiratory Tract Infections,mesh-ancestor
+NCT03625011,Gabapentin,Infections,mesh-ancestor
+NCT03625011,Gabapentin,Pharyngeal Diseases,mesh-ancestor
+NCT03625011,Gabapentin,Stomatognathic Diseases,mesh-ancestor
+NCT03625011,Gabapentin,Respiratory Tract Diseases,mesh-ancestor
+NCT03625011,Gabapentin,Otorhinolaryngologic Diseases,mesh-ancestor
+NCT03619785,Gabapentin,"Fractures, Bone",mesh-list
+NCT03619785,Gabapentin,Rib Fractures,mesh-list
+NCT03619785,Gabapentin,"Fractures, Multiple",mesh-list
+NCT03619785,Gabapentin,Wounds and Injuries,mesh-ancestor
+NCT03619785,Gabapentin,Thoracic Injuries,mesh-ancestor
+NCT03619785,Gabapentin,Multiple Trauma,mesh-ancestor
+NCT03583892,Gabapentin,"Pain, Postoperative",mesh-list
+NCT03583892,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT03583892,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT03583892,Gabapentin,Pain,mesh-ancestor
+NCT03583892,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT03574792,Gabapentin,Carcinoma,mesh-list
+NCT03574792,Gabapentin,"Carcinoma, Squamous Cell",mesh-list
+NCT03574792,Gabapentin,Head and Neck Neoplasms,mesh-list
+NCT03574792,Gabapentin,Squamous Cell Carcinoma of Head and Neck,mesh-list
+NCT03574792,Gabapentin,"Neoplasms, Glandular and Epithelial",mesh-ancestor
+NCT03574792,Gabapentin,Neoplasms by Histologic Type,mesh-ancestor
+NCT03574792,Gabapentin,Neoplasms,mesh-ancestor
+NCT03574792,Gabapentin,"Neoplasms, Squamous Cell",mesh-ancestor
+NCT03574792,Gabapentin,Neoplasms by Site,mesh-ancestor
+NCT03566394,Gabapentin,Breast Neoplasms,mesh-list
+NCT03566394,Gabapentin,Arthralgia,mesh-list
+NCT03566394,Gabapentin,Myalgia,mesh-list
+NCT03566394,Gabapentin,Neoplasms by Site,mesh-ancestor
+NCT03566394,Gabapentin,Neoplasms,mesh-ancestor
+NCT03566394,Gabapentin,Breast Diseases,mesh-ancestor
+NCT03566394,Gabapentin,Skin Diseases,mesh-ancestor
+NCT03566394,Gabapentin,Joint Diseases,mesh-ancestor
+NCT03566394,Gabapentin,Musculoskeletal Diseases,mesh-ancestor
+NCT03566394,Gabapentin,Pain,mesh-ancestor
+NCT03566394,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT03566394,Gabapentin,Muscular Diseases,mesh-ancestor
+NCT03566394,Gabapentin,Neuromuscular Diseases,mesh-ancestor
+NCT03566394,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT03566394,Gabapentin,Musculoskeletal Pain,mesh-ancestor
+NCT03540030,Gabapentin,Arthritis,mesh-list
+NCT03540030,Gabapentin,Necrosis,mesh-list
+NCT03540030,Gabapentin,Rotator Cuff Injuries,mesh-list
+NCT03540030,Gabapentin,Joint Diseases,mesh-ancestor
+NCT03540030,Gabapentin,Musculoskeletal Diseases,mesh-ancestor
+NCT03540030,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT03540030,Gabapentin,Rupture,mesh-ancestor
+NCT03540030,Gabapentin,Wounds and Injuries,mesh-ancestor
+NCT03540030,Gabapentin,Shoulder Injuries,mesh-ancestor
+NCT03540030,Gabapentin,Tendon Injuries,mesh-ancestor
+NCT03498261,Gabapentin,"Pain, Postoperative",mesh-list
+NCT03498261,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT03498261,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT03498261,Gabapentin,Pain,mesh-ancestor
+NCT03498261,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT03476538,Gabapentin,"Obesity, Morbid",mesh-list
+NCT03476538,Gabapentin,Obesity,mesh-ancestor
+NCT03476538,Gabapentin,Overnutrition,mesh-ancestor
+NCT03476538,Gabapentin,Nutrition Disorders,mesh-ancestor
+NCT03476538,Gabapentin,Overweight,mesh-ancestor
+NCT03476538,Gabapentin,Body Weight,mesh-ancestor
+NCT03472469,Gabapentin,Wounds and Injuries,mesh-list
+NCT03346668,Gabapentin,Neurogenic Inflammation,mesh-list
+NCT03346668,Gabapentin,Alopecia,mesh-list
+NCT03346668,Gabapentin,Alopecia Areata,mesh-list
+NCT03346668,Gabapentin,Inflammation,mesh-list
+NCT03346668,Gabapentin,Cicatrix,mesh-list
+NCT03346668,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT03346668,Gabapentin,Hypotrichosis,mesh-ancestor
+NCT03346668,Gabapentin,Hair Diseases,mesh-ancestor
+NCT03346668,Gabapentin,Skin Diseases,mesh-ancestor
+NCT03346668,Gabapentin,"Pathological Conditions, Anatomical",mesh-ancestor
+NCT03346668,Gabapentin,Fibrosis,mesh-ancestor
+NCT03346668,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT03346668,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT03334903,Gabapentin,"Osteoarthritis, Knee",mesh-list
+NCT03334903,Gabapentin,Opioid-Related Disorders,mesh-list
+NCT03334903,Gabapentin,Osteoarthritis,mesh-ancestor
+NCT03334903,Gabapentin,Arthritis,mesh-ancestor
+NCT03334903,Gabapentin,Joint Diseases,mesh-ancestor
+NCT03334903,Gabapentin,Musculoskeletal Diseases,mesh-ancestor
+NCT03334903,Gabapentin,Rheumatic Diseases,mesh-ancestor
+NCT03334903,Gabapentin,Narcotic-Related Disorders,mesh-ancestor
+NCT03334903,Gabapentin,Substance-Related Disorders,mesh-ancestor
+NCT03334903,Gabapentin,Chemically-Induced Disorders,mesh-ancestor
+NCT03334903,Gabapentin,Mental Disorders,mesh-ancestor
+NCT03334721,Gabapentin,Disease,mesh-list
+NCT03334721,Gabapentin,Substance-Related Disorders,mesh-list
+NCT03334721,Gabapentin,Marijuana Abuse,mesh-list
+NCT03334721,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT03334721,Gabapentin,Chemically-Induced Disorders,mesh-ancestor
+NCT03334721,Gabapentin,Mental Disorders,mesh-ancestor
+NCT03274167,Gabapentin,Alcoholism,mesh-list
+NCT03274167,Gabapentin,Alcohol Drinking,mesh-list
+NCT03274167,Gabapentin,Drinking Behavior,mesh-ancestor
+NCT03274167,Gabapentin,Alcohol-Related Disorders,mesh-ancestor
+NCT03274167,Gabapentin,Substance-Related Disorders,mesh-ancestor
+NCT03274167,Gabapentin,Chemically-Induced Disorders,mesh-ancestor
+NCT03274167,Gabapentin,Mental Disorders,mesh-ancestor
+NCT03269344,Gabapentin,Oropharyngeal Neoplasms,mesh-list
+NCT03269344,Gabapentin,Pharyngeal Neoplasms,mesh-ancestor
+NCT03269344,Gabapentin,Otorhinolaryngologic Neoplasms,mesh-ancestor
+NCT03269344,Gabapentin,Head and Neck Neoplasms,mesh-ancestor
+NCT03269344,Gabapentin,Neoplasms by Site,mesh-ancestor
+NCT03269344,Gabapentin,Neoplasms,mesh-ancestor
+NCT03269344,Gabapentin,Pharyngeal Diseases,mesh-ancestor
+NCT03269344,Gabapentin,Stomatognathic Diseases,mesh-ancestor
+NCT03269344,Gabapentin,Otorhinolaryngologic Diseases,mesh-ancestor
+NCT03255330,Gabapentin,Spinal Cord Injuries,mesh-list
+NCT03255330,Gabapentin,Neuralgia,mesh-list
+NCT03255330,Gabapentin,Chronic Pain,mesh-list
+NCT03255330,Gabapentin,Wounds and Injuries,mesh-list
+NCT03255330,Gabapentin,Pain,mesh-ancestor
+NCT03255330,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT03255330,Gabapentin,Spinal Cord Diseases,mesh-ancestor
+NCT03255330,Gabapentin,Central Nervous System Diseases,mesh-ancestor
+NCT03255330,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT03255330,Gabapentin,"Trauma, Nervous System",mesh-ancestor
+NCT03255330,Gabapentin,Peripheral Nervous System Diseases,mesh-ancestor
+NCT03255330,Gabapentin,Neuromuscular Diseases,mesh-ancestor
+NCT03205423,Gabapentin,Disease,mesh-list
+NCT03205423,Gabapentin,Alcoholism,mesh-list
+NCT03205423,Gabapentin,Opioid-Related Disorders,mesh-list
+NCT03205423,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT03205423,Gabapentin,Alcohol-Related Disorders,mesh-ancestor
+NCT03205423,Gabapentin,Substance-Related Disorders,mesh-ancestor
+NCT03205423,Gabapentin,Chemically-Induced Disorders,mesh-ancestor
+NCT03205423,Gabapentin,Mental Disorders,mesh-ancestor
+NCT03205423,Gabapentin,Narcotic-Related Disorders,mesh-ancestor
+NCT03151746,Gabapentin,Urethral Obstruction,mesh-list
+NCT03151746,Gabapentin,"Pain, Postoperative",mesh-list
+NCT03151746,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT03151746,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT03151746,Gabapentin,Pain,mesh-ancestor
+NCT03151746,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT03151746,Gabapentin,Urethral Diseases,mesh-ancestor
+NCT03151746,Gabapentin,Urologic Diseases,mesh-ancestor
+NCT03123861,Gabapentin,Prolapse,mesh-list
+NCT03123861,Gabapentin,Pelvic Organ Prolapse,mesh-list
+NCT03123861,Gabapentin,"Pathological Conditions, Anatomical",mesh-ancestor
+NCT03120962,Gabapentin,Herpes Zoster,mesh-list
+NCT03120962,Gabapentin,Neuralgia,mesh-list
+NCT03120962,Gabapentin,"Neuralgia, Postherpetic",mesh-list
+NCT03120962,Gabapentin,Peripheral Nervous System Diseases,mesh-ancestor
+NCT03120962,Gabapentin,Neuromuscular Diseases,mesh-ancestor
+NCT03120962,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT03120962,Gabapentin,Pain,mesh-ancestor
+NCT03120962,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT03120962,Gabapentin,Varicella Zoster Virus Infection,mesh-ancestor
+NCT03120962,Gabapentin,Herpesviridae Infections,mesh-ancestor
+NCT03120962,Gabapentin,DNA Virus Infections,mesh-ancestor
+NCT03120962,Gabapentin,Virus Diseases,mesh-ancestor
+NCT03120962,Gabapentin,Infections,mesh-ancestor
+NCT03088306,Gabapentin,Spinal Stenosis,mesh-list
+NCT03088306,Gabapentin,Spinal Diseases,mesh-ancestor
+NCT03088306,Gabapentin,Bone Diseases,mesh-ancestor
+NCT03088306,Gabapentin,Musculoskeletal Diseases,mesh-ancestor
+NCT03082755,Gabapentin,Alzheimer Disease,mesh-list
+NCT03082755,Gabapentin,Restless Legs Syndrome,mesh-list
+NCT03082755,Gabapentin,Dementia,mesh-ancestor
+NCT03082755,Gabapentin,Brain Diseases,mesh-ancestor
+NCT03082755,Gabapentin,Central Nervous System Diseases,mesh-ancestor
+NCT03082755,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT03082755,Gabapentin,Tauopathies,mesh-ancestor
+NCT03082755,Gabapentin,Neurodegenerative Diseases,mesh-ancestor
+NCT03082755,Gabapentin,Neurocognitive Disorders,mesh-ancestor
+NCT03082755,Gabapentin,Mental Disorders,mesh-ancestor
+NCT03082755,Gabapentin,"Sleep Disorders, Intrinsic",mesh-ancestor
+NCT03082755,Gabapentin,Dyssomnias,mesh-ancestor
+NCT03082755,Gabapentin,Sleep Wake Disorders,mesh-ancestor
+NCT03082755,Gabapentin,Parasomnias,mesh-ancestor
+NCT03053427,Gabapentin,Psychomotor Agitation,mesh-list
+NCT03053427,Gabapentin,Restless Legs Syndrome,mesh-list
+NCT03053427,Gabapentin,Syndrome,mesh-list
+NCT03053427,Gabapentin,Disease,mesh-ancestor
+NCT03053427,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT03053427,Gabapentin,Dyskinesias,mesh-ancestor
+NCT03053427,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT03053427,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT03053427,Gabapentin,Psychomotor Disorders,mesh-ancestor
+NCT03053427,Gabapentin,Neurobehavioral Manifestations,mesh-ancestor
+NCT03053427,Gabapentin,"Sleep Disorders, Intrinsic",mesh-ancestor
+NCT03053427,Gabapentin,Dyssomnias,mesh-ancestor
+NCT03053427,Gabapentin,Sleep Wake Disorders,mesh-ancestor
+NCT03053427,Gabapentin,Parasomnias,mesh-ancestor
+NCT03053427,Gabapentin,Mental Disorders,mesh-ancestor
+NCT03047278,Gabapentin,Neuralgia,mesh-list
+NCT03047278,Gabapentin,Diabetic Neuropathies,mesh-list
+NCT03047278,Gabapentin,"Diabetes Mellitus, Type 2",mesh-list
+NCT03047278,Gabapentin,Diabetes Mellitus,mesh-ancestor
+NCT03047278,Gabapentin,Glucose Metabolism Disorders,mesh-ancestor
+NCT03047278,Gabapentin,Metabolic Diseases,mesh-ancestor
+NCT03047278,Gabapentin,Endocrine System Diseases,mesh-ancestor
+NCT03047278,Gabapentin,Peripheral Nervous System Diseases,mesh-ancestor
+NCT03047278,Gabapentin,Neuromuscular Diseases,mesh-ancestor
+NCT03047278,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT03047278,Gabapentin,Pain,mesh-ancestor
+NCT03047278,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT03047278,Gabapentin,Diabetes Complications,mesh-ancestor
+NCT03012815,Gabapentin,Syndrome,mesh-list
+NCT03012815,Gabapentin,Substance Withdrawal Syndrome,mesh-list
+NCT03012815,Gabapentin,Disease,mesh-ancestor
+NCT03012815,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT03012815,Gabapentin,Substance-Related Disorders,mesh-ancestor
+NCT03012815,Gabapentin,Chemically-Induced Disorders,mesh-ancestor
+NCT03012815,Gabapentin,Mental Disorders,mesh-ancestor
+NCT02987920,Gabapentin,"Pain, Postoperative",mesh-list
+NCT02987920,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT02987920,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT02987920,Gabapentin,Pain,mesh-ancestor
+NCT02987920,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT02977208,Gabapentin,Chronic Pain,mesh-list
+NCT02977208,Gabapentin,Pain,mesh-ancestor
+NCT02977208,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT02944656,Gabapentin,,
+NCT02927405,Gabapentin,"Pain, Postoperative",mesh-list
+NCT02927405,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT02927405,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT02927405,Gabapentin,Pain,mesh-ancestor
+NCT02927405,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT02918760,Gabapentin,Pelvic Pain,mesh-list
+NCT02918760,Gabapentin,Pain,mesh-ancestor
+NCT02918760,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT02856750,Gabapentin,Acute Pain,mesh-list
+NCT02856750,Gabapentin,Rib Fractures,mesh-list
+NCT02856750,Gabapentin,Pain,mesh-ancestor
+NCT02856750,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT02856750,Gabapentin,"Fractures, Bone",mesh-ancestor
+NCT02856750,Gabapentin,Wounds and Injuries,mesh-ancestor
+NCT02856750,Gabapentin,Thoracic Injuries,mesh-ancestor
+NCT02737826,Gabapentin,Chronic Pain,mesh-list
+NCT02737826,Gabapentin,Pain,mesh-ancestor
+NCT02737826,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT02693821,Gabapentin,"Pain, Postoperative",mesh-list
+NCT02693821,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT02693821,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT02693821,Gabapentin,Pain,mesh-ancestor
+NCT02693821,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT02685735,Gabapentin,,
+NCT02642484,Gabapentin,Muscle Cramp,mesh-list
+NCT02642484,Gabapentin,Liver Cirrhosis,mesh-list
+NCT02642484,Gabapentin,Spasm,mesh-list
+NCT02642484,Gabapentin,Fibrosis,mesh-list
+NCT02642484,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT02642484,Gabapentin,Liver Diseases,mesh-ancestor
+NCT02642484,Gabapentin,Digestive System Diseases,mesh-ancestor
+NCT02642484,Gabapentin,Muscular Diseases,mesh-ancestor
+NCT02642484,Gabapentin,Musculoskeletal Diseases,mesh-ancestor
+NCT02642484,Gabapentin,Neuromuscular Manifestations,mesh-ancestor
+NCT02642484,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT02642484,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT02599701,Gabapentin,,
+NCT02557945,Gabapentin,Psychotic Disorders,mesh-list
+NCT02557945,Gabapentin,Mental Disorders,mesh-list
+NCT02557945,Gabapentin,Schizophrenia Spectrum and Other Psychotic Disorders,mesh-ancestor
+NCT02525848,Gabapentin,Nausea,mesh-list
+NCT02525848,Gabapentin,Vomiting,mesh-list
+NCT02525848,Gabapentin,Postoperative Nausea and Vomiting,mesh-list
+NCT02525848,Gabapentin,"Signs and Symptoms, Digestive",mesh-ancestor
+NCT02525848,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT02525848,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT02490345,Gabapentin,"Pain, Postoperative",mesh-list
+NCT02490345,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT02490345,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT02490345,Gabapentin,Pain,mesh-ancestor
+NCT02490345,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT02466191,Gabapentin,Tremor,mesh-list
+NCT02466191,Gabapentin,"Nystagmus, Pathologic",mesh-list
+NCT02466191,Gabapentin,Dyskinesias,mesh-ancestor
+NCT02466191,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT02466191,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT02466191,Gabapentin,Ocular Motility Disorders,mesh-ancestor
+NCT02466191,Gabapentin,Cranial Nerve Diseases,mesh-ancestor
+NCT02466191,Gabapentin,Eye Diseases,mesh-ancestor
+NCT02419443,Gabapentin,Peripheral Nervous System Diseases,mesh-list
+NCT02419443,Gabapentin,Hernia,mesh-list
+NCT02419443,Gabapentin,"Hernia, Inguinal",mesh-list
+NCT02419443,Gabapentin,"Pathological Conditions, Anatomical",mesh-ancestor
+NCT02419443,Gabapentin,"Hernia, Abdominal",mesh-ancestor
+NCT02419443,Gabapentin,Neuromuscular Diseases,mesh-ancestor
+NCT02419443,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT02403687,Gabapentin,Tendinopathy,mesh-list
+NCT02403687,Gabapentin,Synovitis,mesh-list
+NCT02403687,Gabapentin,Radiculopathy,mesh-list
+NCT02403687,Gabapentin,Spasm,mesh-list
+NCT02403687,Gabapentin,Headache,mesh-list
+NCT02403687,Gabapentin,Joint Diseases,mesh-ancestor
+NCT02403687,Gabapentin,Musculoskeletal Diseases,mesh-ancestor
+NCT02403687,Gabapentin,Pain,mesh-ancestor
+NCT02403687,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT02403687,Gabapentin,Peripheral Nervous System Diseases,mesh-ancestor
+NCT02403687,Gabapentin,Neuromuscular Diseases,mesh-ancestor
+NCT02403687,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT02403687,Gabapentin,Muscular Diseases,mesh-ancestor
+NCT02403687,Gabapentin,Tendon Injuries,mesh-ancestor
+NCT02403687,Gabapentin,Wounds and Injuries,mesh-ancestor
+NCT02403687,Gabapentin,Neuromuscular Manifestations,mesh-ancestor
+NCT02374567,Gabapentin,Disease,mesh-list
+NCT02374567,Gabapentin,Psychophysiologic Disorders,mesh-list
+NCT02374567,Gabapentin,Schizophrenia,mesh-list
+NCT02374567,Gabapentin,Anxiety Disorders,mesh-list
+NCT02374567,Gabapentin,Somatoform Disorders,mesh-list
+NCT02374567,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT02374567,Gabapentin,Schizophrenia Spectrum and Other Psychotic Disorders,mesh-ancestor
+NCT02374567,Gabapentin,Mental Disorders,mesh-ancestor
+NCT02374567,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT02330094,Gabapentin,Subarachnoid Hemorrhage,mesh-list
+NCT02330094,Gabapentin,Hemorrhage,mesh-list
+NCT02330094,Gabapentin,Headache,mesh-list
+NCT02330094,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT02330094,Gabapentin,Pain,mesh-ancestor
+NCT02330094,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT02330094,Gabapentin,Intracranial Hemorrhages,mesh-ancestor
+NCT02330094,Gabapentin,Cerebrovascular Disorders,mesh-ancestor
+NCT02330094,Gabapentin,Brain Diseases,mesh-ancestor
+NCT02330094,Gabapentin,Central Nervous System Diseases,mesh-ancestor
+NCT02330094,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT02330094,Gabapentin,Vascular Diseases,mesh-ancestor
+NCT02330094,Gabapentin,Cardiovascular Diseases,mesh-ancestor
+NCT02219373,Gabapentin,Neuralgia,mesh-list
+NCT02219373,Gabapentin,Peripheral Nervous System Diseases,mesh-ancestor
+NCT02219373,Gabapentin,Neuromuscular Diseases,mesh-ancestor
+NCT02219373,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT02219373,Gabapentin,Pain,mesh-ancestor
+NCT02219373,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT02155257,Gabapentin,Osteoarthritis,mesh-list
+NCT02155257,Gabapentin,Arthritis,mesh-ancestor
+NCT02155257,Gabapentin,Joint Diseases,mesh-ancestor
+NCT02155257,Gabapentin,Musculoskeletal Diseases,mesh-ancestor
+NCT02155257,Gabapentin,Rheumatic Diseases,mesh-ancestor
+NCT02120703,Gabapentin,Intervertebral Disc Displacement,mesh-list
+NCT02120703,Gabapentin,Prolapse,mesh-list
+NCT02120703,Gabapentin,"Pathological Conditions, Anatomical",mesh-ancestor
+NCT02120703,Gabapentin,Spinal Diseases,mesh-ancestor
+NCT02120703,Gabapentin,Bone Diseases,mesh-ancestor
+NCT02120703,Gabapentin,Musculoskeletal Diseases,mesh-ancestor
+NCT02120703,Gabapentin,Hernia,mesh-ancestor
+NCT02110719,Gabapentin,Nausea,mesh-list
+NCT02110719,Gabapentin,Constipation,mesh-list
+NCT02110719,Gabapentin,"Signs and Symptoms, Digestive",mesh-ancestor
+NCT02052414,Gabapentin,Fibromyalgia,mesh-list
+NCT02052414,Gabapentin,Myofascial Pain Syndromes,mesh-list
+NCT02052414,Gabapentin,Muscular Diseases,mesh-ancestor
+NCT02052414,Gabapentin,Musculoskeletal Diseases,mesh-ancestor
+NCT02052414,Gabapentin,Rheumatic Diseases,mesh-ancestor
+NCT02052414,Gabapentin,Neuromuscular Diseases,mesh-ancestor
+NCT02052414,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT01966172,Gabapentin,Agnosia,mesh-list
+NCT01966172,Gabapentin,"Pain, Postoperative",mesh-list
+NCT01966172,Gabapentin,Perceptual Disorders,mesh-ancestor
+NCT01966172,Gabapentin,Neurobehavioral Manifestations,mesh-ancestor
+NCT01966172,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT01966172,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT01966172,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT01966172,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT01966172,Gabapentin,Pain,mesh-ancestor
+NCT01868425,Gabapentin,,
+NCT01848119,Gabapentin,,
+NCT01738893,Gabapentin,Epilepsy,mesh-list
+NCT01738893,Gabapentin,Brain Diseases,mesh-ancestor
+NCT01738893,Gabapentin,Central Nervous System Diseases,mesh-ancestor
+NCT01738893,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT01707420,Gabapentin,"Pain, Postoperative",mesh-list
+NCT01707420,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT01707420,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT01707420,Gabapentin,Pain,mesh-ancestor
+NCT01707420,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT01680549,Gabapentin,"Pain, Postoperative",mesh-list
+NCT01680549,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT01680549,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT01680549,Gabapentin,Pain,mesh-ancestor
+NCT01680549,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT01678586,Gabapentin,,
+NCT01675960,Gabapentin,Sleep Initiation and Maintenance Disorders,mesh-list
+NCT01675960,Gabapentin,Chronic Pain,mesh-list
+NCT01675960,Gabapentin,"Signs and Symptoms, Digestive",mesh-list
+NCT01675960,Gabapentin,Pain,mesh-ancestor
+NCT01675960,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT01675960,Gabapentin,"Sleep Disorders, Intrinsic",mesh-ancestor
+NCT01675960,Gabapentin,Dyssomnias,mesh-ancestor
+NCT01675960,Gabapentin,Sleep Wake Disorders,mesh-ancestor
+NCT01675960,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT01675960,Gabapentin,Mental Disorders,mesh-ancestor
+NCT01588314,Gabapentin,Neuralgia,mesh-list
+NCT01588314,Gabapentin,Fabry Disease,mesh-list
+NCT01588314,Gabapentin,Peripheral Nervous System Diseases,mesh-ancestor
+NCT01588314,Gabapentin,Neuromuscular Diseases,mesh-ancestor
+NCT01588314,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT01588314,Gabapentin,Pain,mesh-ancestor
+NCT01588314,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT01588314,Gabapentin,Sphingolipidoses,mesh-ancestor
+NCT01588314,Gabapentin,"Lysosomal Storage Diseases, Nervous System",mesh-ancestor
+NCT01588314,Gabapentin,"Brain Diseases, Metabolic, Inborn",mesh-ancestor
+NCT01588314,Gabapentin,"Brain Diseases, Metabolic",mesh-ancestor
+NCT01588314,Gabapentin,Brain Diseases,mesh-ancestor
+NCT01588314,Gabapentin,Central Nervous System Diseases,mesh-ancestor
+NCT01588314,Gabapentin,Cerebral Small Vessel Diseases,mesh-ancestor
+NCT01588314,Gabapentin,Cerebrovascular Disorders,mesh-ancestor
+NCT01588314,Gabapentin,Vascular Diseases,mesh-ancestor
+NCT01588314,Gabapentin,Cardiovascular Diseases,mesh-ancestor
+NCT01588314,Gabapentin,"Genetic Diseases, X-Linked",mesh-ancestor
+NCT01588314,Gabapentin,"Genetic Diseases, Inborn",mesh-ancestor
+NCT01588314,Gabapentin,"Metabolism, Inborn Errors",mesh-ancestor
+NCT01588314,Gabapentin,Lipidoses,mesh-ancestor
+NCT01588314,Gabapentin,"Lipid Metabolism, Inborn Errors",mesh-ancestor
+NCT01588314,Gabapentin,Lysosomal Storage Diseases,mesh-ancestor
+NCT01588314,Gabapentin,Metabolic Diseases,mesh-ancestor
+NCT01588314,Gabapentin,Lipid Metabolism Disorders,mesh-ancestor
+NCT01485185,Gabapentin,Neuralgia,mesh-list
+NCT01485185,Gabapentin,Peripheral Nervous System Diseases,mesh-ancestor
+NCT01485185,Gabapentin,Neuromuscular Diseases,mesh-ancestor
+NCT01485185,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT01485185,Gabapentin,Pain,mesh-ancestor
+NCT01485185,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT01507363,Gabapentin,"Pain, Postoperative",mesh-list
+NCT01507363,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT01507363,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT01507363,Gabapentin,Pain,mesh-ancestor
+NCT01507363,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT01495923,Gabapentin,Radiculopathy,mesh-list
+NCT01495923,Gabapentin,Sciatica,mesh-list
+NCT01495923,Gabapentin,Peripheral Nervous System Diseases,mesh-ancestor
+NCT01495923,Gabapentin,Neuromuscular Diseases,mesh-ancestor
+NCT01495923,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT01495923,Gabapentin,Sciatic Neuropathy,mesh-ancestor
+NCT01495923,Gabapentin,Mononeuropathies,mesh-ancestor
+NCT01495923,Gabapentin,Neuralgia,mesh-ancestor
+NCT01495923,Gabapentin,Pain,mesh-ancestor
+NCT01495923,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT01441531,Gabapentin,Hypertension,mesh-list
+NCT01441531,Gabapentin,Vascular Diseases,mesh-ancestor
+NCT01441531,Gabapentin,Cardiovascular Diseases,mesh-ancestor
+NCT01421264,Gabapentin,Sleep Initiation and Maintenance Disorders,mesh-list
+NCT01421264,Gabapentin,"Sleep Disorders, Intrinsic",mesh-ancestor
+NCT01421264,Gabapentin,Dyssomnias,mesh-ancestor
+NCT01421264,Gabapentin,Sleep Wake Disorders,mesh-ancestor
+NCT01421264,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT01421264,Gabapentin,Mental Disorders,mesh-ancestor
+NCT01364298,Gabapentin,Neuralgia,mesh-list
+NCT01364298,Gabapentin,Diabetic Neuropathies,mesh-list
+NCT01364298,Gabapentin,Peripheral Nervous System Diseases,mesh-ancestor
+NCT01364298,Gabapentin,Neuromuscular Diseases,mesh-ancestor
+NCT01364298,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT01364298,Gabapentin,Pain,mesh-ancestor
+NCT01364298,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT01364298,Gabapentin,Diabetes Complications,mesh-ancestor
+NCT01364298,Gabapentin,Diabetes Mellitus,mesh-ancestor
+NCT01364298,Gabapentin,Endocrine System Diseases,mesh-ancestor
+NCT01307202,Gabapentin,"Pain, Postoperative",mesh-list
+NCT01307202,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT01307202,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT01307202,Gabapentin,Pain,mesh-ancestor
+NCT01307202,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT01301001,Gabapentin,Vulvodynia,mesh-list
+NCT01301001,Gabapentin,Vulvar Diseases,mesh-ancestor
+NCT01263132,Gabapentin,Neuralgia,mesh-list
+NCT01263132,Gabapentin,Diabetic Neuropathies,mesh-list
+NCT01263132,Gabapentin,Polyneuropathies,mesh-list
+NCT01263132,Gabapentin,Peripheral Nervous System Diseases,mesh-ancestor
+NCT01263132,Gabapentin,Neuromuscular Diseases,mesh-ancestor
+NCT01263132,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT01263132,Gabapentin,Pain,mesh-ancestor
+NCT01263132,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT01263132,Gabapentin,Diabetes Complications,mesh-ancestor
+NCT01263132,Gabapentin,Diabetes Mellitus,mesh-ancestor
+NCT01263132,Gabapentin,Endocrine System Diseases,mesh-ancestor
+NCT01265056,Gabapentin,Burns,mesh-list
+NCT01265056,Gabapentin,Wounds and Injuries,mesh-ancestor
+NCT01255878,Gabapentin,Bruxism,mesh-list
+NCT01255878,Gabapentin,Sleep Bruxism,mesh-list
+NCT01255878,Gabapentin,Tooth Diseases,mesh-ancestor
+NCT01255878,Gabapentin,Stomatognathic Diseases,mesh-ancestor
+NCT01255878,Gabapentin,Parasomnias,mesh-ancestor
+NCT01255878,Gabapentin,Sleep Wake Disorders,mesh-ancestor
+NCT01255878,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT01255878,Gabapentin,Mental Disorders,mesh-ancestor
+NCT01250561,Gabapentin,Herpes Zoster,mesh-list
+NCT01250561,Gabapentin,Neuralgia,mesh-list
+NCT01250561,Gabapentin,"Neuralgia, Postherpetic",mesh-list
+NCT01250561,Gabapentin,Peripheral Nervous System Diseases,mesh-ancestor
+NCT01250561,Gabapentin,Neuromuscular Diseases,mesh-ancestor
+NCT01250561,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT01250561,Gabapentin,Pain,mesh-ancestor
+NCT01250561,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT01250561,Gabapentin,Varicella Zoster Virus Infection,mesh-ancestor
+NCT01250561,Gabapentin,Herpesviridae Infections,mesh-ancestor
+NCT01250561,Gabapentin,DNA Virus Infections,mesh-ancestor
+NCT01250561,Gabapentin,Virus Diseases,mesh-ancestor
+NCT01250561,Gabapentin,Infections,mesh-ancestor
+NCT01236859,Gabapentin,Pruritus,mesh-list
+NCT01236859,Gabapentin,Skin Diseases,mesh-ancestor
+NCT01236859,Gabapentin,Skin Manifestations,mesh-ancestor
+NCT01210079,Gabapentin,Hyperalgesia,mesh-list
+NCT01210079,Gabapentin,Somatosensory Disorders,mesh-ancestor
+NCT01210079,Gabapentin,Sensation Disorders,mesh-ancestor
+NCT01210079,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT01210079,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT01200641,Gabapentin,Cataract,mesh-list
+NCT01200641,Gabapentin,Lens Diseases,mesh-ancestor
+NCT01200641,Gabapentin,Eye Diseases,mesh-ancestor
+NCT01177514,Gabapentin,"Pain, Postoperative",mesh-list
+NCT01177514,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT01177514,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT01177514,Gabapentin,Pain,mesh-ancestor
+NCT01177514,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT01143766,Gabapentin,,
+NCT01138124,Gabapentin,Pancreatic Neoplasms,mesh-list
+NCT01138124,Gabapentin,"Carcinoma, Renal Cell",mesh-list
+NCT01138124,Gabapentin,Kidney Neoplasms,mesh-list
+NCT01138124,Gabapentin,Pelvic Neoplasms,mesh-list
+NCT01138124,Gabapentin,Pancreatitis,mesh-list
+NCT01138124,Gabapentin,"Pancreatitis, Chronic",mesh-list
+NCT01138124,Gabapentin,Neuralgia,mesh-list
+NCT01138124,Gabapentin,Restless Legs Syndrome,mesh-list
+NCT01138124,Gabapentin,Carcinoma,mesh-ancestor
+NCT01138124,Gabapentin,"Neoplasms, Glandular and Epithelial",mesh-ancestor
+NCT01138124,Gabapentin,Neoplasms by Histologic Type,mesh-ancestor
+NCT01138124,Gabapentin,Neoplasms,mesh-ancestor
+NCT01138124,Gabapentin,Digestive System Neoplasms,mesh-ancestor
+NCT01138124,Gabapentin,Neoplasms by Site,mesh-ancestor
+NCT01138124,Gabapentin,Endocrine Gland Neoplasms,mesh-ancestor
+NCT01138124,Gabapentin,Digestive System Diseases,mesh-ancestor
+NCT01138124,Gabapentin,Pancreatic Diseases,mesh-ancestor
+NCT01138124,Gabapentin,Endocrine System Diseases,mesh-ancestor
+NCT01138124,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT01138124,Gabapentin,Adenocarcinoma,mesh-ancestor
+NCT01138124,Gabapentin,Urologic Neoplasms,mesh-ancestor
+NCT01138124,Gabapentin,Urogenital Neoplasms,mesh-ancestor
+NCT01138124,Gabapentin,Kidney Diseases,mesh-ancestor
+NCT01138124,Gabapentin,Urologic Diseases,mesh-ancestor
+NCT01138124,Gabapentin,Peripheral Nervous System Diseases,mesh-ancestor
+NCT01138124,Gabapentin,Neuromuscular Diseases,mesh-ancestor
+NCT01138124,Gabapentin,Pain,mesh-ancestor
+NCT01138124,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT01138124,Gabapentin,"Sleep Disorders, Intrinsic",mesh-ancestor
+NCT01138124,Gabapentin,Dyssomnias,mesh-ancestor
+NCT01138124,Gabapentin,Sleep Wake Disorders,mesh-ancestor
+NCT01138124,Gabapentin,Parasomnias,mesh-ancestor
+NCT01138124,Gabapentin,Mental Disorders,mesh-ancestor
+NCT01119222,Gabapentin,,
+NCT01094925,Gabapentin,"Pain, Postoperative",mesh-list
+NCT01094925,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT01094925,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT01094925,Gabapentin,Pain,mesh-ancestor
+NCT01094925,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT01092520,Gabapentin,Pruritus,mesh-list
+NCT01092520,Gabapentin,Burns,mesh-list
+NCT01092520,Gabapentin,Skin Diseases,mesh-ancestor
+NCT01092520,Gabapentin,Skin Manifestations,mesh-ancestor
+NCT01092520,Gabapentin,Wounds and Injuries,mesh-ancestor
+NCT01052844,Gabapentin,Vomiting,mesh-list
+NCT01052844,Gabapentin,"Signs and Symptoms, Digestive",mesh-ancestor
+NCT01022736,Gabapentin,,
+NCT01020162,Gabapentin,Pelvic Pain,mesh-list
+NCT01020162,Gabapentin,Pain,mesh-ancestor
+NCT01020162,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT01014520,Gabapentin,Intervertebral Disc Displacement,mesh-list
+NCT01014520,Gabapentin,"Pain, Postoperative",mesh-list
+NCT01014520,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT01014520,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT01014520,Gabapentin,Pain,mesh-ancestor
+NCT01014520,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT01014520,Gabapentin,Spinal Diseases,mesh-ancestor
+NCT01014520,Gabapentin,Bone Diseases,mesh-ancestor
+NCT01014520,Gabapentin,Musculoskeletal Diseases,mesh-ancestor
+NCT01014520,Gabapentin,Hernia,mesh-ancestor
+NCT01014520,Gabapentin,"Pathological Conditions, Anatomical",mesh-ancestor
+NCT00987779,Gabapentin,,
+NCT00967707,Gabapentin,Neuralgia,mesh-list
+NCT00967707,Gabapentin,Peripheral Nervous System Diseases,mesh-ancestor
+NCT00967707,Gabapentin,Neuromuscular Diseases,mesh-ancestor
+NCT00967707,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT00967707,Gabapentin,Pain,mesh-ancestor
+NCT00967707,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT00954187,Gabapentin,"Pain, Postoperative",mesh-list
+NCT00954187,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT00954187,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT00954187,Gabapentin,Pain,mesh-ancestor
+NCT00954187,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT00928954,Gabapentin,"Nystagmus, Pathologic",mesh-list
+NCT00928954,Gabapentin,Ocular Motility Disorders,mesh-ancestor
+NCT00928954,Gabapentin,Cranial Nerve Diseases,mesh-ancestor
+NCT00928954,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT00928954,Gabapentin,Eye Diseases,mesh-ancestor
+NCT00934193,Gabapentin,,
+NCT00904202,Gabapentin,Peripheral Nervous System Diseases,mesh-list
+NCT00904202,Gabapentin,Neuralgia,mesh-list
+NCT00904202,Gabapentin,Carpal Tunnel Syndrome,mesh-list
+NCT00904202,Gabapentin,Diabetic Neuropathies,mesh-list
+NCT00904202,Gabapentin,Complex Regional Pain Syndromes,mesh-list
+NCT00904202,Gabapentin,Reflex Sympathetic Dystrophy,mesh-list
+NCT00904202,Gabapentin,"Neuralgia, Postherpetic",mesh-list
+NCT00904202,Gabapentin,Syndrome,mesh-list
+NCT00904202,Gabapentin,Disease,mesh-ancestor
+NCT00904202,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT00904202,Gabapentin,Neuromuscular Diseases,mesh-ancestor
+NCT00904202,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT00904202,Gabapentin,Pain,mesh-ancestor
+NCT00904202,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT00904202,Gabapentin,Median Neuropathy,mesh-ancestor
+NCT00904202,Gabapentin,Mononeuropathies,mesh-ancestor
+NCT00904202,Gabapentin,Nerve Compression Syndromes,mesh-ancestor
+NCT00904202,Gabapentin,Cumulative Trauma Disorders,mesh-ancestor
+NCT00904202,Gabapentin,Sprains and Strains,mesh-ancestor
+NCT00904202,Gabapentin,Wounds and Injuries,mesh-ancestor
+NCT00904202,Gabapentin,Diabetes Complications,mesh-ancestor
+NCT00904202,Gabapentin,Diabetes Mellitus,mesh-ancestor
+NCT00904202,Gabapentin,Endocrine System Diseases,mesh-ancestor
+NCT00904202,Gabapentin,Autonomic Nervous System Diseases,mesh-ancestor
+NCT00885586,Gabapentin,Herpes Zoster,mesh-list
+NCT00885586,Gabapentin,Neuralgia,mesh-list
+NCT00885586,Gabapentin,"Neuralgia, Postherpetic",mesh-list
+NCT00885586,Gabapentin,Herpesviridae Infections,mesh-ancestor
+NCT00885586,Gabapentin,DNA Virus Infections,mesh-ancestor
+NCT00885586,Gabapentin,Virus Diseases,mesh-ancestor
+NCT00885586,Gabapentin,Infections,mesh-ancestor
+NCT00885586,Gabapentin,Peripheral Nervous System Diseases,mesh-ancestor
+NCT00885586,Gabapentin,Neuromuscular Diseases,mesh-ancestor
+NCT00885586,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT00885586,Gabapentin,Pain,mesh-ancestor
+NCT00885586,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT00885586,Gabapentin,Varicella Zoster Virus Infection,mesh-ancestor
+NCT00880191,Gabapentin,Nausea,mesh-list
+NCT00880191,Gabapentin,Vomiting,mesh-list
+NCT00880191,Gabapentin,"Signs and Symptoms, Digestive",mesh-ancestor
+NCT00864760,Gabapentin,,
+NCT00865631,Gabapentin,,
+NCT00864058,Gabapentin,,
+NCT00855738,Gabapentin,Epilepsy,mesh-list
+NCT00855738,Gabapentin,"Epilepsies, Partial",mesh-list
+NCT00855738,Gabapentin,Brain Diseases,mesh-ancestor
+NCT00855738,Gabapentin,Central Nervous System Diseases,mesh-ancestor
+NCT00855738,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT00799149,Gabapentin,,
+NCT00800527,Gabapentin,Paresthesia,mesh-list
+NCT00800527,Gabapentin,Chest Pain,mesh-list
+NCT00800527,Gabapentin,Pain,mesh-ancestor
+NCT00800527,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT00800527,Gabapentin,Somatosensory Disorders,mesh-ancestor
+NCT00800527,Gabapentin,Sensation Disorders,mesh-ancestor
+NCT00800527,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT00785772,Gabapentin,Renal Insufficiency,mesh-list
+NCT00785772,Gabapentin,Kidney Diseases,mesh-ancestor
+NCT00785772,Gabapentin,Urologic Diseases,mesh-ancestor
+NCT00777023,Gabapentin,Hot Flashes,mesh-list
+NCT00735124,Gabapentin,"Pain, Postoperative",mesh-list
+NCT00735124,Gabapentin,"Hernia, Inguinal",mesh-list
+NCT00735124,Gabapentin,Hernia,mesh-ancestor
+NCT00735124,Gabapentin,"Pathological Conditions, Anatomical",mesh-ancestor
+NCT00735124,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT00735124,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT00735124,Gabapentin,Pain,mesh-ancestor
+NCT00735124,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT00735124,Gabapentin,"Hernia, Abdominal",mesh-ancestor
+NCT00712439,Gabapentin,Peripheral Nervous System Diseases,mesh-list
+NCT00712439,Gabapentin,Diabetic Neuropathies,mesh-list
+NCT00712439,Gabapentin,Neuromuscular Diseases,mesh-ancestor
+NCT00712439,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT00712439,Gabapentin,Diabetes Complications,mesh-ancestor
+NCT00712439,Gabapentin,Diabetes Mellitus,mesh-ancestor
+NCT00712439,Gabapentin,Endocrine System Diseases,mesh-ancestor
+NCT00711529,Gabapentin,Breast Neoplasms,mesh-list
+NCT00711529,Gabapentin,Hot Flashes,mesh-list
+NCT00711529,Gabapentin,Neoplasms by Site,mesh-ancestor
+NCT00711529,Gabapentin,Neoplasms,mesh-ancestor
+NCT00711529,Gabapentin,Breast Diseases,mesh-ancestor
+NCT00711529,Gabapentin,Skin Diseases,mesh-ancestor
+NCT00674687,Gabapentin,Neuralgia,mesh-list
+NCT00674687,Gabapentin,"Neuralgia, Postherpetic",mesh-list
+NCT00674687,Gabapentin,Peripheral Nervous System Diseases,mesh-ancestor
+NCT00674687,Gabapentin,Neuromuscular Diseases,mesh-ancestor
+NCT00674687,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT00674687,Gabapentin,Pain,mesh-ancestor
+NCT00674687,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT00674752,Gabapentin,Sleep Initiation and Maintenance Disorders,mesh-list
+NCT00674752,Gabapentin,"Sleep Disorders, Intrinsic",mesh-ancestor
+NCT00674752,Gabapentin,Dyssomnias,mesh-ancestor
+NCT00674752,Gabapentin,Sleep Wake Disorders,mesh-ancestor
+NCT00674752,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT00674752,Gabapentin,Mental Disorders,mesh-ancestor
+NCT00666939,Gabapentin,Sleep Initiation and Maintenance Disorders,mesh-list
+NCT00666939,Gabapentin,"Sleep Disorders, Intrinsic",mesh-ancestor
+NCT00666939,Gabapentin,Dyssomnias,mesh-ancestor
+NCT00666939,Gabapentin,Sleep Wake Disorders,mesh-ancestor
+NCT00666939,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT00666939,Gabapentin,Mental Disorders,mesh-ancestor
+NCT00659100,Gabapentin,Sleep Initiation and Maintenance Disorders,mesh-list
+NCT00659100,Gabapentin,"Sleep Disorders, Intrinsic",mesh-ancestor
+NCT00659100,Gabapentin,Dyssomnias,mesh-ancestor
+NCT00659100,Gabapentin,Sleep Wake Disorders,mesh-ancestor
+NCT00659100,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT00659100,Gabapentin,Mental Disorders,mesh-ancestor
+NCT00654953,Gabapentin,Cocaine-Related Disorders,mesh-list
+NCT00654953,Gabapentin,Depression,mesh-list
+NCT00654953,Gabapentin,Behavioral Symptoms,mesh-ancestor
+NCT00654953,Gabapentin,Substance-Related Disorders,mesh-ancestor
+NCT00654953,Gabapentin,Chemically-Induced Disorders,mesh-ancestor
+NCT00654953,Gabapentin,Mental Disorders,mesh-ancestor
+NCT00644748,Gabapentin,Diabetic Neuropathies,mesh-list
+NCT00644748,Gabapentin,Peripheral Nervous System Diseases,mesh-ancestor
+NCT00644748,Gabapentin,Neuromuscular Diseases,mesh-ancestor
+NCT00644748,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT00644748,Gabapentin,Diabetes Complications,mesh-ancestor
+NCT00644748,Gabapentin,Diabetes Mellitus,mesh-ancestor
+NCT00644748,Gabapentin,Endocrine System Diseases,mesh-ancestor
+NCT00634543,Gabapentin,Peripheral Nervous System Diseases,mesh-list
+NCT00634543,Gabapentin,Diabetic Neuropathies,mesh-list
+NCT00634543,Gabapentin,Neuromuscular Diseases,mesh-ancestor
+NCT00634543,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT00634543,Gabapentin,Diabetes Complications,mesh-ancestor
+NCT00634543,Gabapentin,Diabetes Mellitus,mesh-ancestor
+NCT00634543,Gabapentin,Endocrine System Diseases,mesh-ancestor
+NCT00636636,Gabapentin,Neuralgia,mesh-list
+NCT00636636,Gabapentin,"Neuralgia, Postherpetic",mesh-list
+NCT00636636,Gabapentin,Peripheral Nervous System Diseases,mesh-ancestor
+NCT00636636,Gabapentin,Neuromuscular Diseases,mesh-ancestor
+NCT00636636,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT00636636,Gabapentin,Pain,mesh-ancestor
+NCT00636636,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT00022074,Gabapentin,Breast Neoplasms,mesh-list
+NCT00022074,Gabapentin,Hot Flashes,mesh-list
+NCT00022074,Gabapentin,Depression,mesh-list
+NCT00022074,Gabapentin,Anxiety Disorders,mesh-list
+NCT00022074,Gabapentin,Neoplasms by Site,mesh-ancestor
+NCT00022074,Gabapentin,Neoplasms,mesh-ancestor
+NCT00022074,Gabapentin,Breast Diseases,mesh-ancestor
+NCT00022074,Gabapentin,Skin Diseases,mesh-ancestor
+NCT00022074,Gabapentin,Behavioral Symptoms,mesh-ancestor
+NCT00022074,Gabapentin,Mental Disorders,mesh-ancestor
+NCT00007670,Gabapentin,Seizures,mesh-list
+NCT00007670,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT00007670,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT00001482,Gabapentin,Disease,mesh-list
+NCT00001482,Gabapentin,Anxiety Disorders,mesh-list
+NCT00001482,Gabapentin,Mental Disorders,mesh-list
+NCT00001482,Gabapentin,Psychotic Disorders,mesh-list
+NCT00001482,Gabapentin,Mood Disorders,mesh-list
+NCT00001482,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT00001482,Gabapentin,Schizophrenia Spectrum and Other Psychotic Disorders,mesh-ancestor
+NCT04865042,Gabapentin,Radiculopathy,mesh-list
+NCT04865042,Gabapentin,Hernia,mesh-list
+NCT04865042,Gabapentin,Peripheral Nervous System Diseases,mesh-ancestor
+NCT04865042,Gabapentin,Neuromuscular Diseases,mesh-ancestor
+NCT04865042,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT04865042,Gabapentin,"Pathological Conditions, Anatomical",mesh-ancestor
+NCT03351439,Gabapentin,,
+NCT04939987,Gabapentin,,
+NCT05100160,Gabapentin,Lung Diseases,mesh-list
+NCT05100160,Gabapentin,Respiratory Tract Diseases,mesh-ancestor
+NCT04976374,Gabapentin,"Pain, Postoperative",mesh-list
+NCT04976374,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT04976374,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT04976374,Gabapentin,Pain,mesh-ancestor
+NCT04976374,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT03511118,Gabapentin,,
+NCT04256603,Gabapentin,Spinal Cord Injuries,mesh-list
+NCT04256603,Gabapentin,Neuralgia,mesh-list
+NCT04256603,Gabapentin,Wounds and Injuries,mesh-ancestor
+NCT04256603,Gabapentin,Spinal Cord Diseases,mesh-ancestor
+NCT04256603,Gabapentin,Central Nervous System Diseases,mesh-ancestor
+NCT04256603,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT04256603,Gabapentin,"Trauma, Nervous System",mesh-ancestor
+NCT04256603,Gabapentin,Peripheral Nervous System Diseases,mesh-ancestor
+NCT04256603,Gabapentin,Neuromuscular Diseases,mesh-ancestor
+NCT04256603,Gabapentin,Pain,mesh-ancestor
+NCT04256603,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT03423264,Gabapentin,"Carcinoma, Squamous Cell",mesh-list
+NCT03423264,Gabapentin,Oropharyngeal Neoplasms,mesh-list
+NCT03423264,Gabapentin,Carcinoma,mesh-ancestor
+NCT03423264,Gabapentin,"Neoplasms, Glandular and Epithelial",mesh-ancestor
+NCT03423264,Gabapentin,Neoplasms by Histologic Type,mesh-ancestor
+NCT03423264,Gabapentin,Neoplasms,mesh-ancestor
+NCT03423264,Gabapentin,"Neoplasms, Squamous Cell",mesh-ancestor
+NCT03423264,Gabapentin,Pharyngeal Neoplasms,mesh-ancestor
+NCT03423264,Gabapentin,Otorhinolaryngologic Neoplasms,mesh-ancestor
+NCT03423264,Gabapentin,Head and Neck Neoplasms,mesh-ancestor
+NCT03423264,Gabapentin,Neoplasms by Site,mesh-ancestor
+NCT03423264,Gabapentin,Pharyngeal Diseases,mesh-ancestor
+NCT03423264,Gabapentin,Stomatognathic Diseases,mesh-ancestor
+NCT03423264,Gabapentin,Otorhinolaryngologic Diseases,mesh-ancestor
+NCT02117076,Gabapentin,Psychomotor Agitation,mesh-list
+NCT02117076,Gabapentin,Restless Legs Syndrome,mesh-list
+NCT02117076,Gabapentin,Syndrome,mesh-list
+NCT02117076,Gabapentin,Disease,mesh-ancestor
+NCT02117076,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT02117076,Gabapentin,Dyskinesias,mesh-ancestor
+NCT02117076,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT02117076,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT02117076,Gabapentin,Psychomotor Disorders,mesh-ancestor
+NCT02117076,Gabapentin,Neurobehavioral Manifestations,mesh-ancestor
+NCT02117076,Gabapentin,"Sleep Disorders, Intrinsic",mesh-ancestor
+NCT02117076,Gabapentin,Dyssomnias,mesh-ancestor
+NCT02117076,Gabapentin,Sleep Wake Disorders,mesh-ancestor
+NCT02117076,Gabapentin,Parasomnias,mesh-ancestor
+NCT02117076,Gabapentin,Mental Disorders,mesh-ancestor
+NCT05063656,Gabapentin,Autistic Disorder,mesh-list
+NCT05063656,Gabapentin,Autism Spectrum Disorder,mesh-list
+NCT05063656,Gabapentin,"Child Development Disorders, Pervasive",mesh-list
+NCT05063656,Gabapentin,Neurodevelopmental Disorders,mesh-ancestor
+NCT05063656,Gabapentin,Mental Disorders,mesh-ancestor
+NCT05024825,Gabapentin,"Pain, Postoperative",mesh-list
+NCT05024825,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT05024825,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT05024825,Gabapentin,Pain,mesh-ancestor
+NCT05024825,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT04818450,Gabapentin,Sleep Deprivation,mesh-list
+NCT04818450,Gabapentin,Critical Illness,mesh-list
+NCT04818450,Gabapentin,Disease Attributes,mesh-ancestor
+NCT04818450,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT04818450,Gabapentin,Dyssomnias,mesh-ancestor
+NCT04818450,Gabapentin,Sleep Wake Disorders,mesh-ancestor
+NCT04818450,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT04818450,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT04818450,Gabapentin,Mental Disorders,mesh-ancestor
+NCT04705480,Gabapentin,Wounds and Injuries,mesh-list
+NCT04619862,Gabapentin,Neuralgia,mesh-list
+NCT04619862,Gabapentin,Peripheral Nervous System Diseases,mesh-ancestor
+NCT04619862,Gabapentin,Neuromuscular Diseases,mesh-ancestor
+NCT04619862,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT04619862,Gabapentin,Pain,mesh-ancestor
+NCT04619862,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT04658732,Gabapentin,,
+NCT04653415,Gabapentin,"Osteoarthritis, Knee",mesh-list
+NCT04653415,Gabapentin,"Pain, Postoperative",mesh-list
+NCT04653415,Gabapentin,Osteoarthritis,mesh-ancestor
+NCT04653415,Gabapentin,Arthritis,mesh-ancestor
+NCT04653415,Gabapentin,Joint Diseases,mesh-ancestor
+NCT04653415,Gabapentin,Musculoskeletal Diseases,mesh-ancestor
+NCT04653415,Gabapentin,Rheumatic Diseases,mesh-ancestor
+NCT04653415,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT04653415,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT04653415,Gabapentin,Pain,mesh-ancestor
+NCT04653415,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT04650204,Gabapentin,Glioma,mesh-list
+NCT04650204,Gabapentin,Epilepsy,mesh-list
+NCT04650204,Gabapentin,Seizures,mesh-list
+NCT04650204,Gabapentin,"Epilepsies, Partial",mesh-list
+NCT04650204,Gabapentin,Drug Resistant Epilepsy,mesh-list
+NCT04650204,Gabapentin,"Neoplasms, Neuroepithelial",mesh-ancestor
+NCT04650204,Gabapentin,Neuroectodermal Tumors,mesh-ancestor
+NCT04650204,Gabapentin,"Neoplasms, Germ Cell and Embryonal",mesh-ancestor
+NCT04650204,Gabapentin,Neoplasms by Histologic Type,mesh-ancestor
+NCT04650204,Gabapentin,Neoplasms,mesh-ancestor
+NCT04650204,Gabapentin,"Neoplasms, Glandular and Epithelial",mesh-ancestor
+NCT04650204,Gabapentin,"Neoplasms, Nerve Tissue",mesh-ancestor
+NCT04650204,Gabapentin,Brain Diseases,mesh-ancestor
+NCT04650204,Gabapentin,Central Nervous System Diseases,mesh-ancestor
+NCT04650204,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT04650204,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT04631510,Gabapentin,Critical Illness,mesh-list
+NCT04631510,Gabapentin,Disease Attributes,mesh-ancestor
+NCT04631510,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT04622618,Gabapentin,Nausea,mesh-list
+NCT04622618,Gabapentin,Vomiting,mesh-list
+NCT04622618,Gabapentin,"Pain, Postoperative",mesh-list
+NCT04622618,Gabapentin,Postoperative Nausea and Vomiting,mesh-list
+NCT04622618,Gabapentin,"Signs and Symptoms, Digestive",mesh-ancestor
+NCT04622618,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT04622618,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT04622618,Gabapentin,Pain,mesh-ancestor
+NCT04622618,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT04613024,Gabapentin,Weight Loss,mesh-list
+NCT04613024,Gabapentin,"Pain, Postoperative",mesh-list
+NCT04613024,Gabapentin,Body Weight Changes,mesh-ancestor
+NCT04613024,Gabapentin,Body Weight,mesh-ancestor
+NCT04613024,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT04613024,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT04613024,Gabapentin,Pain,mesh-ancestor
+NCT04613024,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT04434430,Gabapentin,,
+NCT04345432,Gabapentin,Postural Orthostatic Tachycardia Syndrome,mesh-list
+NCT04345432,Gabapentin,Tachycardia,mesh-list
+NCT04345432,Gabapentin,Syndrome,mesh-list
+NCT04345432,Gabapentin,Disease,mesh-ancestor
+NCT04345432,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT04345432,Gabapentin,"Arrhythmias, Cardiac",mesh-ancestor
+NCT04345432,Gabapentin,Heart Diseases,mesh-ancestor
+NCT04345432,Gabapentin,Cardiovascular Diseases,mesh-ancestor
+NCT04345432,Gabapentin,Cardiac Conduction System Disease,mesh-ancestor
+NCT04345432,Gabapentin,Orthostatic Intolerance,mesh-ancestor
+NCT04345432,Gabapentin,Primary Dysautonomias,mesh-ancestor
+NCT04345432,Gabapentin,Autonomic Nervous System Diseases,mesh-ancestor
+NCT04345432,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT04292171,Gabapentin,,
+NCT04246697,Gabapentin,Head and Neck Neoplasms,mesh-list
+NCT04246697,Gabapentin,Neoplasms by Site,mesh-ancestor
+NCT04246697,Gabapentin,Neoplasms,mesh-ancestor
+NCT04230980,Gabapentin,Azoospermia,mesh-list
+NCT04230980,Gabapentin,"Pain, Postoperative",mesh-list
+NCT04230980,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT04230980,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT04230980,Gabapentin,Pain,mesh-ancestor
+NCT04230980,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT04230980,Gabapentin,"Infertility, Male",mesh-ancestor
+NCT04230980,Gabapentin,Infertility,mesh-ancestor
+NCT04144933,Gabapentin,,
+NCT04106011,Gabapentin,Neuralgia,mesh-list
+NCT04106011,Gabapentin,Peripheral Nervous System Diseases,mesh-ancestor
+NCT04106011,Gabapentin,Neuromuscular Diseases,mesh-ancestor
+NCT04106011,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT04106011,Gabapentin,Pain,mesh-ancestor
+NCT04106011,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT04068506,Gabapentin,Hand Injuries,mesh-list
+NCT04068506,Gabapentin,Wounds and Injuries,mesh-ancestor
+NCT04052139,Gabapentin,Chronic Pain,mesh-list
+NCT04052139,Gabapentin,Pain,mesh-ancestor
+NCT04052139,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT04025203,Gabapentin,Carpal Tunnel Syndrome,mesh-list
+NCT04025203,Gabapentin,Syndrome,mesh-list
+NCT04025203,Gabapentin,Disease,mesh-ancestor
+NCT04025203,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT04025203,Gabapentin,Median Neuropathy,mesh-ancestor
+NCT04025203,Gabapentin,Mononeuropathies,mesh-ancestor
+NCT04025203,Gabapentin,Peripheral Nervous System Diseases,mesh-ancestor
+NCT04025203,Gabapentin,Neuromuscular Diseases,mesh-ancestor
+NCT04025203,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT04025203,Gabapentin,Nerve Compression Syndromes,mesh-ancestor
+NCT04025203,Gabapentin,Cumulative Trauma Disorders,mesh-ancestor
+NCT04025203,Gabapentin,Sprains and Strains,mesh-ancestor
+NCT04025203,Gabapentin,Wounds and Injuries,mesh-ancestor
+NCT03867240,Gabapentin,Scoliosis,mesh-list
+NCT03867240,Gabapentin,"Pain, Postoperative",mesh-list
+NCT03867240,Gabapentin,Spinal Curvatures,mesh-ancestor
+NCT03867240,Gabapentin,Spinal Diseases,mesh-ancestor
+NCT03867240,Gabapentin,Bone Diseases,mesh-ancestor
+NCT03867240,Gabapentin,Musculoskeletal Diseases,mesh-ancestor
+NCT03867240,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT03867240,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT03867240,Gabapentin,Pain,mesh-ancestor
+NCT03867240,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT03859024,Gabapentin,Urethral Stricture,mesh-list
+NCT03859024,Gabapentin,"Pain, Postoperative",mesh-list
+NCT03859024,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT03859024,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT03859024,Gabapentin,Pain,mesh-ancestor
+NCT03859024,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT03859024,Gabapentin,Urethral Obstruction,mesh-ancestor
+NCT03859024,Gabapentin,Urethral Diseases,mesh-ancestor
+NCT03859024,Gabapentin,Urologic Diseases,mesh-ancestor
+NCT03850093,Gabapentin,,
+NCT03825809,Gabapentin,,
+NCT03818932,Gabapentin,Anterior Cruciate Ligament Injuries,mesh-list
+NCT03818932,Gabapentin,Knee Injuries,mesh-ancestor
+NCT03818932,Gabapentin,Leg Injuries,mesh-ancestor
+NCT03818932,Gabapentin,Wounds and Injuries,mesh-ancestor
+NCT03758079,Gabapentin,Pruritus,mesh-list
+NCT03758079,Gabapentin,Skin Diseases,mesh-ancestor
+NCT03758079,Gabapentin,Skin Manifestations,mesh-ancestor
+NCT03749642,Gabapentin,Diabetic Neuropathies,mesh-list
+NCT03749642,Gabapentin,Pain,mesh-list
+NCT03749642,Gabapentin,Peripheral Nervous System Diseases,mesh-ancestor
+NCT03749642,Gabapentin,Neuromuscular Diseases,mesh-ancestor
+NCT03749642,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT03749642,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT03749642,Gabapentin,Diabetes Complications,mesh-ancestor
+NCT03749642,Gabapentin,Diabetes Mellitus,mesh-ancestor
+NCT03749642,Gabapentin,Endocrine System Diseases,mesh-ancestor
+NCT03708237,Gabapentin,Psychomotor Agitation,mesh-list
+NCT03708237,Gabapentin,Restless Legs Syndrome,mesh-list
+NCT03708237,Gabapentin,"Kidney Failure, Chronic",mesh-list
+NCT03708237,Gabapentin,Kidney Diseases,mesh-ancestor
+NCT03708237,Gabapentin,Urologic Diseases,mesh-ancestor
+NCT03708237,Gabapentin,"Renal Insufficiency, Chronic",mesh-ancestor
+NCT03708237,Gabapentin,Renal Insufficiency,mesh-ancestor
+NCT03708237,Gabapentin,Dyskinesias,mesh-ancestor
+NCT03708237,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT03708237,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT03708237,Gabapentin,Psychomotor Disorders,mesh-ancestor
+NCT03708237,Gabapentin,Neurobehavioral Manifestations,mesh-ancestor
+NCT03708237,Gabapentin,"Sleep Disorders, Intrinsic",mesh-ancestor
+NCT03708237,Gabapentin,Dyssomnias,mesh-ancestor
+NCT03708237,Gabapentin,Sleep Wake Disorders,mesh-ancestor
+NCT03708237,Gabapentin,Parasomnias,mesh-ancestor
+NCT03708237,Gabapentin,Mental Disorders,mesh-ancestor
+NCT03682367,Gabapentin,Head and Neck Neoplasms,mesh-list
+NCT03682367,Gabapentin,Neoplasms by Site,mesh-ancestor
+NCT03682367,Gabapentin,Neoplasms,mesh-ancestor
+NCT03589898,Gabapentin,Autistic Disorder,mesh-list
+NCT03589898,Gabapentin,Autism Spectrum Disorder,mesh-list
+NCT03589898,Gabapentin,"Child Development Disorders, Pervasive",mesh-list
+NCT03589898,Gabapentin,Neurodevelopmental Disorders,mesh-ancestor
+NCT03589898,Gabapentin,Mental Disorders,mesh-ancestor
+NCT03521167,Gabapentin,,
+NCT03496389,Gabapentin,Muscle Weakness,mesh-list
+NCT03496389,Gabapentin,Paresis,mesh-list
+NCT03496389,Gabapentin,Rupture,mesh-list
+NCT03496389,Gabapentin,Wounds and Injuries,mesh-ancestor
+NCT03496389,Gabapentin,Muscular Diseases,mesh-ancestor
+NCT03496389,Gabapentin,Musculoskeletal Diseases,mesh-ancestor
+NCT03496389,Gabapentin,Neuromuscular Manifestations,mesh-ancestor
+NCT03496389,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT03496389,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT03496389,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT03417479,Gabapentin,,
+NCT03393702,Gabapentin,"Pain, Postoperative",mesh-list
+NCT03393702,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT03393702,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT03393702,Gabapentin,Pain,mesh-ancestor
+NCT03393702,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT03347916,Gabapentin,Psychomotor Agitation,mesh-list
+NCT03347916,Gabapentin,Emergence Delirium,mesh-list
+NCT03347916,Gabapentin,Dyskinesias,mesh-ancestor
+NCT03347916,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT03347916,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT03347916,Gabapentin,Psychomotor Disorders,mesh-ancestor
+NCT03347916,Gabapentin,Neurobehavioral Manifestations,mesh-ancestor
+NCT03347916,Gabapentin,Delirium,mesh-ancestor
+NCT03347916,Gabapentin,Confusion,mesh-ancestor
+NCT03347916,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT03347916,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT03347916,Gabapentin,Neurocognitive Disorders,mesh-ancestor
+NCT03347916,Gabapentin,Mental Disorders,mesh-ancestor
+NCT03335436,Gabapentin,,
+NCT03275012,Gabapentin,Chronic Pain,mesh-list
+NCT03275012,Gabapentin,Pain,mesh-ancestor
+NCT03275012,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT03241875,Gabapentin,Shoulder Pain,mesh-list
+NCT03241875,Gabapentin,"Pain, Postoperative",mesh-list
+NCT03241875,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT03241875,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT03241875,Gabapentin,Pain,mesh-ancestor
+NCT03241875,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT03241875,Gabapentin,Arthralgia,mesh-ancestor
+NCT03241875,Gabapentin,Joint Diseases,mesh-ancestor
+NCT03241875,Gabapentin,Musculoskeletal Diseases,mesh-ancestor
+NCT03220776,Gabapentin,Disease,mesh-list
+NCT03220776,Gabapentin,Alcoholism,mesh-list
+NCT03220776,Gabapentin,Bipolar Disorder,mesh-list
+NCT03220776,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT03220776,Gabapentin,Bipolar and Related Disorders,mesh-ancestor
+NCT03220776,Gabapentin,Mental Disorders,mesh-ancestor
+NCT03220776,Gabapentin,Alcohol-Related Disorders,mesh-ancestor
+NCT03220776,Gabapentin,Substance-Related Disorders,mesh-ancestor
+NCT03220776,Gabapentin,Chemically-Induced Disorders,mesh-ancestor
+NCT03202459,Gabapentin,Nausea,mesh-list
+NCT03202459,Gabapentin,Vomiting,mesh-list
+NCT03202459,Gabapentin,Postoperative Complications,mesh-list
+NCT03202459,Gabapentin,Postoperative Nausea and Vomiting,mesh-list
+NCT03202459,Gabapentin,"Signs and Symptoms, Digestive",mesh-ancestor
+NCT03202459,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT03186443,Gabapentin,Neuralgia,mesh-list
+NCT03186443,Gabapentin,Peripheral Nervous System Diseases,mesh-ancestor
+NCT03186443,Gabapentin,Neuromuscular Diseases,mesh-ancestor
+NCT03186443,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT03186443,Gabapentin,Pain,mesh-ancestor
+NCT03186443,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT03179345,Gabapentin,,
+NCT03172234,Gabapentin,,
+NCT03158376,Gabapentin,Chronic Pain,mesh-list
+NCT03158376,Gabapentin,Pain,mesh-ancestor
+NCT03158376,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT03149432,Gabapentin,Phantom Limb,mesh-list
+NCT03149432,Gabapentin,Perceptual Disorders,mesh-ancestor
+NCT03149432,Gabapentin,Neurobehavioral Manifestations,mesh-ancestor
+NCT03149432,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT03149432,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT03149432,Gabapentin,"Pain, Postoperative",mesh-ancestor
+NCT03149432,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT03149432,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT03149432,Gabapentin,Pain,mesh-ancestor
+NCT03121963,Gabapentin,,
+NCT03084536,Gabapentin,Breast Neoplasms,mesh-list
+NCT03084536,Gabapentin,"Pain, Postoperative",mesh-list
+NCT03084536,Gabapentin,Mastodynia,mesh-list
+NCT03084536,Gabapentin,Neoplasms by Site,mesh-ancestor
+NCT03084536,Gabapentin,Neoplasms,mesh-ancestor
+NCT03084536,Gabapentin,Breast Diseases,mesh-ancestor
+NCT03084536,Gabapentin,Skin Diseases,mesh-ancestor
+NCT03084536,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT03084536,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT03084536,Gabapentin,Pain,mesh-ancestor
+NCT03084536,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT03080493,Gabapentin,,
+NCT03023501,Gabapentin,Postoperative Complications,mesh-list
+NCT03023501,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT03005483,Gabapentin,Musculoskeletal Diseases,mesh-list
+NCT03005483,Gabapentin,"Pain, Postoperative",mesh-list
+NCT03005483,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT03005483,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT03005483,Gabapentin,Pain,mesh-ancestor
+NCT03005483,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT02999724,Gabapentin,Prolapse,mesh-list
+NCT02999724,Gabapentin,Pelvic Organ Prolapse,mesh-list
+NCT02999724,Gabapentin,"Pathological Conditions, Anatomical",mesh-ancestor
+NCT02987985,Gabapentin,Sleep Apnea Syndromes,mesh-list
+NCT02987985,Gabapentin,"Sleep Apnea, Obstructive",mesh-list
+NCT02987985,Gabapentin,Respiratory Insufficiency,mesh-list
+NCT02987985,Gabapentin,Postoperative Complications,mesh-list
+NCT02987985,Gabapentin,Pathologic Processes,mesh-list
+NCT02987985,Gabapentin,Depression,mesh-list
+NCT02987985,Gabapentin,Depressive Disorder,mesh-list
+NCT02987985,Gabapentin,Behavioral Symptoms,mesh-ancestor
+NCT02987985,Gabapentin,Mood Disorders,mesh-ancestor
+NCT02987985,Gabapentin,Mental Disorders,mesh-ancestor
+NCT02987985,Gabapentin,Apnea,mesh-ancestor
+NCT02987985,Gabapentin,Respiration Disorders,mesh-ancestor
+NCT02987985,Gabapentin,Respiratory Tract Diseases,mesh-ancestor
+NCT02987985,Gabapentin,"Sleep Disorders, Intrinsic",mesh-ancestor
+NCT02987985,Gabapentin,Dyssomnias,mesh-ancestor
+NCT02987985,Gabapentin,Sleep Wake Disorders,mesh-ancestor
+NCT02987985,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT02958566,Gabapentin,Colonic Diseases,mesh-ancestor
+NCT02958566,Gabapentin,Neoplasms,mesh-list
+NCT02958566,Gabapentin,Colonic Neoplasms,mesh-list
+NCT02958566,Gabapentin,Rectal Neoplasms,mesh-list
+NCT02958566,Gabapentin,Ileus,mesh-list
+NCT02958566,Gabapentin,Diverticulitis,mesh-list
+NCT02958566,Gabapentin,Diverticulum,mesh-list
+NCT02958566,Gabapentin,"Diverticulitis, Colonic",mesh-list
+NCT02958566,Gabapentin,Constipation,mesh-list
+NCT02958566,Gabapentin,"Pain, Postoperative",mesh-list
+NCT02958566,Gabapentin,Colorectal Neoplasms,mesh-ancestor
+NCT02958566,Gabapentin,Intestinal Neoplasms,mesh-ancestor
+NCT02958566,Gabapentin,Gastrointestinal Neoplasms,mesh-ancestor
+NCT02958566,Gabapentin,Digestive System Neoplasms,mesh-ancestor
+NCT02958566,Gabapentin,Neoplasms by Site,mesh-ancestor
+NCT02958566,Gabapentin,Digestive System Diseases,mesh-ancestor
+NCT02958566,Gabapentin,Gastrointestinal Diseases,mesh-ancestor
+NCT02958566,Gabapentin,Intestinal Diseases,mesh-ancestor
+NCT02958566,Gabapentin,"Signs and Symptoms, Digestive",mesh-ancestor
+NCT02958566,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT02958566,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT02958566,Gabapentin,Pain,mesh-ancestor
+NCT02958566,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT02958566,Gabapentin,Intestinal Obstruction,mesh-ancestor
+NCT02958566,Gabapentin,Diverticular Diseases,mesh-ancestor
+NCT02958566,Gabapentin,Gastroenteritis,mesh-ancestor
+NCT02958566,Gabapentin,Rectal Diseases,mesh-ancestor
+NCT02958566,Gabapentin,"Pathological Conditions, Anatomical",mesh-ancestor
+NCT02958566,Gabapentin,"Diverticulosis, Colonic",mesh-ancestor
+NCT02957097,Gabapentin,"Pain, Postoperative",mesh-list
+NCT02957097,Gabapentin,Acute Pain,mesh-list
+NCT02957097,Gabapentin,Facial Pain,mesh-list
+NCT02957097,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT02957097,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT02957097,Gabapentin,Pain,mesh-ancestor
+NCT02957097,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT02944981,Gabapentin,Nausea,mesh-list
+NCT02944981,Gabapentin,Vomiting,mesh-list
+NCT02944981,Gabapentin,Postoperative Nausea and Vomiting,mesh-list
+NCT02944981,Gabapentin,"Signs and Symptoms, Digestive",mesh-ancestor
+NCT02944981,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT02944981,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT02926573,Gabapentin,Acute Pain,mesh-list
+NCT02926573,Gabapentin,Pain,mesh-ancestor
+NCT02926573,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT02867176,Gabapentin,Keratoconus,mesh-list
+NCT02867176,Gabapentin,Corneal Diseases,mesh-ancestor
+NCT02867176,Gabapentin,Eye Diseases,mesh-ancestor
+NCT02840240,Gabapentin,,
+NCT02771925,Gabapentin,Alcoholism,mesh-list
+NCT02771925,Gabapentin,Alcohol-Related Disorders,mesh-ancestor
+NCT02771925,Gabapentin,Substance-Related Disorders,mesh-ancestor
+NCT02771925,Gabapentin,Chemically-Induced Disorders,mesh-ancestor
+NCT02771925,Gabapentin,Mental Disorders,mesh-ancestor
+NCT02725710,Gabapentin,"Abortion, Spontaneous",mesh-list
+NCT02725710,Gabapentin,Pregnancy Complications,mesh-ancestor
+NCT02722603,Gabapentin,Chronic Pain,mesh-list
+NCT02722603,Gabapentin,Pain,mesh-ancestor
+NCT02722603,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT02703259,Gabapentin,"Pain, Postoperative",mesh-list
+NCT02703259,Gabapentin,Acute Pain,mesh-list
+NCT02703259,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT02703259,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT02703259,Gabapentin,Pain,mesh-ancestor
+NCT02703259,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT02617121,Gabapentin,Nausea,mesh-list
+NCT02617121,Gabapentin,Vomiting,mesh-list
+NCT02617121,Gabapentin,Postoperative Nausea and Vomiting,mesh-list
+NCT02617121,Gabapentin,"Signs and Symptoms, Digestive",mesh-ancestor
+NCT02617121,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT02617121,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT02605187,Gabapentin,"Pain, Postoperative",mesh-list
+NCT02605187,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT02605187,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT02605187,Gabapentin,Pain,mesh-ancestor
+NCT02605187,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT02595190,Gabapentin,Tarlov Cysts,mesh-list
+NCT02595190,Gabapentin,Cysts,mesh-ancestor
+NCT02595190,Gabapentin,Neoplasms,mesh-ancestor
+NCT02595190,Gabapentin,Peripheral Nervous System Diseases,mesh-ancestor
+NCT02595190,Gabapentin,Neuromuscular Diseases,mesh-ancestor
+NCT02595190,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT02543944,Gabapentin,Opioid-Related Disorders,mesh-list
+NCT02543944,Gabapentin,Substance-Related Disorders,mesh-list
+NCT02543944,Gabapentin,Narcotic-Related Disorders,mesh-ancestor
+NCT02543944,Gabapentin,Chemically-Induced Disorders,mesh-ancestor
+NCT02543944,Gabapentin,Mental Disorders,mesh-ancestor
+NCT02531906,Gabapentin,Head and Neck Neoplasms,mesh-list
+NCT02531906,Gabapentin,Squamous Cell Carcinoma of Head and Neck,mesh-list
+NCT02531906,Gabapentin,Stomatitis,mesh-list
+NCT02531906,Gabapentin,"Carcinoma, Squamous Cell",mesh-ancestor
+NCT02531906,Gabapentin,Carcinoma,mesh-ancestor
+NCT02531906,Gabapentin,"Neoplasms, Glandular and Epithelial",mesh-ancestor
+NCT02531906,Gabapentin,Neoplasms by Histologic Type,mesh-ancestor
+NCT02531906,Gabapentin,Neoplasms,mesh-ancestor
+NCT02531906,Gabapentin,Neoplasms by Site,mesh-ancestor
+NCT02531906,Gabapentin,Mouth Diseases,mesh-ancestor
+NCT02531906,Gabapentin,Stomatognathic Diseases,mesh-ancestor
+NCT02480114,Gabapentin,Head and Neck Neoplasms,mesh-list
+NCT02480114,Gabapentin,Mucositis,mesh-list
+NCT02480114,Gabapentin,Neoplasms by Site,mesh-ancestor
+NCT02480114,Gabapentin,Neoplasms,mesh-ancestor
+NCT02480114,Gabapentin,Gastroenteritis,mesh-ancestor
+NCT02480114,Gabapentin,Gastrointestinal Diseases,mesh-ancestor
+NCT02480114,Gabapentin,Digestive System Diseases,mesh-ancestor
+NCT02480114,Gabapentin,Mouth Diseases,mesh-ancestor
+NCT02480114,Gabapentin,Stomatognathic Diseases,mesh-ancestor
+NCT02424695,Gabapentin,Psychomotor Agitation,mesh-list
+NCT02424695,Gabapentin,Restless Legs Syndrome,mesh-list
+NCT02424695,Gabapentin,Syndrome,mesh-list
+NCT02424695,Gabapentin,Disease,mesh-ancestor
+NCT02424695,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT02424695,Gabapentin,Dyskinesias,mesh-ancestor
+NCT02424695,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT02424695,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT02424695,Gabapentin,Psychomotor Disorders,mesh-ancestor
+NCT02424695,Gabapentin,Neurobehavioral Manifestations,mesh-ancestor
+NCT02424695,Gabapentin,"Sleep Disorders, Intrinsic",mesh-ancestor
+NCT02424695,Gabapentin,Dyssomnias,mesh-ancestor
+NCT02424695,Gabapentin,Sleep Wake Disorders,mesh-ancestor
+NCT02424695,Gabapentin,Parasomnias,mesh-ancestor
+NCT02424695,Gabapentin,Mental Disorders,mesh-ancestor
+NCT02402543,Gabapentin,Hemorrhoids,mesh-list
+NCT02402543,Gabapentin,Fissure in Ano,mesh-list
+NCT02402543,Gabapentin,Rectal Fistula,mesh-list
+NCT02402543,Gabapentin,Fistula,mesh-list
+NCT02402543,Gabapentin,"Pathological Conditions, Anatomical",mesh-ancestor
+NCT02402543,Gabapentin,Rectal Diseases,mesh-ancestor
+NCT02402543,Gabapentin,Intestinal Diseases,mesh-ancestor
+NCT02402543,Gabapentin,Gastrointestinal Diseases,mesh-ancestor
+NCT02402543,Gabapentin,Digestive System Diseases,mesh-ancestor
+NCT02402543,Gabapentin,Vascular Diseases,mesh-ancestor
+NCT02402543,Gabapentin,Cardiovascular Diseases,mesh-ancestor
+NCT02402543,Gabapentin,Anus Diseases,mesh-ancestor
+NCT02402543,Gabapentin,Intestinal Fistula,mesh-ancestor
+NCT02402543,Gabapentin,Digestive System Fistula,mesh-ancestor
+NCT02384187,Gabapentin,Nausea,mesh-list
+NCT02384187,Gabapentin,Vomiting,mesh-list
+NCT02384187,Gabapentin,Postoperative Nausea and Vomiting,mesh-list
+NCT02384187,Gabapentin,"Signs and Symptoms, Digestive",mesh-ancestor
+NCT02384187,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT02384187,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT02355886,Gabapentin,Urinary Bladder Neoplasms,mesh-list
+NCT02355886,Gabapentin,Urologic Neoplasms,mesh-ancestor
+NCT02355886,Gabapentin,Urogenital Neoplasms,mesh-ancestor
+NCT02355886,Gabapentin,Neoplasms by Site,mesh-ancestor
+NCT02355886,Gabapentin,Neoplasms,mesh-ancestor
+NCT02355886,Gabapentin,Urinary Bladder Diseases,mesh-ancestor
+NCT02355886,Gabapentin,Urologic Diseases,mesh-ancestor
+NCT02359110,Gabapentin,"Pain, Postoperative",mesh-list
+NCT02359110,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT02359110,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT02359110,Gabapentin,Pain,mesh-ancestor
+NCT02359110,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT02349477,Gabapentin,Alcoholism,mesh-list
+NCT02349477,Gabapentin,Alcohol-Related Disorders,mesh-ancestor
+NCT02349477,Gabapentin,Substance-Related Disorders,mesh-ancestor
+NCT02349477,Gabapentin,Chemically-Induced Disorders,mesh-ancestor
+NCT02349477,Gabapentin,Mental Disorders,mesh-ancestor
+NCT02351934,Gabapentin,,
+NCT02339662,Gabapentin,Myalgia,mesh-list
+NCT02339662,Gabapentin,Facial Pain,mesh-list
+NCT02339662,Gabapentin,Muscular Diseases,mesh-ancestor
+NCT02339662,Gabapentin,Musculoskeletal Diseases,mesh-ancestor
+NCT02339662,Gabapentin,Neuromuscular Diseases,mesh-ancestor
+NCT02339662,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT02339662,Gabapentin,Musculoskeletal Pain,mesh-ancestor
+NCT02339662,Gabapentin,Pain,mesh-ancestor
+NCT02339662,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT02306278,Gabapentin,,
+NCT02252926,Gabapentin,Mucositis,mesh-list
+NCT02252926,Gabapentin,Gastroenteritis,mesh-ancestor
+NCT02252926,Gabapentin,Gastrointestinal Diseases,mesh-ancestor
+NCT02252926,Gabapentin,Digestive System Diseases,mesh-ancestor
+NCT02252926,Gabapentin,Mouth Diseases,mesh-ancestor
+NCT02252926,Gabapentin,Stomatognathic Diseases,mesh-ancestor
+NCT02252536,Gabapentin,Disease,mesh-list
+NCT02252536,Gabapentin,Alcoholism,mesh-list
+NCT02252536,Gabapentin,Alcohol Drinking,mesh-list
+NCT02252536,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT02252536,Gabapentin,Drinking Behavior,mesh-ancestor
+NCT02252536,Gabapentin,Alcohol-Related Disorders,mesh-ancestor
+NCT02252536,Gabapentin,Substance-Related Disorders,mesh-ancestor
+NCT02252536,Gabapentin,Chemically-Induced Disorders,mesh-ancestor
+NCT02252536,Gabapentin,Mental Disorders,mesh-ancestor
+NCT02202707,Gabapentin,,
+NCT02163434,Gabapentin,Hyperemesis Gravidarum,mesh-list
+NCT02163434,Gabapentin,Morning Sickness,mesh-ancestor
+NCT02163434,Gabapentin,Pregnancy Complications,mesh-ancestor
+NCT02163434,Gabapentin,Vomiting,mesh-ancestor
+NCT02163434,Gabapentin,"Signs and Symptoms, Digestive",mesh-ancestor
+NCT02160301,Gabapentin,"Pain, Postoperative",mesh-list
+NCT02160301,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT02160301,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT02160301,Gabapentin,Pain,mesh-ancestor
+NCT02160301,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT02127853,Gabapentin,Hyperalgesia,mesh-list
+NCT02127853,Gabapentin,Cataract,mesh-list
+NCT02127853,Gabapentin,Lens Diseases,mesh-ancestor
+NCT02127853,Gabapentin,Eye Diseases,mesh-ancestor
+NCT02127853,Gabapentin,Somatosensory Disorders,mesh-ancestor
+NCT02127853,Gabapentin,Sensation Disorders,mesh-ancestor
+NCT02127853,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT02127853,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT02099006,Gabapentin,,
+NCT02076893,Gabapentin,,
+NCT02056899,Gabapentin,Premature Birth,mesh-list
+NCT02056899,Gabapentin,"Obstetric Labor, Premature",mesh-list
+NCT02056899,Gabapentin,Obstetric Labor Complications,mesh-ancestor
+NCT02056899,Gabapentin,Pregnancy Complications,mesh-ancestor
+NCT02040532,Gabapentin,Hot Flashes,mesh-list
+NCT01981941,Gabapentin,Psychomotor Agitation,mesh-list
+NCT01981941,Gabapentin,Restless Legs Syndrome,mesh-list
+NCT01981941,Gabapentin,Syndrome,mesh-list
+NCT01981941,Gabapentin,Disease,mesh-ancestor
+NCT01981941,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT01981941,Gabapentin,Dyskinesias,mesh-ancestor
+NCT01981941,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT01981941,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT01981941,Gabapentin,Psychomotor Disorders,mesh-ancestor
+NCT01981941,Gabapentin,Neurobehavioral Manifestations,mesh-ancestor
+NCT01981941,Gabapentin,"Sleep Disorders, Intrinsic",mesh-ancestor
+NCT01981941,Gabapentin,Dyssomnias,mesh-ancestor
+NCT01981941,Gabapentin,Sleep Wake Disorders,mesh-ancestor
+NCT01981941,Gabapentin,Parasomnias,mesh-ancestor
+NCT01981941,Gabapentin,Mental Disorders,mesh-ancestor
+NCT01977937,Gabapentin,"Pain, Postoperative",mesh-list
+NCT01977937,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT01977937,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT01977937,Gabapentin,Pain,mesh-ancestor
+NCT01977937,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT01954927,Gabapentin,"Anemia, Sickle Cell",mesh-list
+NCT01954927,Gabapentin,"Anemia, Hemolytic, Congenital",mesh-ancestor
+NCT01954927,Gabapentin,"Anemia, Hemolytic",mesh-ancestor
+NCT01954927,Gabapentin,Anemia,mesh-ancestor
+NCT01954927,Gabapentin,Hematologic Diseases,mesh-ancestor
+NCT01954927,Gabapentin,Hemoglobinopathies,mesh-ancestor
+NCT01954927,Gabapentin,"Genetic Diseases, Inborn",mesh-ancestor
+NCT01893632,Gabapentin,,
+NCT01888497,Gabapentin,,
+NCT01821235,Gabapentin,Neuralgia,mesh-list
+NCT01821235,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT01821235,Gabapentin,Peripheral Nervous System Diseases,mesh-ancestor
+NCT01821235,Gabapentin,Neuromuscular Diseases,mesh-ancestor
+NCT01821235,Gabapentin,Pain,mesh-ancestor
+NCT01821235,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT01744444,Gabapentin,Multiple Sclerosis,mesh-list
+NCT01744444,Gabapentin,"Nystagmus, Pathologic",mesh-list
+NCT01744444,Gabapentin,Sclerosis,mesh-list
+NCT01744444,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT01744444,Gabapentin,"Demyelinating Autoimmune Diseases, CNS",mesh-ancestor
+NCT01744444,Gabapentin,Autoimmune Diseases of the Nervous System,mesh-ancestor
+NCT01744444,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT01744444,Gabapentin,Demyelinating Diseases,mesh-ancestor
+NCT01744444,Gabapentin,Autoimmune Diseases,mesh-ancestor
+NCT01744444,Gabapentin,Immune System Diseases,mesh-ancestor
+NCT01744444,Gabapentin,Ocular Motility Disorders,mesh-ancestor
+NCT01744444,Gabapentin,Cranial Nerve Diseases,mesh-ancestor
+NCT01744444,Gabapentin,Eye Diseases,mesh-ancestor
+NCT01632215,Gabapentin,Carpal Tunnel Syndrome,mesh-list
+NCT01632215,Gabapentin,Syndrome,mesh-list
+NCT01632215,Gabapentin,Disease,mesh-ancestor
+NCT01632215,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT01632215,Gabapentin,Median Neuropathy,mesh-ancestor
+NCT01632215,Gabapentin,Mononeuropathies,mesh-ancestor
+NCT01632215,Gabapentin,Peripheral Nervous System Diseases,mesh-ancestor
+NCT01632215,Gabapentin,Neuromuscular Diseases,mesh-ancestor
+NCT01632215,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT01632215,Gabapentin,Nerve Compression Syndromes,mesh-ancestor
+NCT01632215,Gabapentin,Cumulative Trauma Disorders,mesh-ancestor
+NCT01632215,Gabapentin,Sprains and Strains,mesh-ancestor
+NCT01632215,Gabapentin,Wounds and Injuries,mesh-ancestor
+NCT01623271,Gabapentin,Complex Regional Pain Syndromes,mesh-list
+NCT01623271,Gabapentin,Reflex Sympathetic Dystrophy,mesh-list
+NCT01623271,Gabapentin,Syndrome,mesh-list
+NCT01623271,Gabapentin,Somatoform Disorders,mesh-list
+NCT01623271,Gabapentin,Disease,mesh-ancestor
+NCT01623271,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT01623271,Gabapentin,Mental Disorders,mesh-ancestor
+NCT01623271,Gabapentin,Autonomic Nervous System Diseases,mesh-ancestor
+NCT01623271,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT01623271,Gabapentin,Peripheral Nervous System Diseases,mesh-ancestor
+NCT01623271,Gabapentin,Neuromuscular Diseases,mesh-ancestor
+NCT01573052,Gabapentin,,
+NCT01533753,Gabapentin,Prostatic Neoplasms,mesh-list
+NCT01533753,Gabapentin,Hot Flashes,mesh-list
+NCT01533753,Gabapentin,"Genital Neoplasms, Male",mesh-ancestor
+NCT01533753,Gabapentin,Urogenital Neoplasms,mesh-ancestor
+NCT01533753,Gabapentin,Neoplasms by Site,mesh-ancestor
+NCT01533753,Gabapentin,Neoplasms,mesh-ancestor
+NCT01533753,Gabapentin,Prostatic Diseases,mesh-ancestor
+NCT01506453,Gabapentin,Leukemia,mesh-list
+NCT01506453,Gabapentin,Precursor Cell Lymphoblastic Leukemia-Lymphoma,mesh-list
+NCT01506453,Gabapentin,"Leukemia, Lymphoid",mesh-list
+NCT01506453,Gabapentin,Neuralgia,mesh-list
+NCT01506453,Gabapentin,Neoplasms by Histologic Type,mesh-ancestor
+NCT01506453,Gabapentin,Neoplasms,mesh-ancestor
+NCT01506453,Gabapentin,Lymphoproliferative Disorders,mesh-ancestor
+NCT01506453,Gabapentin,Lymphatic Diseases,mesh-ancestor
+NCT01506453,Gabapentin,Immunoproliferative Disorders,mesh-ancestor
+NCT01506453,Gabapentin,Immune System Diseases,mesh-ancestor
+NCT01506453,Gabapentin,Peripheral Nervous System Diseases,mesh-ancestor
+NCT01506453,Gabapentin,Neuromuscular Diseases,mesh-ancestor
+NCT01506453,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT01506453,Gabapentin,Pain,mesh-ancestor
+NCT01506453,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT01486706,Gabapentin,"Urinary Bladder, Overactive",mesh-list
+NCT01486706,Gabapentin,Nocturia,mesh-list
+NCT01486706,Gabapentin,Urinary Bladder Diseases,mesh-ancestor
+NCT01486706,Gabapentin,Urologic Diseases,mesh-ancestor
+NCT01486706,Gabapentin,Lower Urinary Tract Symptoms,mesh-ancestor
+NCT01486706,Gabapentin,Urological Manifestations,mesh-ancestor
+NCT01441401,Gabapentin,Epilepsy,mesh-list
+NCT01441401,Gabapentin,"Epilepsies, Partial",mesh-list
+NCT01441401,Gabapentin,Brain Diseases,mesh-ancestor
+NCT01441401,Gabapentin,Central Nervous System Diseases,mesh-ancestor
+NCT01441401,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT01411124,Gabapentin,Psychomotor Agitation,mesh-list
+NCT01411124,Gabapentin,Restless Legs Syndrome,mesh-list
+NCT01411124,Gabapentin,Dyskinesias,mesh-ancestor
+NCT01411124,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT01411124,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT01411124,Gabapentin,Psychomotor Disorders,mesh-ancestor
+NCT01411124,Gabapentin,Neurobehavioral Manifestations,mesh-ancestor
+NCT01411124,Gabapentin,"Sleep Disorders, Intrinsic",mesh-ancestor
+NCT01411124,Gabapentin,Dyssomnias,mesh-ancestor
+NCT01411124,Gabapentin,Sleep Wake Disorders,mesh-ancestor
+NCT01411124,Gabapentin,Parasomnias,mesh-ancestor
+NCT01411124,Gabapentin,Mental Disorders,mesh-ancestor
+NCT01236053,Gabapentin,Pancreatic Neoplasms,mesh-list
+NCT01236053,Gabapentin,Urinary Bladder Neoplasms,mesh-list
+NCT01236053,Gabapentin,"Carcinoma, Renal Cell",mesh-list
+NCT01236053,Gabapentin,Anus Neoplasms,mesh-list
+NCT01236053,Gabapentin,Kidney Neoplasms,mesh-list
+NCT01236053,Gabapentin,Stomach Neoplasms,mesh-list
+NCT01236053,Gabapentin,Pelvic Neoplasms,mesh-list
+NCT01236053,Gabapentin,Nervous System Neoplasms,mesh-list
+NCT01236053,Gabapentin,Penile Neoplasms,mesh-list
+NCT01236053,Gabapentin,Pancreatitis,mesh-list
+NCT01236053,Gabapentin,"Pancreatitis, Chronic",mesh-list
+NCT01236053,Gabapentin,Neuralgia,mesh-list
+NCT01236053,Gabapentin,Carcinoma,mesh-ancestor
+NCT01236053,Gabapentin,"Neoplasms, Glandular and Epithelial",mesh-ancestor
+NCT01236053,Gabapentin,Neoplasms by Histologic Type,mesh-ancestor
+NCT01236053,Gabapentin,Neoplasms,mesh-ancestor
+NCT01236053,Gabapentin,Neoplasms by Site,mesh-ancestor
+NCT01236053,Gabapentin,Digestive System Neoplasms,mesh-ancestor
+NCT01236053,Gabapentin,Endocrine Gland Neoplasms,mesh-ancestor
+NCT01236053,Gabapentin,Digestive System Diseases,mesh-ancestor
+NCT01236053,Gabapentin,Pancreatic Diseases,mesh-ancestor
+NCT01236053,Gabapentin,Endocrine System Diseases,mesh-ancestor
+NCT01236053,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT01236053,Gabapentin,Urologic Neoplasms,mesh-ancestor
+NCT01236053,Gabapentin,Urogenital Neoplasms,mesh-ancestor
+NCT01236053,Gabapentin,Urinary Bladder Diseases,mesh-ancestor
+NCT01236053,Gabapentin,Urologic Diseases,mesh-ancestor
+NCT01236053,Gabapentin,Adenocarcinoma,mesh-ancestor
+NCT01236053,Gabapentin,Kidney Diseases,mesh-ancestor
+NCT01236053,Gabapentin,Rectal Neoplasms,mesh-ancestor
+NCT01236053,Gabapentin,Colorectal Neoplasms,mesh-ancestor
+NCT01236053,Gabapentin,Intestinal Neoplasms,mesh-ancestor
+NCT01236053,Gabapentin,Gastrointestinal Neoplasms,mesh-ancestor
+NCT01236053,Gabapentin,Gastrointestinal Diseases,mesh-ancestor
+NCT01236053,Gabapentin,Intestinal Diseases,mesh-ancestor
+NCT01236053,Gabapentin,Anus Diseases,mesh-ancestor
+NCT01236053,Gabapentin,Rectal Diseases,mesh-ancestor
+NCT01236053,Gabapentin,Stomach Diseases,mesh-ancestor
+NCT01236053,Gabapentin,Peripheral Nervous System Diseases,mesh-ancestor
+NCT01236053,Gabapentin,Neuromuscular Diseases,mesh-ancestor
+NCT01236053,Gabapentin,Pain,mesh-ancestor
+NCT01236053,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT01236053,Gabapentin,"Genital Neoplasms, Male",mesh-ancestor
+NCT01236053,Gabapentin,Penile Diseases,mesh-ancestor
+NCT01144923,Gabapentin,Radiculopathy,mesh-list
+NCT01144923,Gabapentin,Peripheral Nervous System Diseases,mesh-ancestor
+NCT01144923,Gabapentin,Neuromuscular Diseases,mesh-ancestor
+NCT01144923,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT01141049,Gabapentin,Alcoholism,mesh-list
+NCT01141049,Gabapentin,Alcohol-Related Disorders,mesh-ancestor
+NCT01141049,Gabapentin,Substance-Related Disorders,mesh-ancestor
+NCT01141049,Gabapentin,Chemically-Induced Disorders,mesh-ancestor
+NCT01141049,Gabapentin,Mental Disorders,mesh-ancestor
+NCT01127100,Gabapentin,Spinal Stenosis,mesh-list
+NCT01127100,Gabapentin,Neuralgia,mesh-list
+NCT01127100,Gabapentin,Peripheral Nervous System Diseases,mesh-ancestor
+NCT01127100,Gabapentin,Neuromuscular Diseases,mesh-ancestor
+NCT01127100,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT01127100,Gabapentin,Pain,mesh-ancestor
+NCT01127100,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT01127100,Gabapentin,Spinal Diseases,mesh-ancestor
+NCT01127100,Gabapentin,Bone Diseases,mesh-ancestor
+NCT01127100,Gabapentin,Musculoskeletal Diseases,mesh-ancestor
+NCT01116583,Gabapentin,"Pain, Postoperative",mesh-list
+NCT01116583,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT01116583,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT01116583,Gabapentin,Pain,mesh-ancestor
+NCT01116583,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT01112878,Gabapentin,,
+NCT01107574,Gabapentin,Fibromyalgia,mesh-list
+NCT01107574,Gabapentin,Myofascial Pain Syndromes,mesh-list
+NCT01107574,Gabapentin,Muscular Diseases,mesh-ancestor
+NCT01107574,Gabapentin,Musculoskeletal Diseases,mesh-ancestor
+NCT01107574,Gabapentin,Rheumatic Diseases,mesh-ancestor
+NCT01107574,Gabapentin,Neuromuscular Diseases,mesh-ancestor
+NCT01107574,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT01080300,Gabapentin,Hot Flashes,mesh-list
+NCT01067144,Gabapentin,,
+NCT01052896,Gabapentin,Dyspepsia,mesh-list
+NCT01052896,Gabapentin,"Signs and Symptoms, Digestive",mesh-ancestor
+NCT01014533,Gabapentin,Sleep Initiation and Maintenance Disorders,mesh-list
+NCT01014533,Gabapentin,Dyssomnias,mesh-list
+NCT01014533,Gabapentin,Parasomnias,mesh-list
+NCT01014533,Gabapentin,Alcoholism,mesh-list
+NCT01014533,Gabapentin,"Sleep Disorders, Intrinsic",mesh-ancestor
+NCT01014533,Gabapentin,Sleep Wake Disorders,mesh-ancestor
+NCT01014533,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT01014533,Gabapentin,Mental Disorders,mesh-ancestor
+NCT01014533,Gabapentin,Alcohol-Related Disorders,mesh-ancestor
+NCT01014533,Gabapentin,Substance-Related Disorders,mesh-ancestor
+NCT01014533,Gabapentin,Chemically-Induced Disorders,mesh-ancestor
+NCT01005108,Gabapentin,Hot Flashes,mesh-list
+NCT00982800,Gabapentin,,
+NCT00974376,Gabapentin,Marijuana Abuse,mesh-list
+NCT00974376,Gabapentin,Cognition Disorders,mesh-list
+NCT00974376,Gabapentin,Cognitive Dysfunction,mesh-list
+NCT00974376,Gabapentin,Substance-Related Disorders,mesh-ancestor
+NCT00974376,Gabapentin,Chemically-Induced Disorders,mesh-ancestor
+NCT00974376,Gabapentin,Mental Disorders,mesh-ancestor
+NCT00974376,Gabapentin,Neurocognitive Disorders,mesh-ancestor
+NCT00889148,Gabapentin,"Pain, Postoperative",mesh-list
+NCT00889148,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT00889148,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT00889148,Gabapentin,Pain,mesh-ancestor
+NCT00889148,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT00886236,Gabapentin,"Obesity, Morbid",mesh-list
+NCT00886236,Gabapentin,"Pain, Postoperative",mesh-list
+NCT00886236,Gabapentin,Nausea,mesh-list
+NCT00886236,Gabapentin,Vomiting,mesh-list
+NCT00886236,Gabapentin,Postoperative Nausea and Vomiting,mesh-list
+NCT00886236,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT00886236,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT00886236,Gabapentin,Pain,mesh-ancestor
+NCT00886236,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT00886236,Gabapentin,"Signs and Symptoms, Digestive",mesh-ancestor
+NCT00886236,Gabapentin,Obesity,mesh-ancestor
+NCT00886236,Gabapentin,Overnutrition,mesh-ancestor
+NCT00886236,Gabapentin,Nutrition Disorders,mesh-ancestor
+NCT00886236,Gabapentin,Overweight,mesh-ancestor
+NCT00886236,Gabapentin,Body Weight,mesh-ancestor
+NCT00865059,Gabapentin,,
+NCT00864305,Gabapentin,,
+NCT00865423,Gabapentin,,
+NCT00793910,Gabapentin,"Pain, Postoperative",mesh-list
+NCT00793910,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT00793910,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT00793910,Gabapentin,Pain,mesh-ancestor
+NCT00793910,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT00778271,Gabapentin,Disease,mesh-list
+NCT00778271,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT00778401,Gabapentin,Disease,mesh-list
+NCT00778401,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT00778765,Gabapentin,Disease,mesh-list
+NCT00778765,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT00778232,Gabapentin,Disease,mesh-list
+NCT00778232,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT00755417,Gabapentin,Hot Flashes,mesh-list
+NCT00755508,Gabapentin,Sleep Initiation and Maintenance Disorders,mesh-list
+NCT00755508,Gabapentin,"Sleep Disorders, Intrinsic",mesh-ancestor
+NCT00755508,Gabapentin,Dyssomnias,mesh-ancestor
+NCT00755508,Gabapentin,Sleep Wake Disorders,mesh-ancestor
+NCT00755508,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT00755508,Gabapentin,Mental Disorders,mesh-ancestor
+NCT00726999,Gabapentin,"Pain, Postoperative",mesh-list
+NCT00726999,Gabapentin,Postoperative Complications,mesh-ancestor
+NCT00726999,Gabapentin,Pathologic Processes,mesh-ancestor
+NCT00726999,Gabapentin,Pain,mesh-ancestor
+NCT00726999,Gabapentin,Neurologic Manifestations,mesh-ancestor
+NCT00684112,Gabapentin,Scoliosis,mesh-list
+NCT00684112,Gabapentin,Spinal Curvatures,mesh-ancestor
+NCT00684112,Gabapentin,Spinal Diseases,mesh-ancestor
+NCT00684112,Gabapentin,Bone Diseases,mesh-ancestor
+NCT00684112,Gabapentin,Musculoskeletal Diseases,mesh-ancestor
+NCT00666575,Gabapentin,Sleep Initiation and Maintenance Disorders,mesh-list
+NCT00666575,Gabapentin,"Sleep Disorders, Intrinsic",mesh-ancestor
+NCT00666575,Gabapentin,Dyssomnias,mesh-ancestor
+NCT00666575,Gabapentin,Sleep Wake Disorders,mesh-ancestor
+NCT00666575,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT00666575,Gabapentin,Mental Disorders,mesh-ancestor
+NCT00666796,Gabapentin,Sleep Initiation and Maintenance Disorders,mesh-list
+NCT00666796,Gabapentin,"Sleep Disorders, Intrinsic",mesh-ancestor
+NCT00666796,Gabapentin,Dyssomnias,mesh-ancestor
+NCT00666796,Gabapentin,Sleep Wake Disorders,mesh-ancestor
+NCT00666796,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT00666796,Gabapentin,Mental Disorders,mesh-ancestor
+NCT00667108,Gabapentin,Sleep Initiation and Maintenance Disorders,mesh-list
+NCT00667108,Gabapentin,"Sleep Disorders, Intrinsic",mesh-ancestor
+NCT00667108,Gabapentin,Dyssomnias,mesh-ancestor
+NCT00667108,Gabapentin,Sleep Wake Disorders,mesh-ancestor
+NCT00667108,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT00667108,Gabapentin,Mental Disorders,mesh-ancestor
+NCT00667121,Gabapentin,Breast Neoplasms,mesh-list
+NCT00667121,Gabapentin,Hot Flashes,mesh-list
+NCT00667121,Gabapentin,Depression,mesh-list
+NCT00667121,Gabapentin,Neoplasms by Site,mesh-ancestor
+NCT00667121,Gabapentin,Neoplasms,mesh-ancestor
+NCT00667121,Gabapentin,Breast Diseases,mesh-ancestor
+NCT00667121,Gabapentin,Skin Diseases,mesh-ancestor
+NCT00667121,Gabapentin,Behavioral Symptoms,mesh-ancestor
+NCT00666770,Gabapentin,Sleep Initiation and Maintenance Disorders,mesh-list
+NCT00666770,Gabapentin,"Sleep Disorders, Intrinsic",mesh-ancestor
+NCT00666770,Gabapentin,Dyssomnias,mesh-ancestor
+NCT00666770,Gabapentin,Sleep Wake Disorders,mesh-ancestor
+NCT00666770,Gabapentin,Nervous System Diseases,mesh-ancestor
+NCT00666770,Gabapentin,Mental Disorders,mesh-ancestor

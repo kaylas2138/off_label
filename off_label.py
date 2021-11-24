@@ -4,7 +4,7 @@ import os
 # get your current working directory
 os.getcwd()
 # set your working directory to the directory in which you have all your mimic data files
-os.chdir('/Users/yc3972/Desktop/DBMI/Courses/GD1_Fall/G4003 Symbolic Methods/Project')
+os.chdir('/Users/yc3972/Desktop/DBMI/Courses/GD1_Fall/G4003 Symbolic Methods/Project/off_label')
 
 # Reading in datasets
 admissions = pd.read_csv("./clinical_data/physionet.org/files/mimiciv/1.0/core/admissions.csv", header = 0, sep = ',', engine = 'c')
@@ -31,13 +31,13 @@ def unique_visits(patient_id):
 # list of all the diagnosis given for that visit
 def diagnosis_list(patient_id, visit_id):
     all_diagnosis = diagnosis2.loc[diagnosis2.subject_id == patient_id]
-    visit_diagnosis = all_diagnosis.loc[all_diagnosis.hadm_id == visit_id].sort_values(by = 'seq_num')
+    visit_diagnosis = all_diagnosis.loc[all_diagnosis.hadm_id == visit_id].sort_values(by = 'seq_num').reset_index()
     return visit_diagnosis
 
 # list of all the drugs given for that visit
 def drugs_list(patient_id, visit_id):
     all_drugs = prescriptions.loc[prescriptions.subject_id == patient_id]
-    visit_drugs = all_drugs.loc[all_drugs.hadm_id == visit_id]
+    visit_drugs = all_drugs.loc[all_drugs.hadm_id == visit_id].reset_index()
     return visit_drugs
 
 
