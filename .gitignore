@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+Untitled.ipynb
 # C extensions
 *.so
 
@@ -76,7 +76,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-
+full_OMOP/
 clinical_data/
 data/
 exploratory.ipynb

@@ -42,12 +42,19 @@ def drugs_list(patient_id, visit_id):
 
 
 # For the sake of simplicity, we will be investigating one of the patients who have been given this drug
-def returning_lists(drug):
+def returning_lists(drug, i):
     patients_given = patient_list(drug)
-    query_patient = patients_given.subject_id[0]
-    query_visit = patients_given.hadm_id[0]
+    if i > patients_given.shape[0]:
+        raise ValueError("Given index is bigger than size of patients list of the drug")
+    query_patient = patients_given.subject_id[i]
+    query_visit = patients_given.hadm_id[i]
     print("Searching for Patient "+ str(query_patient) + " who has been given " + str(drug) + " , for visit number " + str(query_visit) + ".")
     diagnoses = diagnosis_list(query_patient, query_visit)
     drugs = drugs_list(query_patient, query_visit)
     return diagnoses, drugs
+
+# Understand descriptions of the patient: gender and insurance information 
+def patient_details(subject_id_list):
+    details = admissions[admissions.subject_id.isin(subject_id_list)].reset_index()
+    return details
 

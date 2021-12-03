@@ -102,7 +102,7 @@ def mapped_from(mapping_data, conceptid):
         return conceptid
     else:
         all_codes = mapping.loc[(mapping.concept_id_1 == conceptid) & 
-                                   (mapping.relationship_id == 'Mapped from'), 'concept_id_2'].values.tolist()
+                                   (mapping.relationship_id == 'Mapped from')]
         return all_codes
 
 
@@ -112,7 +112,7 @@ def find_NDFRT(rxnorm_id):
     #check if there is a rxnorm-ndfrt mapping
     relationships = drug_mapping.loc[drug_mapping.concept_id_1 == rxnorm_id, 'relationship_id'].unique()
     if 'RxNorm - NDFRT eq' not in relationships:
-        print("there is no NDF_RT equivalent to this RxNorm concept")
+        pass
     else: 
         ndfrt = drug_mapping.loc[(drug_mapping.concept_id_1 == rxnorm_id) & 
                                  (drug_mapping.relationship_id == 'RxNorm - NDFRT eq'), 'concept_id_2'].values.tolist()
