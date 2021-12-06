@@ -1,22 +1,22 @@
-struct_id,omop_concept_id,relationship_name,omop_concept_name,umls_cui,umls_semantic_type,snomed_conceptid,snomed_full_name,drug_name
-1264,21001022,contraindication,Depressive disorder,C0011581,T048,35489007.0,Depressive disorder,gabapentin
-1264,21000985,contraindication,Suicidal thoughts,C0424000,T033,6471006.0,Suicidal thoughts,gabapentin
-1264,21002292,contraindication,Kidney disease,C0022658,T047,90708001.0,Kidney disease,gabapentin
-1264,21000166,indication,Postherpetic neuralgia,C0032768,T047,2177002.0,Postherpetic neuralgia,gabapentin
-1264,21004851,indication,Restless legs,C0035258,T047,32914008.0,Restless legs,gabapentin
-1264,21013508,indication,Partial Epilepsy Treatment Adjunct,,,,,gabapentin
-1264,21002508,off-label use,Menopausal flushing,C0600142,T184,198436008.0,Menopausal flushing,gabapentin
-1264,21003090,off-label use,Chronic pain,C0150055,T184,82423001.0,Chronic pain,gabapentin
-1264,40249515,off-label use,Refractory pruritis,C0033774,T184,418363000.0,Itching of skin,gabapentin
-1264,4264789,off-label use,Anxiety disorder,C0003469,T048,197480006.0,Anxiety disorder,gabapentin
-1264,21002865,off-label use,Fibromyalgia,C0016053,T047,203082005.0,Fibromyalgia,gabapentin
-1264,21003063,off-label use,Insomnia,C0917801,T184,193462001.0,Insomnia,gabapentin
-1264,40249494,off-label use,Chronic pruritus,C0033774,T184,418363000.0,Itching of skin,gabapentin
-1264,21000996,off-label use,Alcohol use disorder,C0001973,T048,7200002.0,Alcoholism,gabapentin
-1264,40249488,off-label use,Chronic cough,C0010201,T184,68154008.0,Chronic cough,gabapentin
-1264,40249516,off-label use,Post-stroke nausea,C0027497,T184,422587007.0,Nausea,gabapentin
-1264,21013795,off-label use,Neuropathic pain,C0027796,T184,247398009.0,Neuropathic pain,gabapentin
-1264,21003081,off-label use,Acute postoperative pain,C2215257,T184,107401000119105.0,Acute postoperative pain,gabapentin
-1264,21013872,off-label use,Essential tremor,C3543433,T047,609558009.0,Essential tremor,gabapentin
-1264,21004236,off-label use,Intractable hiccups,C0744898,T047,716771000.0,Chronic hiccups,gabapentin
-1264,40249517,off-label use,Menopausal night sweats,C0028081,T184,42984000.0,Night sweats,gabapentin
+,struct_id,omop_concept_id,omop_concept_name,relationship_name,umls_cui,umls_semantic_type,snomed_concept_id,snomed_concept_code,snomed_full_name,drug_name,concept_class_id,standard_concept
+0,1264,21001022,Depressive disorder,contraindication,C0011581,T048,440383,35489007,Depressive disorder,gabapentin,Clinical Finding,S
+1,1264,21000985,Suicidal thoughts,contraindication,C0424000,T033,4273391,6471006,Suicidal thoughts,gabapentin,Clinical Finding,S
+2,1264,21002292,Kidney disease,contraindication,C0022658,T047,198124,90708001,Kidney disease,gabapentin,Clinical Finding,S
+3,1264,21000166,Postherpetic neuralgia,indication,C0032768,T047,4071164,2177002,Postherpetic neuralgia,gabapentin,Clinical Finding,S
+4,1264,21004851,Restless legs,indication,C0035258,T047,73754,32914008,Restless legs,gabapentin,Clinical Finding,S
+5,1264,21013508,Partial Epilepsy Treatment Adjunct,indication,,,0,0,,gabapentin,,
+6,1264,21002508,Menopausal flushing,off-label use,C0600142,T184,4113666,198436008,Menopausal flushing,gabapentin,Clinical Finding,S
+7,1264,21003090,Chronic pain,off-label use,C0150055,T184,436096,82423001,Chronic pain,gabapentin,Clinical Finding,S
+8,1264,40249515,Refractory pruritis,off-label use,C0033774,T184,4169287,418363000,Itching of skin,gabapentin,Clinical Finding,S
+9,1264,4264789,Anxiety disorder,off-label use,C0003469,T048,442077,197480006,Anxiety disorder,gabapentin,Clinical Finding,S
+10,1264,21002865,Fibromyalgia,off-label use,C0016053,T047,40405599,203082005,Fibromyalgia,gabapentin,Clinical Finding,S
+11,1264,21003063,Insomnia,off-label use,C0917801,T184,436962,193462001,Insomnia,gabapentin,Clinical Finding,S
+12,1264,40249494,Chronic pruritus,off-label use,C0033774,T184,4169287,418363000,Itching of skin,gabapentin,Clinical Finding,S
+13,1264,21000996,Alcohol use disorder,off-label use,C0001973,T048,4218106,7200002,Alcoholism,gabapentin,Clinical Finding,S
+14,1264,40249488,Chronic cough,off-label use,C0010201,T184,4195384,68154008,Chronic cough,gabapentin,Clinical Finding,S
+15,1264,40249516,Post-stroke nausea,off-label use,C0027497,T184,31967,422587007,Nausea,gabapentin,Clinical Finding,S
+16,1264,21013795,Neuropathic pain,off-label use,C0027796,T184,4090564,247398009,Neuropathic pain,gabapentin,Clinical Finding,S
+17,1264,21003081,Acute postoperative pain,off-label use,C2215257,T184,43530621,107401000119105,Acute postoperative pain,gabapentin,Clinical Finding,S
+18,1264,21013872,Essential tremor,off-label use,C3543433,T047,43531003,609558009,Essential tremor,gabapentin,Clinical Finding,S
+19,1264,21004236,Intractable hiccups,off-label use,C0744898,T047,37396824,716771000,Chronic hiccups,gabapentin,Clinical Finding,S
+20,1264,40249517,Menopausal night sweats,off-label use,C0028081,T184,4181178,42984000,Night sweats,gabapentin,Clinical Finding,S
