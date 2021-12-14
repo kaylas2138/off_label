@@ -90,7 +90,11 @@ Untitled.ipynb
 DrugInd_Extraction.ipynb
 Implications.ipynb
 mimic_to_indication.ipynb
-
+.gitignore
+off_label_analysis.ipynb
+Mimic_to_Indication_v2.ipynb
+file_generation.ipynb
+concept_mapping.py
 
 # IPython
 profile_default/
