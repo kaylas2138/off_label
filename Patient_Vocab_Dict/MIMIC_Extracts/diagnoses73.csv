@@ -1,0 +1,13 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,2277879,19808599,26428827,1,72989,9,Other musculoskeletal symptoms referable to limbs
+1,3008229,19808599,26428827,2,3564,9,Idiopathic progressive polyneuropathy
+2,1660780,19808599,26428827,3,7291,9,"Myalgia and myositis, unspecified"
+3,2129655,19808599,26428827,4,V1041,9,Personal history of malignant neoplasm of cervix uteri
+4,489176,19808599,26428827,5,311,9,"Depressive disorder, not elsewhere classified"
+5,268943,19808599,26428827,6,4019,9,Unspecified essential hypertension
+6,1825015,19808599,26428827,7,30391,9,"Other and unspecified alcohol dependence, continuous"
+7,1072834,19808599,26428827,8,3051,9,Tobacco use disorder
+8,403725,19808599,26428827,9,2724,9,Other and unspecified hyperlipidemia
+9,725745,19808599,26428827,10,7837,9,Adult failure to thrive
+10,2735106,19808599,26428827,11,78097,9,Altered mental status
+11,2991621,19808599,26428827,12,V1559,9,Personal history of other injury

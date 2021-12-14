@@ -1,0 +1,7 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,2060715,17485030,22364941,1,0539,9,Herpes zoster without mention of complication
+1,2176405,17485030,22364941,2,42832,9,Chronic diastolic heart failure
+2,1586684,17485030,22364941,3,20300,9,"Multiple myeloma, without mention of having achieved remission"
+3,729770,17485030,22364941,4,00845,9,Intestinal infection due to Clostridium difficile
+4,1176448,17485030,22364941,5,4280,9,"Congestive heart failure, unspecified"
+5,1575383,17485030,22364941,6,27739,9,Other amyloidosis

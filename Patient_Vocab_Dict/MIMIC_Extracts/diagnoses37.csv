@@ -1,0 +1,22 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,4621927,17046279,29536635,1,G40409,10,"Other generalized epilepsy and epileptic syndromes, not intractable, without status epilepticus"
+1,3366803,17046279,29536635,2,J9600,10,"Acute respiratory failure, unspecified whether with hypoxia or hypercapnia"
+2,3630824,17046279,29536635,3,E872,10,Acidosis
+3,4261377,17046279,29536635,4,J449,10,"Chronic obstructive pulmonary disease, unspecified"
+4,3267458,17046279,29536635,5,I10,10,Essential (primary) hypertension
+5,4009620,17046279,29536635,6,D72829,10,"Elevated white blood cell count, unspecified"
+6,5033453,17046279,29536635,7,E099,10,Drug or chemical induced diabetes mellitus without complications
+7,4716594,17046279,29536635,8,T380X5A,10,"Adverse effect of glucocorticoids and synthetic analogues, initial encounter"
+8,4183246,17046279,29536635,9,Y929,10,Unspecified place or not applicable
+9,3562497,17046279,29536635,10,F329,10,"Major depressive disorder, single episode, unspecified"
+10,3771203,17046279,29536635,11,F419,10,"Anxiety disorder, unspecified"
+11,4461985,17046279,29536635,12,M810,10,Age-related osteoporosis without current pathological fracture
+12,3589694,17046279,29536635,13,E875,10,Hyperkalemia
+13,4243820,17046279,29536635,14,D6959,10,Other secondary thrombocytopenia
+14,3378963,17046279,29536635,15,D649,10,"Anemia, unspecified"
+15,3968095,17046279,29536635,16,R1110,10,"Vomiting, unspecified"
+16,4497687,17046279,29536635,17,R509,10,"Fever, unspecified"
+17,4722433,17046279,29536635,18,Z96659,10,Presence of unspecified artificial knee joint
+18,3216171,17046279,29536635,19,E669,10,"Obesity, unspecified"
+19,4754422,17046279,29536635,20,Z6830,10,"Body mass index (BMI) 30.0-30.9, adult"
+20,4478840,17046279,29536635,21,Z9981,10,Dependence on supplemental oxygen

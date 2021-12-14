@@ -1,0 +1,15 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,1974609,16254256,21765716,1,9950,9,Other anaphylactic reaction
+1,1375217,16254256,21765716,2,51881,9,Acute respiratory failure
+2,1452965,16254256,21765716,3,E9478,9,Other drugs and medicinal substances causing adverse effects in therapeutic use
+3,534118,16254256,21765716,4,E8497,9,Accidents occurring in residential institution
+4,49955,16254256,21765716,5,2189,9,"Leiomyoma of uterus, unspecified"
+5,2675279,16254256,21765716,6,9951,9,"Angioneurotic edema, not elsewhere classified"
+6,340289,16254256,21765716,7,7242,9,Lumbago
+7,1316745,16254256,21765716,8,29680,9,"Bipolar disorder, unspecified"
+8,448830,16254256,21765716,9,49390,9,"Asthma, unspecified type, unspecified"
+9,2099323,16254256,21765716,10,71590,9,"Osteoarthrosis, unspecified whether generalized or localized, site unspecified"
+10,284744,16254256,21765716,11,34690,9,"Migraine, unspecified, without mention of intractable migraine without mention of status migrainosus"
+11,151894,16254256,21765716,12,53081,9,Esophageal reflux
+12,95603,16254256,21765716,13,2449,9,Unspecified acquired hypothyroidism
+13,2621460,16254256,21765716,14,78052,9,"Insomnia, unspecified"

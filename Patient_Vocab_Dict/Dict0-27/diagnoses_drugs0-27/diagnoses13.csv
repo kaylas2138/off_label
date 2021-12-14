@@ -1,0 +1,15 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,3937732,12437533,21241451,1,M179,10,"Osteoarthritis of knee, unspecified"
+1,3160840,12437533,21241451,2,E119,10,Type 2 diabetes mellitus without complications
+2,3367513,12437533,21241451,3,D649,10,"Anemia, unspecified"
+3,3948368,12437533,21241451,4,E871,10,Hypo-osmolality and hyponatremia
+4,3851440,12437533,21241451,5,M4802,10,"Spinal stenosis, cervical region"
+5,3221987,12437533,21241451,6,I10,10,Essential (primary) hypertension
+6,3381751,12437533,21241451,7,I2510,10,Atherosclerotic heart disease of native coronary artery without angina pectoris
+7,3204439,12437533,21241451,8,E669,10,"Obesity, unspecified"
+8,3958500,12437533,21241451,9,Z96651,10,Presence of right artificial knee joint
+9,3699963,12437533,21241451,10,E785,10,"Hyperlipidemia, unspecified"
+10,3110771,12437533,21241451,11,E039,10,"Hypothyroidism, unspecified"
+11,3943879,12437533,21241451,12,Z853,10,Personal history of malignant neoplasm of breast
+12,3957758,12437533,21241451,13,Z8542,10,Personal history of malignant neoplasm of other parts of uterus
+13,3134384,12437533,21241451,14,Z85828,10,Personal history of other malignant neoplasm of skin

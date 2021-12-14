@@ -1,0 +1,11 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,2547235,15980808,27035514,1,34839,9,Other encephalopathy
+1,100776,15980808,27035514,2,2449,9,Unspecified acquired hypothyroidism
+2,1898697,15980808,27035514,3,6961,9,Other psoriasis
+3,396353,15980808,27035514,4,2724,9,Other and unspecified hyperlipidemia
+4,161011,15980808,27035514,5,53081,9,Esophageal reflux
+5,484869,15980808,27035514,6,311,9,"Depressive disorder, not elsewhere classified"
+6,522749,15980808,27035514,7,30000,9,"Anxiety state, unspecified"
+7,1835628,15980808,27035514,8,7245,9,"Backache, unspecified"
+8,1670254,15980808,27035514,9,33829,9,Other chronic pain
+9,1543650,15980808,27035514,10,V4365,9,Knee joint replacement

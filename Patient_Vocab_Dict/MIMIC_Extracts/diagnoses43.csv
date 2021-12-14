@@ -1,0 +1,13 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,2711874,16047541,29221003,1,30002,9,Generalized anxiety disorder
+1,461173,16047541,29221003,2,311,9,"Depressive disorder, not elsewhere classified"
+2,192130,16047541,29221003,3,4019,9,Unspecified essential hypertension
+3,321627,16047541,29221003,4,32723,9,Obstructive sleep apnea (adult)(pediatric)
+4,51969,16047541,29221003,5,5641,9,Irritable bowel syndrome
+5,570989,16047541,29221003,6,60001,9,Hypertrophy (benign) of prostate with urinary obstruction and other lower urinary tract symptoms (LUTS)
+6,663910,16047541,29221003,7,78820,9,"Retention of urine, unspecified"
+7,351336,16047541,29221003,8,2724,9,Other and unspecified hyperlipidemia
+8,1333053,16047541,29221003,9,2410,9,Nontoxic uninodular goiter
+9,25410,16047541,29221003,10,7840,9,Headache
+10,2814314,16047541,29221003,11,4556,9,Unspecified hemorrhoids without mention of complication
+11,1355429,16047541,29221003,12,V1581,9,"Personal history of noncompliance with medical treatment, presenting hazards to health"

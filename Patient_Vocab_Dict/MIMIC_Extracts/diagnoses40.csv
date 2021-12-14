@@ -1,0 +1,14 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,1597443,12104721,27448210,1,0389,9,Unspecified septicemia
+1,2337560,12104721,27448210,2,V6284,9,Suicidal ideation
+2,303430,12104721,27448210,3,6826,9,"Cellulitis and abscess of leg, except foot"
+3,2778380,12104721,27448210,4,72660,9,"Enthesopathy of knee, unspecified"
+4,1434464,12104721,27448210,5,99591,9,Sepsis
+5,2010579,12104721,27448210,6,6930,9,Dermatitis due to drugs and medicines taken internally
+6,2410921,12104721,27448210,7,E9310,9,Sulfonamides causing adverse effects in therapeutic use
+7,1388774,12104721,27448210,8,07070,9,Unspecified viral hepatitis C without hepatic coma
+8,1318260,12104721,27448210,9,29680,9,"Bipolar disorder, unspecified"
+9,1047813,12104721,27448210,10,30500,9,"Alcohol abuse, unspecified"
+10,1036682,12104721,27448210,11,30560,9,"Cocaine abuse, unspecified"
+11,2387738,12104721,27448210,12,30550,9,"Opioid abuse, unspecified"
+12,2909778,12104721,27448210,13,V1204,9,Personal history of Methicillin resistant Staphylococcus aureus

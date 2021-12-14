@@ -1,0 +1,5 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,5179686,17270117,27558540,1,C183,10,Malignant neoplasm of hepatic flexure
+1,3125733,17270117,27558540,2,E039,10,"Hypothyroidism, unspecified"
+2,3562842,17270117,27558540,3,F329,10,"Major depressive disorder, single episode, unspecified"
+3,3771481,17270117,27558540,4,F419,10,"Anxiety disorder, unspecified"

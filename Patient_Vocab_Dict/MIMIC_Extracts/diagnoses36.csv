@@ -1,0 +1,16 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,2247919,15297415,26239289,1,71595,9,"Osteoarthrosis, unspecified whether generalized or localized, pelvic region and thigh"
+1,1829734,15297415,26239289,2,43491,9,"Cerebral artery occlusion, unspecified with cerebral infarction"
+2,2163268,15297415,26239289,3,V427,9,Liver replaced by transplant
+3,2179272,15297415,26239289,4,42832,9,Chronic diastolic heart failure
+4,2062625,15297415,26239289,5,5854,9,"Chronic kidney disease, Stage IV (severe)"
+5,1792664,15297415,26239289,6,V420,9,Kidney replaced by transplant
+6,1189450,15297415,26239289,7,4280,9,"Congestive heart failure, unspecified"
+7,698714,15297415,26239289,8,40390,9,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified"
+8,1512881,15297415,26239289,9,43310,9,Occlusion and stenosis of carotid artery without mention of cerebral infarction
+9,3025359,15297415,26239289,10,78451,9,Dysarthria
+10,2119090,15297415,26239289,11,78720,9,"Dysphagia, unspecified"
+11,2797173,15297415,26239289,12,78194,9,Facial weakness
+12,471517,15297415,26239289,13,311,9,"Depressive disorder, not elsewhere classified"
+13,372589,15297415,26239289,14,2724,9,Other and unspecified hyperlipidemia
+14,1884234,15297415,26239289,15,V422,9,Heart valve replaced by transplant

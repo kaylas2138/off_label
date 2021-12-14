@@ -1,0 +1,15 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,1678778,12162956,27547776,1,V5812,9,Encounter for antineoplastic immunotherapy
+1,3080209,12162956,27547776,2,51852,9,"Other pulmonary insufficiency, not elsewhere classified, following trauma and surgery"
+2,1916206,12162956,27547776,3,34982,9,Toxic encephalopathy
+3,1994922,12162956,27547776,4,1970,9,Secondary malignant neoplasm of lung
+4,752749,12162956,27547776,5,5849,9,"Acute kidney failure, unspecified"
+5,2655395,12162956,27547776,6,7824,9,"Jaundice, unspecified, not of newborn"
+6,2020032,12162956,27547776,7,2762,9,Acidosis
+7,1779257,12162956,27547776,8,V1052,9,Personal history of malignant neoplasm of kidney
+8,2035891,12162956,27547776,9,V4573,9,Acquired absence of kidney
+9,2113188,12162956,27547776,10,27541,9,Hypocalcemia
+10,1957930,12162956,27547776,11,79092,9,Abnormal coagulation profile
+11,2038634,12162956,27547776,12,2753,9,Disorders of phosphorus metabolism
+12,2077176,12162956,27547776,13,2767,9,Hyperpotassemia
+13,851829,12162956,27547776,14,2859,9,"Anemia, unspecified"

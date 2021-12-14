@@ -1,0 +1,25 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,4903769,10599045,20310818,1,K5909,10,Other constipation
+1,3450990,10599045,20310818,2,E43,10,Unspecified severe protein-calorie malnutrition
+2,3581826,10599045,20310818,3,G92,10,Toxic encephalopathy
+3,4697143,10599045,20310818,4,F0390,10,Unspecified dementia without behavioral disturbance
+4,4985571,10599045,20310818,5,C642,10,"Malignant neoplasm of left kidney, except renal pelvis"
+5,3374308,10599045,20310818,6,D649,10,"Anemia, unspecified"
+6,5240095,10599045,20310818,7,R8271,10,Bacteriuria
+7,4280408,10599045,20310818,8,Z681,10,"Body mass index (BMI) 19.9 or less, adult"
+8,3301645,10599045,20310818,9,Z23,10,Encounter for immunization
+9,3940704,10599045,20310818,10,Z86711,10,Personal history of pulmonary embolism
+10,3929834,10599045,20310818,11,Z86718,10,Personal history of other venous thrombosis and embolism
+11,3724320,10599045,20310818,12,E785,10,"Hyperlipidemia, unspecified"
+12,3249994,10599045,20310818,13,I10,10,Essential (primary) hypertension
+13,4443018,10599045,20310818,14,I714,10,"Abdominal aortic aneurysm, without rupture"
+14,4363519,10599045,20310818,15,R338,10,Other retention of urine
+15,3661904,10599045,20310818,16,K219,10,Gastro-esophageal reflux disease without esophagitis
+16,3977891,10599045,20310818,17,Z8546,10,Personal history of malignant neoplasm of prostate
+17,4582570,10599045,20310818,18,Z8551,10,Personal history of malignant neoplasm of bladder
+18,3515507,10599045,20310818,19,Z87891,10,Personal history of nicotine dependence
+19,4683430,10599045,20310818,20,F552,10,Abuse of laxatives
+20,4808399,10599045,20310818,21,T402X5A,10,"Adverse effect of other opioids, initial encounter"
+21,4839337,10599045,20310818,22,Y92009,10,Unspecified place in unspecified non-institutional (private) residence as the place of occurrence of the external cause
+22,4546830,10599045,20310818,23,M5412,10,"Radiculopathy, cervical region"
+23,5249537,10599045,20310818,24,G44221,10,"Chronic tension-type headache, intractable"

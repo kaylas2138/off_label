@@ -1,0 +1,11 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,4187414,15115878,22833702,1,M4806,10,"Spinal stenosis, lumbar region"
+1,5092168,15115878,22833702,2,G959,10,"Disease of spinal cord, unspecified"
+2,4337995,15115878,22833702,3,N183,10,"Chronic kidney disease, stage 3 (moderate)"
+3,3156867,15115878,22833702,4,E6601,10,Morbid (severe) obesity due to excess calories
+4,3639124,15115878,22833702,5,Z6837,10,"Body mass index (BMI) 37.0-37.9, adult"
+5,3800757,15115878,22833702,6,G4733,10,Obstructive sleep apnea (adult) (pediatric)
+6,4012301,15115878,22833702,7,F17210,10,"Nicotine dependence, cigarettes, uncomplicated"
+7,4115458,15115878,22833702,8,I129,10,"Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+8,3703652,15115878,22833702,9,E785,10,"Hyperlipidemia, unspecified"
+9,3291238,15115878,22833702,10,Z23,10,Encounter for immunization

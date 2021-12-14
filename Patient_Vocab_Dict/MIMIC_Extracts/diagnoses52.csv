@@ -1,0 +1,39 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,4671150,14886080,24248781,1,C8332,10,"Diffuse large B-cell lymphoma, intrathoracic lymph nodes"
+1,3868887,14886080,24248781,2,J9601,10,Acute respiratory failure with hypoxia
+2,3621313,14886080,24248781,3,N170,10,Acute kidney failure with tubular necrosis
+3,5091441,14886080,24248781,4,I2119,10,ST elevation (STEMI) myocardial infarction involving other coronary artery of inferior wall
+4,5018518,14886080,24248781,5,I4901,10,Ventricular fibrillation
+5,5146053,14886080,24248781,6,A413,10,Sepsis due to Hemophilus influenzae
+6,3436984,14886080,24248781,7,R6521,10,Severe sepsis with septic shock
+7,3632682,14886080,24248781,8,J690,10,Pneumonitis due to inhalation of food and vomit
+8,4794677,14886080,24248781,9,J910,10,Malignant pleural effusion
+9,4452315,14886080,24248781,10,G9340,10,"Encephalopathy, unspecified"
+10,4807696,14886080,24248781,11,T8111XA,10,"Postprocedural cardiogenic shock, initial encounter"
+11,4336825,14886080,24248781,12,J95851,10,Ventilator associated pneumonia
+12,4191745,14886080,24248781,13,A047,10,Enterocolitis due to Clostridium difficile
+13,4725747,14886080,24248781,14,J95811,10,Postprocedural pneumothorax
+14,3880877,14886080,24248781,15,N179,10,"Acute kidney failure, unspecified"
+15,4923517,14886080,24248781,16,M8448XA,10,"Pathological fracture, other site, initial encounter for fracture"
+16,3573592,14886080,24248781,17,D689,10,"Coagulation defect, unspecified"
+17,5077139,14886080,24248781,18,L03317,10,Cellulitis of buttock
+18,5062036,14886080,24248781,19,I462,10,Cardiac arrest due to underlying cardiac condition
+19,4987610,14886080,24248781,20,I2582,10,Chronic total occlusion of coronary artery
+20,3382401,14886080,24248781,21,I2510,10,Atherosclerotic heart disease of native coronary artery without angina pectoris
+21,4381114,14886080,24248781,22,L89150,10,"Pressure ulcer of sacral region, unstageable"
+22,5137169,14886080,24248781,23,B963,10,Hemophilus influenzae [H. influenzae] as the cause of diseases classified elsewhere
+23,4316183,14886080,24248781,24,I482,10,Chronic atrial fibrillation
+24,4241131,14886080,24248781,25,D6959,10,Other secondary thrombocytopenia
+25,3460411,14886080,24248781,26,Z7901,10,Long term (current) use of anticoagulants
+26,3178980,14886080,24248781,27,Z794,10,Long term (current) use of insulin
+27,3701288,14886080,24248781,28,E785,10,"Hyperlipidemia, unspecified"
+28,4287772,14886080,24248781,29,I739,10,"Peripheral vascular disease, unspecified"
+29,4348900,14886080,24248781,30,H3530,10,Unspecified macular degeneration
+30,3692400,14886080,24248781,31,N400,10,Benign prostatic hyperplasia without lower urinary tract symptoms
+31,4771582,14886080,24248781,32,Y840,10,"Cardiac catheterization as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure"
+32,3351902,14886080,24248781,33,Y92239,10,Unspecified place in hospital as the place of occurrence of the external cause
+33,4282589,14886080,24248781,34,T17990A,10,"Other foreign object in respiratory tract, part unspecified in causing asphyxiation, initial encounter"
+34,4691098,14886080,24248781,35,X58XXXA,10,"Exposure to other specified factors, initial encounter"
+35,4131421,14886080,24248781,36,Y92230,10,Patient room in hospital as the place of occurrence of the external cause
+36,3602205,14886080,24248781,37,Y848,10,"Other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure"
+37,4570744,14886080,24248781,38,E1165,10,Type 2 diabetes mellitus with hyperglycemia

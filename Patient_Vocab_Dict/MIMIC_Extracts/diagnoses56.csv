@@ -1,0 +1,25 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,4427093,18274431,25475229,1,Z432,10,Encounter for attention to ileostomy
+1,4199213,18274431,25475229,2,J189,10,"Pneumonia, unspecified organism"
+2,3898239,18274431,25475229,3,N179,10,"Acute kidney failure, unspecified"
+3,4055313,18274431,25475229,4,K567,10,"Ileus, unspecified"
+4,4724822,18274431,25475229,5,K5090,10,"Crohn's disease, unspecified, without complications"
+5,3618439,18274431,25475229,6,N189,10,"Chronic kidney disease, unspecified"
+6,5055107,18274431,25475229,7,R0989,10,Other specified symptoms and signs involving the circulatory and respiratory systems
+7,4207592,18274431,25475229,8,R410,10,"Disorientation, unspecified"
+8,4616690,18274431,25475229,9,Z85038,10,Personal history of other malignant neoplasm of large intestine
+9,3530862,18274431,25475229,10,Z87891,10,Personal history of nicotine dependence
+10,3743695,18274431,25475229,11,E785,10,"Hyperlipidemia, unspecified"
+11,3861532,18274431,25475229,12,I252,10,Old myocardial infarction
+12,3937178,18274431,25475229,13,I951,10,Orthostatic hypotension
+13,3404826,18274431,25475229,14,I2510,10,Atherosclerotic heart disease of native coronary artery without angina pectoris
+14,4277068,18274431,25475229,15,Z955,10,Presence of coronary angioplasty implant and graft
+15,4623891,18274431,25475229,16,K7030,10,Alcoholic cirrhosis of liver without ascites
+16,4036238,18274431,25475229,17,Z8673,10,"Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits"
+17,3563721,18274431,25475229,18,F329,10,"Major depressive disorder, single episode, unspecified"
+18,3772205,18274431,25475229,19,F419,10,"Anxiety disorder, unspecified"
+19,3331737,18274431,25475229,20,D510,10,Vitamin B12 deficiency anemia due to intrinsic factor deficiency
+20,4123700,18274431,25475229,21,I129,10,"Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+21,4436288,18274431,25475229,22,G629,10,"Polyneuropathy, unspecified"
+22,4105182,18274431,25475229,23,M109,10,"Gout, unspecified"
+23,3916441,18274431,25475229,24,Z66,10,Do not resuscitate

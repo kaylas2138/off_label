@@ -1,0 +1,20 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,2394691,11101768,24060205,1,8208,9,Closed fracture of unspecified part of neck of femur
+1,2061938,11101768,24060205,2,5854,9,"Chronic kidney disease, Stage IV (severe)"
+2,62473,11101768,24060205,3,5990,9,"Urinary tract infection, site not specified"
+3,426202,11101768,24060205,4,2851,9,Acute posthemorrhagic anemia
+4,1712926,11101768,24060205,5,V5867,9,Long-term (current) use of insulin
+5,693273,11101768,24060205,6,40390,9,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified"
+6,2109342,11101768,24060205,7,25062,9,"Diabetes with neurological manifestations, type II or unspecified type, uncontrolled"
+7,2759420,11101768,24060205,8,2900,9,"Senile dementia, uncomplicated"
+8,2194973,11101768,24060205,9,E8859,9,"Fall from other slipping, tripping, or stumbling"
+9,358027,11101768,24060205,10,2724,9,Other and unspecified hyperlipidemia
+10,1628943,11101768,24060205,11,3572,9,Polyneuropathy in diabetes
+11,947365,11101768,24060205,12,2749,9,"Gout, unspecified"
+12,1972589,11101768,24060205,13,04111,9,Methicillin susceptible Staphylococcus aureus in conditions classified elsewhere and of unspecified site
+13,2974622,11101768,24060205,14,59970,9,"Hematuria, unspecified"
+14,632909,11101768,24060205,15,73300,9,"Osteoporosis, unspecified"
+15,674939,11101768,24060205,16,2875,9,"Thrombocytopenia, unspecified"
+16,2199233,11101768,24060205,17,51919,9,Other diseases of trachea and bronchus
+17,1830834,11101768,24060205,18,2738,9,Other disorders of plasma protein metabolism
+18,2064220,11101768,24060205,19,7910,9,Proteinuria

@@ -1,0 +1,6 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,1391623,13151400,29828766,1,7211,9,Cervical spondylosis with myelopathy
+1,2141930,13151400,29828766,2,72271,9,"Intervertebral disc disorder with myelopathy, cervical region"
+2,1243921,13151400,29828766,3,25000,9,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+3,189450,13151400,29828766,4,4019,9,Unspecified essential hypertension
+4,438914,13151400,29828766,5,49390,9,"Asthma, unspecified type, unspecified"

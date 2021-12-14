@@ -1,0 +1,26 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,4943411,14535212,27278284,1,F10229,10,"Alcohol dependence with intoxication, unspecified"
+1,3878263,14535212,27278284,2,D61818,10,Other pancytopenia
+2,4900914,14535212,27278284,3,I8500,10,Esophageal varices without bleeding
+3,4576988,14535212,27278284,4,R7881,10,Bacteremia
+4,5100446,14535212,27278284,5,N3000,10,Acute cystitis without hematuria
+5,3440196,14535212,27278284,6,D696,10,"Thrombocytopenia, unspecified"
+6,4433421,14535212,27278284,7,G629,10,"Polyneuropathy, unspecified"
+7,3948507,14535212,27278284,8,E871,10,Hypo-osmolality and hyponatremia
+8,4512118,14535212,27278284,9,K7031,10,Alcoholic cirrhosis of liver with ascites
+9,5031692,14535212,27278284,10,Y908,10,Blood alcohol level of 240 mg/100 ml or more
+10,3111029,14535212,27278284,11,E039,10,"Hypothyroidism, unspecified"
+11,3700707,14535212,27278284,12,E785,10,"Hyperlipidemia, unspecified"
+12,4215187,14535212,27278284,13,Z86010,10,Personal history of colonic polyps
+13,4677864,14535212,27278284,14,Z811,10,Family history of alcohol abuse and dependence
+14,3986242,14535212,27278284,15,Z8249,10,Family history of ischemic heart disease and other diseases of the circulatory system
+15,5100352,14535212,27278284,16,Z8489,10,Family history of other specified conditions
+16,5018855,14535212,27278284,17,K769,10,"Liver disease, unspecified"
+17,3837919,14535212,27278284,18,E860,10,Dehydration
+18,4501010,14535212,27278284,19,K7040,10,Alcoholic hepatic failure without coma
+19,3358752,14535212,27278284,20,B9620,10,Unspecified Escherichia coli [E. coli] as the cause of diseases classified elsewhere
+20,4802065,14535212,27278284,21,B957,10,Other staphylococcus as the cause of diseases classified elsewhere
+21,4666050,14535212,27278284,22,D539,10,"Nutritional anemia, unspecified"
+22,3315972,14535212,27278284,23,R112,10,"Nausea with vomiting, unspecified"
+23,4554753,14535212,27278284,24,L299,10,"Pruritus, unspecified"
+24,3906780,14535212,27278284,25,Z66,10,Do not resuscitate

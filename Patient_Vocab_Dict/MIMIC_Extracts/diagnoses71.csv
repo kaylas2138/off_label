@@ -1,0 +1,9 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,2919512,13964037,28061095,1,99641,9,Mechanical loosening of prosthetic joint
+1,2163217,13964037,28061095,2,V427,9,Liver replaced by transplant
+2,3039007,13964037,28061095,3,V8541,9,"Body Mass Index 40.0-44.9, adult"
+3,224151,13964037,28061095,4,4019,9,Unspecified essential hypertension
+4,315457,13964037,28061095,5,27801,9,Morbid obesity
+5,1258759,13964037,28061095,6,25000,9,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+6,1541349,13964037,28061095,7,V4365,9,Knee joint replacement
+7,1282620,13964037,28061095,8,E8781,9,"Surgical operation with implant of artificial internal device causing abnormal patient reaction, or later complication,without mention of misadventure at time of operation"

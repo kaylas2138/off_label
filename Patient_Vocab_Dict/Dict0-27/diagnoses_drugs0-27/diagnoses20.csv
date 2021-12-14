@@ -1,0 +1,10 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,1624584,14650130,29378849,1,71536,9,"Osteoarthrosis, localized, not specified whether primary or secondary, lower leg"
+1,1307100,14650130,29378849,2,5718,9,Other chronic nonalcoholic liver disease
+2,3037896,14650130,29378849,3,V8542,9,"Body Mass Index 45.0-49.9, adult"
+3,1508363,14650130,29378849,4,27800,9,"Obesity, unspecified"
+4,491352,14650130,29378849,5,311,9,"Depressive disorder, not elsewhere classified"
+5,2975716,14650130,29378849,6,59970,9,"Hematuria, unspecified"
+6,528136,14650130,29378849,7,30000,9,"Anxiety state, unspecified"
+7,606392,14650130,29378849,8,V5861,9,Long-term (current) use of anticoagulants
+8,3000648,14650130,29378849,9,V8801,9,Acquired absence of both cervix and uterus

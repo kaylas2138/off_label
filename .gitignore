@@ -2,6 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
+
+
+
 Untitled.ipynb
 # C extensions
 *.so
@@ -81,6 +84,14 @@ clinical_data/
 data/
 exploratory.ipynb
 off_label_analysis.ipynb
+Dict/
+MIMIC_to_Indication_v2.ipynb
+Untitled.ipynb
+DrugInd_Extraction.ipynb
+Implications.ipynb
+mimic_to_indication.ipynb
+
+
 # IPython
 profile_default/
 ipython_config.py

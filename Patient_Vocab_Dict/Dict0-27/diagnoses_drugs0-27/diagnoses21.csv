@@ -1,0 +1,16 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,4662743,11944507,26157788,1,R001,10,"Bradycardia, unspecified"
+1,4429571,11944507,26157788,2,I5032,10,Chronic diastolic (congestive) heart failure
+2,5102863,11944507,26157788,3,I110,10,Hypertensive heart disease with heart failure
+3,5090207,11944507,26157788,4,L120,10,Bullous pemphigoid
+4,4416168,11944507,26157788,5,T447X5A,10,"Adverse effect of beta-adrenoreceptor antagonists, initial encounter"
+5,5078359,11944507,26157788,6,T461X5A,10,"Adverse effect of calcium-channel blockers, initial encounter"
+6,4177245,11944507,26157788,7,Y929,10,Unspecified place or not applicable
+7,4317300,11944507,26157788,8,I482,10,Chronic atrial fibrillation
+8,3467827,11944507,26157788,9,Z7901,10,Long term (current) use of anticoagulants
+9,3660142,11944507,26157788,10,K219,10,Gastro-esophageal reflux disease without esophagitis
+10,3721785,11944507,26157788,11,E785,10,"Hyperlipidemia, unspecified"
+11,5014192,11944507,26157788,12,I69392,10,Facial weakness following cerebral infarction
+12,4231576,11944507,26157788,13,R911,10,Solitary pulmonary nodule
+13,4814338,11944507,26157788,14,R634,10,Abnormal weight loss
+14,4658090,11944507,26157788,15,Z6820,10,"Body mass index (BMI) 20.0-20.9, adult"

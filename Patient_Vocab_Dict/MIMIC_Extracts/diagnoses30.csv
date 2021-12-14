@@ -1,0 +1,6 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,2749870,12813812,23222606,1,05379,9,Herpes zoster with other specified complications
+1,738740,12813812,23222606,2,5849,9,"Acute kidney failure, unspecified"
+2,437606,12813812,23222606,3,49390,9,"Asthma, unspecified type, unspecified"
+3,125288,12813812,23222606,4,53081,9,Esophageal reflux
+4,1771335,12813812,23222606,5,3659,9,Unspecified glaucoma

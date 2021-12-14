@@ -1,0 +1,19 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,3991275,16547780,26408797,1,I480,10,Paroxysmal atrial fibrillation
+1,4765099,16547780,26408797,2,I5023,10,Acute on chronic systolic (congestive) heart failure
+2,3881998,16547780,26408797,3,N179,10,"Acute kidney failure, unspecified"
+3,4338050,16547780,26408797,4,N183,10,"Chronic kidney disease, stage 3 (moderate)"
+4,4936434,16547780,26408797,5,I452,10,Bifascicular block
+5,4158440,16547780,26408797,6,E0500,10,Thyrotoxicosis with diffuse goiter without thyrotoxic crisis or storm
+6,4203725,16547780,26408797,7,E780,10,Pure hypercholesterolemia
+7,4086220,16547780,26408797,8,Z95810,10,Presence of automatic (implantable) cardiac defibrillator
+8,4612890,16547780,26408797,9,F17290,10,"Nicotine dependence, other tobacco product, uncomplicated"
+9,3986601,16547780,26408797,10,Z8249,10,Family history of ischemic heart disease and other diseases of the circulatory system
+10,3383923,16547780,26408797,11,I2510,10,Atherosclerotic heart disease of native coronary artery without angina pectoris
+11,3479334,16547780,26408797,12,G8929,10,Other chronic pain
+12,4115593,16547780,26408797,13,I129,10,"Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+13,4083399,16547780,26408797,14,I340,10,Nonrheumatic mitral (valve) insufficiency
+14,3753540,16547780,26408797,15,F419,10,"Anxiety disorder, unspecified"
+15,3197865,16547780,26408797,16,G4700,10,"Insomnia, unspecified"
+16,3853520,16547780,26408797,17,I252,10,Old myocardial infarction
+17,3918239,16547780,26408797,18,I429,10,"Cardiomyopathy, unspecified"

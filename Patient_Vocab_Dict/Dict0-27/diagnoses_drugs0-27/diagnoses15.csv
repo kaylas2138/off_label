@@ -1,0 +1,17 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,2008168,16822737,20632185,1,25082,9,"Diabetes with other specified manifestations, type II or unspecified type, uncontrolled"
+1,2847095,16822737,20632185,2,05329,9,Herpes zoster with other ophthalmic complications
+2,801693,16822737,20632185,3,27651,9,Dehydration
+3,965525,16822737,20632185,4,41401,9,Coronary atherosclerosis of native coronary artery
+4,877191,16822737,20632185,5,42731,9,Atrial fibrillation
+5,649643,16822737,20632185,6,5859,9,"Chronic kidney disease, unspecified"
+6,844113,16822737,20632185,7,2859,9,"Anemia, unspecified"
+7,1311101,16822737,20632185,8,2662,9,Other B-complex deficiencies
+8,692012,16822737,20632185,9,40390,9,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified"
+9,132546,16822737,20632185,10,53081,9,Esophageal reflux
+10,1620273,16822737,20632185,11,33394,9,Restless legs syndrome (RLS)
+11,1756207,16822737,20632185,12,73390,9,"Disorder of bone and cartilage, unspecified"
+12,1825920,16822737,20632185,13,4580,9,Orthostatic hypotension
+13,1741425,16822737,20632185,14,V1588,9,History of fall
+14,2103715,16822737,20632185,15,78079,9,Other malaise and fatigue
+15,2419544,16822737,20632185,16,E9323,9,Insulins and antidiabetic agents causing adverse effects in therapeutic use

@@ -1,0 +1,7 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,1622478,18082060,27769309,1,71536,9,"Osteoarthrosis, localized, not specified whether primary or secondary, lower leg"
+1,729310,18082060,27769309,2,00845,9,Intestinal infection due to Clostridium difficile
+2,714622,18082060,27769309,3,45829,9,Other iatrogenic hypotension
+3,178011,18082060,27769309,4,4019,9,Unspecified essential hypertension
+4,916146,18082060,27769309,5,V103,9,Personal history of malignant neoplasm of breast
+5,1867251,18082060,27769309,6,V1279,9,Personal history of other diseases of digestive system

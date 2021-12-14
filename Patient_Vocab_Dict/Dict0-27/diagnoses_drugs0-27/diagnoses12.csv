@@ -1,0 +1,13 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,4208086,11839016,26784351,1,M1712,10,"Unilateral primary osteoarthritis, left knee"
+1,4868776,11839016,26784351,2,I421,10,Obstructive hypertrophic cardiomyopathy
+2,4880375,11839016,26784351,3,Z8572,10,Personal history of non-Hodgkin lymphomas
+3,4233958,11839016,26784351,4,Z9221,10,Personal history of antineoplastic chemotherapy
+4,4213745,11839016,26784351,5,Z923,10,Personal history of irradiation
+5,3807187,11839016,26784351,6,G4733,10,Obstructive sleep apnea (adult) (pediatric)
+6,3333030,11839016,26784351,7,Z9884,10,Bariatric surgery status
+7,3726626,11839016,26784351,8,E785,10,"Hyperlipidemia, unspecified"
+8,4102829,11839016,26784351,9,M109,10,"Gout, unspecified"
+9,3212351,11839016,26784351,10,E669,10,"Obesity, unspecified"
+10,3145693,11839016,26784351,11,Z6833,10,"Body mass index (BMI) 33.0-33.9, adult"
+11,5200902,11839016,26784351,12,Z946,10,Bone transplant status

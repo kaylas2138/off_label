@@ -1,0 +1,17 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,2342667,10182665,20229296,1,78900,9,"Abdominal pain, unspecified site"
+1,2640532,10182665,20229296,2,33819,9,Other acute pain
+2,1670601,10182665,20229296,3,33829,9,Other chronic pain
+3,1948378,10182665,20229296,4,1830,9,Malignant neoplasm of ovary
+4,2044173,10182665,20229296,5,1977,9,"Malignant neoplasm of liver, secondary"
+5,761193,10182665,20229296,6,5849,9,"Acute kidney failure, unspecified"
+6,261768,10182665,20229296,7,4019,9,Unspecified essential hypertension
+7,485754,10182665,20229296,8,311,9,"Depressive disorder, not elsewhere classified"
+8,523472,10182665,20229296,9,30000,9,"Anxiety state, unspecified"
+9,162113,10182665,20229296,10,53081,9,Esophageal reflux
+10,866808,10182665,20229296,11,5533,9,Diaphragmatic hernia without mention of obstruction or gangrene
+11,1348909,10182665,20229296,12,56400,9,"Constipation, unspecified"
+12,2275460,10182665,20229296,13,37941,9,Anisocoria
+13,3000128,10182665,20229296,14,V8801,9,Acquired absence of both cervix and uterus
+14,1543837,10182665,20229296,15,V4365,9,Knee joint replacement
+15,2004036,10182665,20229296,16,V163,9,Family history of malignant neoplasm of breast

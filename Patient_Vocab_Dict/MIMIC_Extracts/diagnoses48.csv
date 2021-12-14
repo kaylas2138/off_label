@@ -1,0 +1,11 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,2742448,11352753,23776486,1,78905,9,"Abdominal pain, periumbilic"
+1,1937109,11352753,23776486,2,7905,9,Other nonspecific abnormal serum enzyme levels
+2,1998909,11352753,23776486,3,7936,9,"Nonspecific (abnormal) findings on radiological and other examination of abdominal area, including retroperitoneum"
+3,2389857,11352753,23776486,4,78321,9,Loss of weight
+4,1668194,11352753,23776486,5,33829,9,Other chronic pain
+5,1267388,11352753,23776486,6,25000,9,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+6,244886,11352753,23776486,7,4019,9,Unspecified essential hypertension
+7,2532785,11352753,23776486,8,V851,9,"Body Mass Index between 19-24, adult"
+8,298236,11352753,23776486,9,V1005,9,Personal history of malignant neoplasm of large intestine
+9,2094485,11352753,23776486,10,V453,9,Intestinal bypass or anastomosis status

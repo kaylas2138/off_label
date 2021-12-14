@@ -1,0 +1,6 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,2761899,14413340,25658746,1,81002,9,Closed fracture of shaft of clavicle
+1,2870050,14413340,25658746,2,E8121,9,Other motor vehicle traffic accident involving collision with motor vehicle injuring passenger in motor vehicle other than motorcycle
+2,1730055,14413340,25658746,3,78829,9,Other specified retention of urine
+3,137164,14413340,25658746,4,53081,9,Esophageal reflux
+4,819389,14413340,25658746,5,V442,9,Ileostomy status

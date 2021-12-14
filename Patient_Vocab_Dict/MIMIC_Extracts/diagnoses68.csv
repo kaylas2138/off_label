@@ -1,0 +1,15 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,838794,12508678,23922135,1,2859,9,"Anemia, unspecified"
+1,736615,12508678,23922135,2,5849,9,"Acute kidney failure, unspecified"
+2,2144663,12508678,23922135,3,5789,9,"Hemorrhage of gastrointestinal tract, unspecified"
+3,2408618,12508678,23922135,4,45341,9,Acute venous embolism and thrombosis of deep vessels of proximal lower extremity
+4,1644571,12508678,23922135,5,25060,9,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled"
+5,1626062,12508678,23922135,6,3572,9,Polyneuropathy in diabetes
+6,174265,12508678,23922135,7,4019,9,Unspecified essential hypertension
+7,342807,12508678,23922135,8,2724,9,Other and unspecified hyperlipidemia
+8,1381246,12508678,23922135,9,72402,9,"Spinal stenosis, lumbar region, without neurogenic claudication"
+9,1530816,12508678,23922135,10,4439,9,"Peripheral vascular disease, unspecified"
+10,1890369,12508678,23922135,11,56989,9,Other specified disorders of intestine
+11,1867793,12508678,23922135,12,56210,9,Diverticulosis of colon (without mention of hemorrhage)
+12,1208164,12508678,23922135,13,53550,9,"Unspecified gastritis and gastroduodenitis, without mention of hemorrhage"
+13,585199,12508678,23922135,14,V5861,9,Long-term (current) use of anticoagulants

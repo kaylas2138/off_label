@@ -1,0 +1,15 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,2661390,16412832,26594418,1,05319,9,Herpes zoster with other nervous system complications
+1,1580744,16412832,26594418,2,5856,9,End stage renal disease
+2,1612986,16412832,26594418,3,40391,9,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease"
+3,2764627,16412832,26594418,4,7530,9,Renal agenesis and dysgenesis
+4,882342,16412832,26594418,5,42731,9,Atrial fibrillation
+5,1812847,16412832,26594418,6,V4501,9,Cardiac pacemaker in situ
+6,683303,16412832,26594418,7,25040,9,"Diabetes with renal manifestations, type II or unspecified type, not stated as uncontrolled"
+7,711250,16412832,26594418,8,58381,9,"Nephritis and nephropathy, not specified as acute or chronic, in diseases classified elsewhere"
+8,617287,16412832,26594418,9,2720,9,Pure hypercholesterolemia
+9,1695304,16412832,26594418,10,28521,9,Anemia in chronic kidney disease
+10,3052743,16412832,26594418,11,27669,9,Other fluid overload
+11,2013986,16412832,26594418,12,44020,9,"Atherosclerosis of native arteries of the extremities, unspecified"
+12,2327343,16412832,26594418,13,5778,9,Other specified diseases of pancreas
+13,1919200,16412832,26594418,14,25080,9,"Diabetes with other specified manifestations, type II or unspecified type, not stated as uncontrolled"

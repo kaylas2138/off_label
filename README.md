@@ -1,12 +1,36 @@
 # off_label
-Automated mapping of Electronic Health Records to document off-label drug use 
 
-**off_label.py** >> Extracts relevant data from MIMICIV publicly available clinical data, which can be accessed at https://physionet.org/content/mimiciv/0.4/.  
-**vocab_mappings.py** >> Python script that defines functions that extract standard to non-standard terms or vice versa. Used to convert from ICD to SNOMED, and to MeSH codes.  
-**concept_mapping.py** >> Python script used to extract and map drug concepts from non-standard terms and vice versa. Used to convert from NDC to RxNorm ingredient, and to NDF-RT codes.   
+Automated mapping of Electronic Health Records to document off-label drug use. There are thousands of off-label medications that are being prescribed to patients on a daily basis. For this project, we have developed an automated method to detect and analyze off-label prescription pattern by comparing diagnosis codes and approved indications for prescribed medications within the [MIMICIV dataset](https://physionet.org/content/mimiciv/0.4/).
 
-**We start by extracting formal indication dat from Drug Central, in our script DrugInd_Extraction.ipynb. We also leverage Clinical Trial data from AACT. Please refer to link within script for more details on each dataset.
-We extract clinical data from MIMIC, and examine the list of diagnoses and drugs given to a patient during a specific visit. We map the nonstandard codes for both diagnoses and drugs to their standard equivalent (SNOMED and RxNorm ingredient, respectively). 
-We compare our diagnoses list with known indications from the drugs based on three indications sources: Drug Central, AACT, and NDF-RT. 
- 
-We analyze implications of our findings in Implications.ipynb. 
+We utilize OMOP vocabulary to map nonstandard diagnosis codes to their standard `SNOMED` equivalent. For medications, we map `NDC` codes to their `RxNorm` equivalent, then to `SNOMED` to ensure that we are capturing the drug ingredient. We leverage the hierarchical vocabulary structure to compare indication matchings between:
+
+1\. One-to-one Nonstandard `ICD` to standard `SNOMED` diagnosis mapping,
+
+2\. Horizontal mapping from Standard `SNOMED` to other non-standard `SNOMED`, and
+
+3\. Hierarchical mapping from Standard `SNOMED` to its parents and children vocabulary.
+
+### Indication Data
+
+-   Drug Central : A database that includes formal, government-approved indication information, as well as known off-label and contraindications.
+
+-   AACT : Clinical trial database that contains information on all clinical trials and their underlying conditions that use a particular drug as intervention / treatment.
+
+-   NDF-RT : Included in OMOP vocabulary. Developed by the Veterans Health Association, and includes indication relationships within the vocabulary.
+
+### Brief Description of MIMICIV
+
+MIMICIV is a de-identified, publicly available dataset originated from intensive care units at the Beth Israel Deaconess Medical Center (BIDMC). MIMICIV uses `ICD 9 / 10 (CM)` as their diagnosis codes, and `NDC` codes for medication prescriptions. Each patient is given a unique `subject_id`, and a unique `hadm_id` for each visit. We extract all `ICD` diagnoses and `NDC` medications for each `subject_id` and `hadm_id`, and map them both to `SNOMED` for convenience of vocabulary traversal.
+
+MIMICIV also includes patient demographic and insurance information. We use this information to conduct preliminary implication analysis based on our results.
+
+### Navigation
+
+`off_label/mapping`
+
+`off_label.py` : Extracts relevant data from MIMICIV publicly available clinical data, which can be accessed at [<https://physionet.org/content/mimiciv/0.4/>](https://physionet.org/content/mimiciv/0.4/){.uri}.\
+`vocab_mappings.py` : Python script that defines functions that extract standard to non-standard terms or vice versa. Used to convert from ICD to SNOMED, and to MeSH codes.\
+
+`off_label/Results`
+
+Finalized summary of Drug Central, AACT, and NDFRT analysis. Includes a powerpoint presentation that summarizes our project. `figures/` include visualizations of our result, and our initial implication analysis.

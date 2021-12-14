@@ -1,0 +1,13 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,1619525,13429359,23696486,1,71535,9,"Osteoarthrosis, localized, not specified whether primary or secondary, pelvic region and thigh"
+1,1845416,13429359,23696486,2,4589,9,"Hypotension, unspecified"
+2,1472295,13429359,23696486,3,2761,9,Hyposmolality and/or hyponatremia
+3,1270582,13429359,23696486,4,25000,9,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+4,252597,13429359,23696486,5,4019,9,Unspecified essential hypertension
+5,98649,13429359,23696486,6,2449,9,Unspecified acquired hypothyroidism
+6,638525,13429359,23696486,7,73300,9,"Osteoporosis, unspecified"
+7,581960,13429359,23696486,8,V1251,9,Personal history of venous thrombosis and embolism
+8,2298357,13429359,23696486,9,V5866,9,Long-term (current) use of aspirin
+9,1570979,13429359,23696486,10,V1254,9,"Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits"
+10,1399059,13429359,23696486,11,45981,9,"Venous (peripheral) insufficiency, unspecified"
+11,1347801,13429359,23696486,12,56400,9,"Constipation, unspecified"

@@ -1,0 +1,20 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,5246460,14815004,21495246,1,M50022,10,Cervical disc disorder at C5-C6 level with myelopathy
+1,4751410,14815004,21495246,2,M4712,10,"Other spondylosis with myelopathy, cervical region"
+2,4570406,14815004,21495246,3,I420,10,Dilated cardiomyopathy
+3,5230752,14815004,21495246,4,M50122,10,Cervical disc disorder at C5-C6 level with radiculopathy
+4,3852336,14815004,21495246,5,M4802,10,"Spinal stenosis, cervical region"
+5,4813447,14815004,21495246,6,M4722,10,"Other spondylosis with radiculopathy, cervical region"
+6,5106841,14815004,21495246,7,I110,10,Hypertensive heart disease with heart failure
+7,4311434,14815004,21495246,8,I509,10,"Heart failure, unspecified"
+8,3739657,14815004,21495246,9,E785,10,"Hyperlipidemia, unspecified"
+9,4474789,14815004,21495246,10,I447,10,"Left bundle-branch block, unspecified"
+10,4260997,14815004,21495246,11,J449,10,"Chronic obstructive pulmonary disease, unspecified"
+11,3810927,14815004,21495246,12,G4733,10,Obstructive sleep apnea (adult) (pediatric)
+12,3402697,14815004,21495246,13,I2510,10,Atherosclerotic heart disease of native coronary artery without angina pectoris
+13,3672461,14815004,21495246,14,K219,10,Gastro-esophageal reflux disease without esophagitis
+14,3698147,14815004,21495246,15,N400,10,Benign prostatic hyperplasia without lower urinary tract symptoms
+15,5189178,14815004,21495246,16,H6691,10,"Otitis media, unspecified, right ear"
+16,3215721,14815004,21495246,17,E669,10,"Obesity, unspecified"
+17,3844546,14815004,21495246,18,Z6835,10,"Body mass index (BMI) 35.0-35.9, adult"
+18,3527679,14815004,21495246,19,Z87891,10,Personal history of nicotine dependence

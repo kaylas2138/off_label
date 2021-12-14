@@ -1,0 +1,30 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,4571232,16548967,24292395,1,E1165,10,Type 2 diabetes mellitus with hyperglycemia
+1,3580063,16548967,24292395,2,G92,10,Toxic encephalopathy
+2,3882932,16548967,24292395,3,N179,10,"Acute kidney failure, unspecified"
+3,5042559,16548967,24292395,4,L89159,10,"Pressure ulcer of sacral region, unspecified stage"
+4,4968962,16548967,24292395,5,F0391,10,Unspecified dementia with behavioral disturbance
+5,3960552,16548967,24292395,6,I5022,10,Chronic systolic (congestive) heart failure
+6,4927048,16548967,24292395,7,G3183,10,Dementia with Lewy bodies
+7,4643254,16548967,24292395,8,E11649,10,Type 2 diabetes mellitus with hypoglycemia without coma
+8,3424337,16548967,24292395,9,N390,10,"Urinary tract infection, site not specified"
+9,3949635,16548967,24292395,10,E871,10,Hypo-osmolality and hyponatremia
+10,4775204,16548967,24292395,11,F209,10,"Schizophrenia, unspecified"
+11,3788146,16548967,24292395,12,F319,10,"Bipolar disorder, unspecified"
+12,4592387,16548967,24292395,13,Z87820,10,Personal history of traumatic brain injury
+13,5200928,16548967,24292395,14,Y9371,10,"Activity, boxing"
+14,4494200,16548967,24292395,15,F79,10,Unspecified intellectual disabilities
+15,3230299,16548967,24292395,16,I10,10,Essential (primary) hypertension
+16,4583514,16548967,24292395,17,Z9111,10,Patient's noncompliance with dietary regimen
+17,3585510,16548967,24292395,18,E875,10,Hyperkalemia
+18,4489041,16548967,24292395,19,D6489,10,Other specified anemias
+19,3838594,16548967,24292395,20,E860,10,Dehydration
+20,4842119,16548967,24292395,21,W1839XA,10,"Other fall on same level, initial encounter"
+21,4669506,16548967,24292395,22,Y92129,10,Unspecified place in nursing home as the place of occurrence of the external cause
+22,5024218,16548967,24292395,23,M1710,10,"Unilateral primary osteoarthritis, unspecified knee"
+23,3385134,16548967,24292395,24,I2510,10,Atherosclerotic heart disease of native coronary artery without angina pectoris
+24,5152899,16548967,24292395,25,D72825,10,Bandemia
+25,4849519,16548967,24292395,26,J310,10,Chronic rhinitis
+26,4755413,16548967,24292395,27,M4800,10,"Spinal stenosis, site unspecified"
+27,4480432,16548967,24292395,28,N2889,10,Other specified disorders of kidney and ureter
+28,3801539,16548967,24292395,29,G4733,10,Obstructive sleep apnea (adult) (pediatric)

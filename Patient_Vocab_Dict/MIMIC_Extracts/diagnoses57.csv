@@ -1,0 +1,20 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,2006333,17632117,21161582,1,1623,9,"Malignant neoplasm of upper lobe, bronchus or lung"
+1,1908798,17632117,21161582,2,1985,9,Secondary malignant neoplasm of bone and bone marrow
+2,1230066,17632117,21161582,3,1961,9,Secondary and unspecified malignant neoplasm of intrathoracic lymph nodes
+3,1366762,17632117,21161582,4,5119,9,Unspecified pleural effusion
+4,2415478,17632117,21161582,5,29281,9,Drug-induced delirium
+5,1856141,17632117,21161582,6,73313,9,Pathologic fracture of vertebrae
+6,2220264,17632117,21161582,7,3383,9,Neoplasm related pain (acute) (chronic)
+7,617207,17632117,21161582,8,2720,9,Pure hypercholesterolemia
+8,1104124,17632117,21161582,9,V1582,9,Personal history of tobacco use
+9,1975074,17632117,21161582,10,E9352,9,Other opiates and related narcotics causing adverse effects in therapeutic use
+10,532740,17632117,21161582,11,E8497,9,Accidents occurring in residential institution
+11,1010753,17632117,21161582,12,72252,9,Degeneration of lumbar or lumbosacral intervertebral disc
+12,1756779,17632117,21161582,13,73390,9,"Disorder of bone and cartilage, unspecified"
+13,494680,17632117,21161582,14,2440,9,Postsurgical hypothyroidism
+14,1343592,17632117,21161582,15,56400,9,"Constipation, unspecified"
+15,847664,17632117,21161582,16,2859,9,"Anemia, unspecified"
+16,2666817,17632117,21161582,17,78609,9,Other respiratory abnormalities
+17,2791881,17632117,21161582,18,7048,9,Other specified diseases of hair and hair follicles
+18,2424243,17632117,21161582,19,E8792,9,"Radiological procedure and radiotherapy as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure"

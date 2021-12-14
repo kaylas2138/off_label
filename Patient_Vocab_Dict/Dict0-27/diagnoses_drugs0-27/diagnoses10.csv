@@ -1,0 +1,10 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,2900386,17848638,23595994,1,78939,9,"Abdominal or pelvic swelling, mass, or lump, other specified site"
+1,926649,17848638,23595994,2,30928,9,Adjustment disorder with mixed anxiety and depressed mood
+2,2952251,17848638,23595994,3,38023,9,Other chronic otitis externa
+3,2729779,17848638,23595994,4,78907,9,"Abdominal pain, generalized"
+4,339171,17848638,23595994,5,7242,9,Lumbago
+5,2279911,17848638,23595994,6,56409,9,Other constipation
+6,1423475,17848638,23595994,7,4011,9,Benign essential hypertension
+7,2735894,17848638,23595994,8,3829,9,Unspecified otitis media
+8,1732392,17848638,23595994,9,V5869,9,Long-term (current) use of other medications

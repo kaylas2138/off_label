@@ -1,0 +1,20 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,4712603,18567594,29259490,1,T82898A,10,"Other specified complication of vascular prosthetic devices, implants and grafts, initial encounter"
+1,5182151,18567594,29259490,2,G5681,10,Other specified mononeuropathies of right upper limb
+2,5065544,18567594,29259490,3,I82C11,10,Acute embolism and thrombosis of right internal jugular vein
+3,5093960,18567594,29259490,4,I132,10,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+4,4301185,18567594,29259490,5,E1122,10,Type 2 diabetes mellitus with diabetic chronic kidney disease
+5,4506276,18567594,29259490,6,N186,10,End stage renal disease
+6,4072707,18567594,29259490,7,I5030,10,Unspecified diastolic (congestive) heart failure
+7,4522842,18567594,29259490,8,Z992,10,Dependence on renal dialysis
+8,5221423,18567594,29259490,9,E7800,10,"Pure hypercholesterolemia, unspecified"
+9,4967724,18567594,29259490,10,I4430,10,Unspecified atrioventricular block
+10,4382710,18567594,29259490,11,Z950,10,Presence of cardiac pacemaker
+11,4126982,18567594,29259490,12,E1140,10,"Type 2 diabetes mellitus with diabetic neuropathy, unspecified"
+12,4532029,18567594,29259490,13,E11319,10,Type 2 diabetes mellitus with unspecified diabetic retinopathy without macular edema
+13,4110449,18567594,29259490,14,R262,10,"Difficulty in walking, not elsewhere classified"
+14,3158125,18567594,29259490,15,E6601,10,Morbid (severe) obesity due to excess calories
+15,3639455,18567594,29259490,16,Z6837,10,"Body mass index (BMI) 37.0-37.9, adult"
+16,3391742,18567594,29259490,17,I2510,10,Atherosclerotic heart disease of native coronary artery without angina pectoris
+17,4293895,18567594,29259490,18,D631,10,Anemia in chronic kidney disease
+18,4660119,18567594,29259490,19,L89154,10,"Pressure ulcer of sacral region, stage 4"

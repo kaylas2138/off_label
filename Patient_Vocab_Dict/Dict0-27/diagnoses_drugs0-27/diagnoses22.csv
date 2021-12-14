@@ -1,0 +1,13 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,4624344,18725924,28179263,1,M5126,10,"Other intervertebral disc displacement, lumbar region"
+1,4235275,18725924,28179263,2,K5190,10,"Ulcerative colitis, unspecified, without complications"
+2,4253653,18725924,28179263,3,J449,10,"Chronic obstructive pulmonary disease, unspecified"
+3,3097450,18725924,28179263,4,J45909,10,"Unspecified asthma, uncomplicated"
+4,3802018,18725924,28179263,5,G4733,10,Obstructive sleep apnea (adult) (pediatric)
+5,3164701,18725924,28179263,6,E119,10,Type 2 diabetes mellitus without complications
+6,4473813,18725924,28179263,7,I447,10,"Left bundle-branch block, unspecified"
+7,4013687,18725924,28179263,8,F17210,10,"Nicotine dependence, cigarettes, uncomplicated"
+8,4368129,18725924,28179263,9,Z7902,10,Long term (current) use of antithrombotics/antiplatelets
+9,3927212,18725924,28179263,10,Z86718,10,Personal history of other venous thrombosis and embolism
+10,3206952,18725924,28179263,11,E669,10,"Obesity, unspecified"
+11,3639227,18725924,28179263,12,Z6837,10,"Body mass index (BMI) 37.0-37.9, adult"

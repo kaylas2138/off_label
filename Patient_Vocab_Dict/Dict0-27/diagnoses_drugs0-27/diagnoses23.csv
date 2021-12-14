@@ -1,0 +1,12 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,2292407,12349570,25845693,1,43411,9,Cerebral embolism with cerebral infarction
+1,2849121,12349570,25845693,2,3431,9,Congenital hemiplegia
+2,1817659,12349570,25845693,3,34550,9,"Localization-related (focal) (partial) epilepsy and epileptic syndromes with simple partial seizures, without mention of intractable epilepsy"
+3,3030139,12349570,25845693,4,78459,9,Other speech disturbance
+4,228526,12349570,25845693,5,4019,9,Unspecified essential hypertension
+5,3025366,12349570,25845693,6,78451,9,Dysarthria
+6,2645259,12349570,25845693,7,7812,9,Abnormality of gait
+7,315761,12349570,25845693,8,27801,9,Morbid obesity
+8,2050108,12349570,25845693,9,2689,9,Unspecified vitamin D deficiency
+9,373350,12349570,25845693,10,2724,9,Other and unspecified hyperlipidemia
+10,327411,12349570,25845693,11,32723,9,Obstructive sleep apnea (adult)(pediatric)

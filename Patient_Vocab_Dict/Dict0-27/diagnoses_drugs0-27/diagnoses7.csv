@@ -1,0 +1,11 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,1076464,19606565,20748931,1,462,9,Acute pharyngitis
+1,2980040,19606565,20748931,2,78060,9,"Fever, unspecified"
+2,2202869,19606565,20748931,3,7856,9,Enlargement of lymph nodes
+3,1625393,19606565,20748931,4,7852,9,Undiagnosed cardiac murmurs
+4,1493068,19606565,20748931,5,7850,9,"Tachycardia, unspecified"
+5,2760012,19606565,20748931,6,38870,9,"Otalgia, unspecified"
+6,1659867,19606565,20748931,7,7291,9,"Myalgia and myositis, unspecified"
+7,1668736,19606565,20748931,8,33829,9,Other chronic pain
+8,1834994,19606565,20748931,9,7245,9,"Backache, unspecified"
+9,2880504,19606565,20748931,10,V5864,9,Long-term (current) use of non-steroidal anti-inflammatories (NSAID)

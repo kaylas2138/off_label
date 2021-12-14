@@ -1,0 +1,20 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,956188,19521458,20093200,1,41401,9,Coronary atherosclerosis of native coronary artery
+1,1877438,19521458,20093200,2,42833,9,Acute on chronic diastolic heart failure
+2,56399,19521458,20093200,3,5990,9,"Urinary tract infection, site not specified"
+3,1462832,19521458,20093200,4,2761,9,Hyposmolality and/or hyponatremia
+4,2416064,19521458,20093200,5,9057,9,Late effect of sprain and strain without mention of tendon injury
+5,2415995,19521458,20093200,6,8488,9,Other specified sites of sprains and strains
+6,1791270,19521458,20093200,7,V420,9,Kidney replaced by transplant
+7,1169915,19521458,20093200,8,4280,9,"Congestive heart failure, unspecified"
+8,568619,19521458,20093200,9,25051,9,"Diabetes with ophthalmic manifestations, type I [juvenile type], not stated as uncontrolled"
+9,1639084,19521458,20093200,10,36201,9,Background diabetic retinopathy
+10,1996415,19521458,20093200,11,0414,9,Escherichia coli [E. coli] infection in conditions classified elsewhere and of unspecified site
+11,122033,19521458,20093200,12,53081,9,Esophageal reflux
+12,1780828,19521458,20093200,13,5363,9,Gastroparesis
+13,1350881,19521458,20093200,14,V6289,9,"Other psychological or physical stress, not elsewhere classified"
+14,1698894,19521458,20093200,15,78039,9,Other convulsions
+15,1017975,19521458,20093200,16,V4581,9,Aortocoronary bypass status
+16,779819,19521458,20093200,17,V4582,9,Percutaneous transluminal coronary angioplasty status
+17,1418477,19521458,20093200,18,V4502,9,Automatic implantable cardiac defibrillator in situ
+18,456458,19521458,20093200,19,311,9,"Depressive disorder, not elsewhere classified"

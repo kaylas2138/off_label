@@ -1,0 +1,16 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,310290,15783541,27666121,1,220,9,Benign neoplasm of ovary
+1,2415330,15783541,27666121,2,29281,9,Drug-induced delirium
+2,172017,15783541,27666121,3,5680,9,Peritoneal adhesions (postoperative) (postinfection)
+3,307440,15783541,27666121,4,2181,9,Intramural leiomyoma of uterus
+4,1248801,15783541,27666121,5,25000,9,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+5,441027,15783541,27666121,6,49390,9,"Asthma, unspecified type, unspecified"
+6,84366,15783541,27666121,7,2449,9,Unspecified acquired hypothyroidism
+7,200744,15783541,27666121,8,4019,9,Unspecified essential hypertension
+8,2844466,15783541,27666121,9,E9379,9,Unspecified sedatives and hypnotics causing adverse effects in therapeutic use
+9,307885,15783541,27666121,10,2182,9,Subserous leiomyoma of uterus
+10,1314448,15783541,27666121,11,29680,9,"Bipolar disorder, unspecified"
+11,282030,15783541,27666121,12,34690,9,"Migraine, unspecified, without mention of intractable migraine without mention of status migrainosus"
+12,2688201,15783541,27666121,13,3558,9,"Mononeuritis of lower limb, unspecified"
+13,614588,15783541,27666121,14,2720,9,Pure hypercholesterolemia
+14,322991,15783541,27666121,15,32723,9,Obstructive sleep apnea (adult)(pediatric)

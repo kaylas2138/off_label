@@ -1,0 +1,17 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,2651538,18298991,20722846,1,78906,9,"Abdominal pain, epigastric"
+1,1345565,18298991,20722846,2,56400,9,"Constipation, unspecified"
+2,1605841,18298991,20722846,3,78791,9,Diarrhea
+3,1524265,18298991,20722846,4,78701,9,Nausea with vomiting
+4,2676736,18298991,20722846,5,53560,9,"Duodenitis, without mention of hemorrhage"
+5,753859,18298991,20722846,6,5849,9,"Acute kidney failure, unspecified"
+6,2168583,18298991,20722846,7,30401,9,"Opioid type dependence, continuous"
+7,2218548,18298991,20722846,8,3090,9,Adjustment disorder with depressed mood
+8,2692318,18298991,20722846,9,7881,9,Dysuria
+9,93625,18298991,20722846,10,2449,9,Unspecified acquired hypothyroidism
+10,1483229,18298991,20722846,11,07054,9,Chronic hepatitis C without mention of hepatic coma
+11,1043712,18298991,20722846,12,30500,9,"Alcohol abuse, unspecified"
+12,1379542,18298991,20722846,13,30590,9,"Other, mixed, or unspecified drug abuse, unspecified"
+13,1061454,18298991,20722846,14,3051,9,Tobacco use disorder
+14,1357545,18298991,20722846,15,V1581,9,"Personal history of noncompliance with medical treatment, presenting hazards to health"
+15,2880073,18298991,20722846,16,V5864,9,Long-term (current) use of non-steroidal anti-inflammatories (NSAID)

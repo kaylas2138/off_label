@@ -1,0 +1,7 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,1661986,17315711,26442239,1,33829,9,Other chronic pain
+1,337143,17315711,26442239,2,7242,9,Lumbago
+2,2339928,17315711,26442239,3,78900,9,"Abdominal pain, unspecified site"
+3,507227,17315711,26442239,4,30000,9,"Anxiety state, unspecified"
+4,457161,17315711,26442239,5,311,9,"Depressive disorder, not elsewhere classified"
+5,2791802,17315711,26442239,6,7048,9,Other specified diseases of hair and hair follicles

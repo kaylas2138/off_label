@@ -1,0 +1,16 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,5170387,17868682,25218370,1,C495,10,Malignant neoplasm of connective and soft tissue of pelvis
+1,4434573,17868682,25218370,2,G629,10,"Polyneuropathy, unspecified"
+2,4316971,17868682,25218370,3,I482,10,Chronic atrial fibrillation
+3,4084054,17868682,25218370,4,I340,10,Nonrheumatic mitral (valve) insufficiency
+4,3547038,17868682,25218370,5,F329,10,"Major depressive disorder, single episode, unspecified"
+5,3209088,17868682,25218370,6,E669,10,"Obesity, unspecified"
+6,3804012,17868682,25218370,7,G4733,10,Obstructive sleep apnea (adult) (pediatric)
+7,4563330,17868682,25218370,8,K4090,10,"Unilateral inguinal hernia, without obstruction or gangrene, not specified as recurrent"
+8,5213438,17868682,25218370,9,N503,10,Cyst of epididymis
+9,4987217,17868682,25218370,10,R590,10,Localized enlarged lymph nodes
+10,3465832,17868682,25218370,11,Z7901,10,Long term (current) use of anticoagulants
+11,4755648,17868682,25218370,12,M4800,10,"Spinal stenosis, site unspecified"
+12,3145442,17868682,25218370,13,Z6833,10,"Body mass index (BMI) 33.0-33.9, adult"
+13,4231372,17868682,25218370,14,R911,10,Solitary pulmonary nodule
+14,3135756,17868682,25218370,15,Z85828,10,Personal history of other malignant neoplasm of skin

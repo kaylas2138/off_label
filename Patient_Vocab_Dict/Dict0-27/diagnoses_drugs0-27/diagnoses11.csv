@@ -1,0 +1,7 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,1765661,17725106,28281951,1,44023,9,Atherosclerosis of native arteries of the extremities with ulceration
+1,1874467,17725106,28281951,2,70715,9,Ulcer of other part of foot
+2,701746,17725106,28281951,3,40390,9,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified"
+3,656937,17725106,28281951,4,5859,9,"Chronic kidney disease, unspecified"
+4,95439,17725106,28281951,5,2449,9,Unspecified acquired hypothyroidism
+5,116406,17725106,28281951,6,496,9,"Chronic airway obstruction, not elsewhere classified"

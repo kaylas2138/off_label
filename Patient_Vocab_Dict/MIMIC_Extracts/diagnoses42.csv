@@ -1,0 +1,13 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,2851218,19100396,28930685,1,73381,9,Malunion of fracture
+1,1673603,19100396,28930685,2,9054,9,Late effect of fracture of lower extremities
+2,2901167,19100396,28930685,3,E9299,9,Late effects of unspecified accident
+3,2081479,19100396,28930685,4,E8499,9,Accidents occurring in unspecified place
+4,1645511,19100396,28930685,5,25060,9,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled"
+5,1627258,19100396,28930685,6,3572,9,Polyneuropathy in diabetes
+6,1635823,19100396,28930685,7,25050,9,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+7,1639777,19100396,28930685,8,36201,9,Background diabetic retinopathy
+8,1710122,19100396,28930685,9,V5867,9,Long-term (current) use of insulin
+9,961089,19100396,28930685,10,41401,9,Coronary atherosclerosis of native coronary artery
+10,781431,19100396,28930685,11,V4582,9,Percutaneous transluminal coronary angioplasty status
+11,320785,19100396,28930685,12,32723,9,Obstructive sleep apnea (adult)(pediatric)

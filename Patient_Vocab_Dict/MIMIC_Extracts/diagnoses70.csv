@@ -1,0 +1,15 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,719956,16090019,27244670,1,5770,9,Acute pancreatitis
+1,1785202,16090019,27244670,2,5845,9,Acute kidney failure with lesion of tubular necrosis
+2,1371079,16090019,27244670,3,51881,9,Acute respiratory failure
+3,57607,16090019,27244670,4,5990,9,"Urinary tract infection, site not specified"
+4,1794593,16090019,27244670,5,78959,9,Other ascites
+5,769232,16090019,27244670,6,486,9,"Pneumonia, organism unspecified"
+6,797742,16090019,27244670,7,2766,9,Fluid overload disorder
+7,1460203,16090019,27244670,8,2869,9,Other and unspecified coagulation defects
+8,1983385,16090019,27244670,9,V1301,9,Personal history of urinary calculi
+9,457774,16090019,27244670,10,311,9,"Depressive disorder, not elsewhere classified"
+10,1050468,16090019,27244670,11,3051,9,Tobacco use disorder
+11,1656923,16090019,27244670,12,7291,9,"Myalgia and myositis, unspecified"
+12,2639686,16090019,27244670,13,33819,9,Other acute pain
+13,1518499,16090019,27244670,14,04104,9,"Streptococcus infection in conditions classified elsewhere and of unspecified site, streptococcus, group D [Enterococcus]"

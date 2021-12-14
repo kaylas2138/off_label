@@ -1,0 +1,8 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,1899347,10741296,23020875,1,3559,9,Mononeuritis of unspecified site
+1,2205438,10741296,23020875,2,1625,9,"Malignant neoplasm of lower lobe, bronchus or lung"
+2,1522268,10741296,23020875,3,78701,9,Nausea with vomiting
+3,2103840,10741296,23020875,4,78079,9,Other malaise and fatigue
+4,2026128,10741296,23020875,5,E9331,9,Antineoplastic and immunosuppressive drugs causing adverse effects in therapeutic use
+5,134954,10741296,23020875,6,53081,9,Esophageal reflux
+6,576503,10741296,23020875,7,V1251,9,Personal history of venous thrombosis and embolism

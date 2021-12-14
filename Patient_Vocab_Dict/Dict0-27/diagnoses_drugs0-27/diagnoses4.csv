@@ -1,0 +1,12 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,5175611,14027864,26614639,1,K260,10,Acute duodenal ulcer with hemorrhage
+1,3593275,14027864,26614639,2,D62,10,Acute posthemorrhagic anemia
+2,3320178,14027864,26614639,3,Z781,10,Physical restraint status
+3,4957803,14027864,26614639,4,S82832A,10,"Other fracture of upper and lower end of left fibula, initial encounter for closed fracture"
+4,5066151,14027864,26614639,5,T39395A,10,"Adverse effect of other nonsteroidal anti-inflammatory drugs [NSAID], initial encounter"
+5,4173814,14027864,26614639,6,Y929,10,Unspecified place or not applicable
+6,3506358,14027864,26614639,7,Z87891,10,Personal history of nicotine dependence
+7,4842227,14027864,26614639,8,W1839XA,10,"Other fall on same level, initial encounter"
+8,4837879,14027864,26614639,9,Y92009,10,Unspecified place in unspecified non-institutional (private) residence as the place of occurrence of the external cause
+9,3712704,14027864,26614639,10,E785,10,"Hyperlipidemia, unspecified"
+10,3935176,14027864,26614639,11,I951,10,Orthostatic hypotension

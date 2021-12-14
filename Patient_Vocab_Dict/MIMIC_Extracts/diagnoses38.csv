@@ -1,0 +1,7 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,3851673,12618670,25990635,1,M4802,10,"Spinal stenosis, cervical region"
+1,4612057,12618670,25990635,2,M47892,10,"Other spondylosis, cervical region"
+2,5044681,12618670,25990635,3,D803,10,Selective deficiency of immunoglobulin G [IgG] subclasses
+3,3803227,12618670,25990635,4,G4733,10,Obstructive sleep apnea (adult) (pediatric)
+4,3115439,12618670,25990635,5,E039,10,"Hypothyroidism, unspecified"
+5,3506248,12618670,25990635,6,Z87891,10,Personal history of nicotine dependence

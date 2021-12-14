@@ -1,0 +1,19 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,2821625,14224981,26377711,1,4619,9,"Acute sinusitis, unspecified"
+1,2110482,14224981,26377711,2,25062,9,"Diabetes with neurological manifestations, type II or unspecified type, uncontrolled"
+2,1635159,14224981,26377711,3,3572,9,Polyneuropathy in diabetes
+3,3040552,14224981,26377711,4,V8541,9,"Body Mass Index 40.0-44.9, adult"
+4,1783857,14224981,26377711,5,5363,9,Gastroparesis
+5,2682511,14224981,26377711,6,37730,9,"Optic neuritis, unspecified"
+6,2968833,14224981,26377711,7,04112,9,Methicillin resistant Staphylococcus aureus in conditions classified elsewhere and of unspecified site
+7,318939,14224981,26377711,8,27801,9,Morbid obesity
+8,39803,14224981,26377711,9,7243,9,Sciatica
+9,1987581,14224981,26377711,10,6960,9,Psoriatic arthropathy
+10,1951400,14224981,26377711,11,36510,9,"Open-angle glaucoma, unspecified"
+11,3082507,14224981,26377711,12,36570,9,"Glaucoma stage, unspecified"
+12,862506,14224981,26377711,13,2859,9,"Anemia, unspecified"
+13,1906798,14224981,26377711,14,28860,9,"Leukocytosis, unspecified"
+14,528662,14224981,26377711,15,30000,9,"Anxiety state, unspecified"
+15,2563975,14224981,26377711,16,V5865,9,Long-term (current) use of steroids
+16,1574248,14224981,26377711,17,V1254,9,"Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits"
+17,1727770,14224981,26377711,18,V5867,9,Long-term (current) use of insulin

@@ -1,0 +1,22 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,723816,10666767,20670570,1,5770,9,Acute pancreatitis
+1,2339391,10666767,20670570,2,261,9,Nutritional marasmus
+2,2024488,10666767,20670570,3,2762,9,Acidosis
+3,732586,10666767,20670570,4,00845,9,Intestinal infection due to Clostridium difficile
+4,808897,10666767,20670570,5,27651,9,Dehydration
+5,629227,10666767,20670570,6,5790,9,Celiac disease
+6,725878,10666767,20670570,7,7837,9,Adult failure to thrive
+7,1783824,10666767,20670570,8,5363,9,Gastroparesis
+8,1364320,10666767,20670570,9,28529,9,Anemia of other chronic disease
+9,991092,10666767,20670570,10,41401,9,Coronary atherosclerosis of native coronary artery
+10,273584,10666767,20670570,11,4019,9,Unspecified essential hypertension
+11,1410447,10666767,20670570,12,5771,9,Chronic pancreatitis
+12,2327874,10666767,20670570,13,5778,9,Other specified diseases of pancreas
+13,1836700,10666767,20670570,14,7245,9,"Backache, unspecified"
+14,528234,10666767,20670570,15,30000,9,"Anxiety state, unspecified"
+15,2391195,10666767,20670570,16,78321,9,Loss of weight
+16,2947497,10666767,20670570,17,V0382,9,Other specified vaccinations against streptococcus pneumoniae [pneumococcus]
+17,1128682,10666767,20670570,18,V1582,9,Personal history of tobacco use
+18,2307322,10666767,20670570,19,V5866,9,Long-term (current) use of aspirin
+19,1488423,10666767,20670570,20,V454,9,Arthrodesis status
+20,2533571,10666767,20670570,21,V851,9,"Body Mass Index between 19-24, adult"

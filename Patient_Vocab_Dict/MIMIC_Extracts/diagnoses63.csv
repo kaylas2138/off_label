@@ -1,0 +1,6 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,924754,10492525,28787018,1,7213,9,Lumbosacral spondylosis without myelopathy
+1,425811,10492525,28787018,2,2851,9,Acute posthemorrhagic anemia
+2,1010614,10492525,28787018,3,72252,9,Degeneration of lumbar or lumbosacral intervertebral disc
+3,355785,10492525,28787018,4,2724,9,Other and unspecified hyperlipidemia
+4,2976472,10492525,28787018,5,78062,9,Postprocedural fever

@@ -1,0 +1,24 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,4901995,16100588,21302222,1,I872,10,Venous insufficiency (chronic) (peripheral)
+1,4734926,16100588,21302222,2,L03116,10,Cellulitis of left lower limb
+2,5100936,16100588,21302222,3,I110,10,Hypertensive heart disease with heart failure
+3,3961033,16100588,21302222,4,I5022,10,Chronic systolic (congestive) heart failure
+4,4693308,16100588,21302222,5,I69351,10,Hemiplegia and hemiparesis following cerebral infarction affecting right dominant side
+5,4571938,16100588,21302222,6,E1165,10,Type 2 diabetes mellitus with hyperglycemia
+6,5147977,16100588,21302222,7,I731,10,Thromboangiitis obliterans [Buerger's disease]
+7,4990727,16100588,21302222,8,L97829,10,Non-pressure chronic ulcer of other part of left lower leg with unspecified severity
+8,5025971,16100588,21302222,9,L97819,10,Non-pressure chronic ulcer of other part of right lower leg with unspecified severity
+9,4288987,16100588,21302222,10,I739,10,"Peripheral vascular disease, unspecified"
+10,3183248,16100588,21302222,11,Z794,10,Long term (current) use of insulin
+11,4210680,16100588,21302222,12,B9689,10,Other specified bacterial agents as the cause of diseases classified elsewhere
+12,3620323,16100588,21302222,13,I878,10,Other specified disorders of veins
+13,5237058,16100588,21302222,14,I160,10,Hypertensive urgency
+14,4962810,16100588,21302222,15,I69320,10,Aphasia following cerebral infarction
+15,3712253,16100588,21302222,16,E785,10,"Hyperlipidemia, unspecified"
+16,3992426,16100588,21302222,17,I480,10,Paroxysmal atrial fibrillation
+17,3927855,16100588,21302222,18,Z86718,10,Personal history of other venous thrombosis and embolism
+18,3939378,16100588,21302222,19,Z86711,10,Personal history of pulmonary embolism
+19,4481633,16100588,21302222,20,Z9114,10,Patient's other noncompliance with medication regimen
+20,4781088,16100588,21302222,21,F39,10,Unspecified mood [affective] disorder
+21,5132247,16100588,21302222,22,F919,10,"Conduct disorder, unspecified"
+22,4369087,16100588,21302222,23,Z7902,10,Long term (current) use of antithrombotics/antiplatelets

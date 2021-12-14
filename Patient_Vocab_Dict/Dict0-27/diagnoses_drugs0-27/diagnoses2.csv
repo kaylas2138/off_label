@@ -1,0 +1,10 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,2751354,15346117,23914470,1,25012,9,"Diabetes with ketoacidosis, type II or unspecified type, uncontrolled"
+1,737351,15346117,23914470,2,5849,9,"Acute kidney failure, unspecified"
+2,1353261,15346117,23914470,3,4659,9,Acute upper respiratory infections of unspecified site
+3,176733,15346117,23914470,4,4019,9,Unspecified essential hypertension
+4,798765,15346117,23914470,5,27651,9,Dehydration
+5,1639255,15346117,23914470,6,36201,9,Background diabetic retinopathy
+6,2109008,15346117,23914470,7,25062,9,"Diabetes with neurological manifestations, type II or unspecified type, uncontrolled"
+7,1626307,15346117,23914470,8,3572,9,Polyneuropathy in diabetes
+8,2108242,15346117,23914470,9,25052,9,"Diabetes with ophthalmic manifestations, type II or unspecified type, uncontrolled"

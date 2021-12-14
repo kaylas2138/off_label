@@ -1,0 +1,24 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,1395042,15521571,22855257,1,70703,9,"Pressure ulcer, lower back"
+1,2966623,15521571,22855257,2,70724,9,"Pressure ulcer, stage IV"
+2,1600856,15521571,22855257,3,78552,9,Septic shock
+3,1592239,15521571,22855257,4,99592,9,Severe sepsis
+4,2365912,15521571,22855257,5,34830,9,"Encephalopathy, unspecified"
+5,1597113,15521571,22855257,6,0389,9,Unspecified septicemia
+6,2888648,15521571,22855257,7,9341,9,Foreign body in main bronchus
+7,821099,15521571,22855257,8,3441,9,Paraplegia
+8,817381,15521571,22855257,9,5180,9,Pulmonary collapse
+9,42876,15521571,22855257,10,340,9,Multiple sclerosis
+10,262253,15521571,22855257,11,4019,9,Unspecified essential hypertension
+11,2668258,15521571,22855257,12,78609,9,Other respiratory abnormalities
+12,639586,15521571,22855257,13,73300,9,"Osteoporosis, unspecified"
+13,101512,15521571,22855257,14,2449,9,Unspecified acquired hypothyroidism
+14,1459011,15521571,22855257,15,4240,9,Mitral valve disorders
+15,2996195,15521571,22855257,16,V463,9,Wheelchair dependence
+16,734006,15521571,22855257,17,V1087,9,Personal history of malignant neoplasm of thyroid
+17,2357199,15521571,22855257,18,V1302,9,"Personal history, urinary (tract) infection"
+18,3056208,15521571,22855257,19,V4987,9,Physical restraints status
+19,2899954,15521571,22855257,20,E912,9,Inhalation and ingestion of other object causing obstruction of respiratory tract or suffocation
+20,536135,15521571,22855257,21,E8497,9,Accidents occurring in residential institution
+21,309363,15521571,22855257,22,59654,9,Neurogenic bladder NOS
+22,2630771,15521571,22855257,23,V4459,9,Other cystostomy

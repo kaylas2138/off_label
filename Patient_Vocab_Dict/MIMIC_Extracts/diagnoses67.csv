@@ -1,0 +1,7 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,190800,10070330,29925912,1,4019,9,Unspecified essential hypertension
+1,350660,10070330,29925912,2,2724,9,Other and unspecified hyperlipidemia
+2,1454767,10070330,29925912,3,4240,9,Mitral valve disorders
+3,1495963,10070330,29925912,4,27800,9,"Obesity, unspecified"
+4,305820,10070330,29925912,5,29570,9,"Schizoaffective disorder, unspecified"
+5,1052111,10070330,29925912,6,3051,9,Tobacco use disorder

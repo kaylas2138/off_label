@@ -1,0 +1,8 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,2599924,14347249,27805399,1,2330,9,Carcinoma in situ of breast
+1,555963,14347249,27805399,2,2809,9,"Iron deficiency anemia, unspecified"
+2,2849762,14347249,27805399,3,V860,9,Estrogen receptor positive status [ER+]
+3,2004537,14347249,27805399,4,V163,9,Family history of malignant neoplasm of breast
+4,1866577,14347249,27805399,5,V160,9,Family history of malignant neoplasm of gastrointestinal tract
+5,2771764,14347249,27805399,6,V1642,9,Family history of malignant neoplasm of prostate
+6,2641312,14347249,27805399,7,V168,9,Family history of other specified malignant neoplasm

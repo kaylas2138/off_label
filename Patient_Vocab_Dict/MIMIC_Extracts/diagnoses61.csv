@@ -1,0 +1,24 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,5013065,12578012,27668750,1,G459,10,"Transient cerebral ischemic attack, unspecified"
+1,3432920,12578012,27668750,2,N390,10,"Urinary tract infection, site not specified"
+2,3420996,12578012,27668750,3,I4891,10,Unspecified atrial fibrillation
+3,4956610,12578012,27668750,4,G3184,10,"Mild cognitive impairment, so stated"
+4,3405457,12578012,27668750,5,I2510,10,Atherosclerotic heart disease of native coronary artery without angina pectoris
+5,4277271,12578012,27668750,6,Z955,10,Presence of coronary angioplasty implant and graft
+6,4378476,12578012,27668750,7,Z7902,10,Long term (current) use of antithrombotics/antiplatelets
+7,5259659,12578012,27668750,8,S0302XA,10,"Dislocation of jaw, left side, initial encounter"
+8,4692849,12578012,27668750,9,X58XXXA,10,"Exposure to other specified factors, initial encounter"
+9,3357482,12578012,27668750,10,Y92239,10,Unspecified place in hospital as the place of occurrence of the external cause
+10,3270940,12578012,27668750,11,I10,10,Essential (primary) hypertension
+11,3744951,12578012,27668750,12,E785,10,"Hyperlipidemia, unspecified"
+12,3531831,12578012,27668750,13,Z87891,10,Personal history of nicotine dependence
+13,4634516,12578012,27668750,14,J439,10,"Emphysema, unspecified"
+14,4941460,12578012,27668750,15,G252,10,Other specified forms of tremor
+15,4756141,12578012,27668750,16,M4800,10,"Spinal stenosis, site unspecified"
+16,3564403,12578012,27668750,17,F329,10,"Major depressive disorder, single episode, unspecified"
+17,3943145,12578012,27668750,18,Z86711,10,Personal history of pulmonary embolism
+18,4349609,12578012,27668750,19,H3530,10,Unspecified macular degeneration
+19,4329389,12578012,27668750,20,R197,10,"Diarrhea, unspecified"
+20,5021093,12578012,27668750,21,Z8679,10,Personal history of other diseases of the circulatory system
+21,4970445,12578012,27668750,22,Z823,10,Family history of stroke
+22,3329924,12578012,27668750,23,Z9181,10,History of falling

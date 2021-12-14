@@ -1,0 +1,15 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,2209642,14610115,29189578,1,5715,9,Cirrhosis of liver without mention of alcohol
+1,746767,14610115,29189578,2,5849,9,"Acute kidney failure, unspecified"
+2,1796015,14610115,29189578,3,78959,9,Other ascites
+3,2613835,14610115,29189578,4,V4281,9,Bone marrow replaced by transplant
+4,1911531,14610115,29189578,5,25541,9,Glucocorticoid deficiency
+5,1481580,14610115,29189578,6,07054,9,Chronic hepatitis C without mention of hepatic coma
+6,3013064,14610115,29189578,7,V1062,9,Personal history of myeloid leukemia
+7,683188,14610115,29189578,8,25040,9,"Diabetes with renal manifestations, type II or unspecified type, not stated as uncontrolled"
+8,711134,14610115,29189578,9,58381,9,"Nephritis and nephropathy, not specified as acute or chronic, in diseases classified elsewhere"
+9,1756626,14610115,29189578,10,73390,9,"Disorder of bone and cartilage, unspecified"
+10,2075582,14610115,29189578,11,2767,9,Hyperpotassemia
+11,442687,14610115,29189578,12,49390,9,"Asthma, unspecified type, unspecified"
+12,846743,14610115,29189578,13,2859,9,"Anemia, unspecified"
+13,1713714,14610115,29189578,14,V5867,9,Long-term (current) use of insulin

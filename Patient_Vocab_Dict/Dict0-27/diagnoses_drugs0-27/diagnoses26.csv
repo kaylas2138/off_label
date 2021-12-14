@@ -1,0 +1,8 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,883765,15130765,28668834,1,42731,9,Atrial fibrillation
+1,2255019,15130765,28668834,2,42781,9,Sinoatrial node dysfunction
+2,696372,15130765,28668834,3,40390,9,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified"
+3,653028,15130765,28668834,4,5859,9,"Chronic kidney disease, unspecified"
+4,366037,15130765,28668834,5,2724,9,Other and unspecified hyperlipidemia
+5,140681,15130765,28668834,6,53081,9,Esophageal reflux
+6,325550,15130765,28668834,7,32723,9,Obstructive sleep apnea (adult)(pediatric)

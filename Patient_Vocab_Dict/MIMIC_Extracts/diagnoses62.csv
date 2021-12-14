@@ -1,0 +1,12 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,4564161,11893513,25466781,1,T8189XA,10,"Other complications of procedures, not elsewhere classified, initial encounter"
+1,3783258,11893513,25466781,2,Y838,10,"Other surgical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure"
+2,4182775,11893513,25466781,3,Y929,10,Unspecified place or not applicable
+3,4831536,11893513,25466781,4,Z8614,10,Personal history of Methicillin resistant Staphylococcus aureus infection
+4,3643601,11893513,25466781,5,G43909,10,"Migraine, unspecified, not intractable, without status migrainosus"
+5,3561448,11893513,25466781,6,F329,10,"Major depressive disorder, single episode, unspecified"
+6,3688448,11893513,25466781,7,M797,10,Fibromyalgia
+7,3325390,11893513,25466781,8,M8580,10,"Other specified disorders of bone density and structure, unspecified site"
+8,4904182,11893513,25466781,9,K5909,10,Other constipation
+9,5260413,11893513,25466781,10,M48061,10,"Spinal stenosis, lumbar region without neurogenic claudication"
+10,4023537,11893513,25466781,11,F17210,10,"Nicotine dependence, cigarettes, uncomplicated"

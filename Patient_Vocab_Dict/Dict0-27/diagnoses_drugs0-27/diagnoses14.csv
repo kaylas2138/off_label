@@ -1,0 +1,6 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,1654650,14208232,27925377,1,72210,9,Displacement of lumbar intervertebral disc without myelopathy
+1,496239,14208232,27925377,2,2800,9,Iron deficiency anemia secondary to blood loss (chronic)
+2,313000,14208232,27925377,3,27801,9,Morbid obesity
+3,2695976,14208232,27925377,4,6268,9,Other disorders of menstruation and other abnormal bleeding from female genital tract
+4,1478851,14208232,27925377,5,4660,9,Acute bronchitis

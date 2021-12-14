@@ -1,0 +1,7 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,4400847,17478312,29792548,1,M1711,10,"Unilateral primary osteoarthritis, right knee"
+1,4604576,17478312,29792548,2,I959,10,"Hypotension, unspecified"
+2,3236888,17478312,29792548,3,I10,10,Essential (primary) hypertension
+3,3711569,17478312,29792548,4,E785,10,"Hyperlipidemia, unspecified"
+4,3098525,17478312,29792548,5,J45909,10,"Unspecified asthma, uncomplicated"
+5,3976976,17478312,29792548,6,Z8546,10,Personal history of malignant neoplasm of prostate

@@ -1,0 +1,12 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,2236683,10043646,27872010,1,6820,9,Cellulitis and abscess of face
+1,2180494,10043646,27872010,2,42832,9,Chronic diastolic heart failure
+2,2847105,10043646,27872010,3,05329,9,Herpes zoster with other ophthalmic complications
+3,241058,10043646,27872010,4,4019,9,Unspecified essential hypertension
+4,448704,10043646,27872010,5,49390,9,"Asthma, unspecified type, unspecified"
+5,2621416,10043646,27872010,6,78052,9,"Insomnia, unspecified"
+6,1621207,10043646,27872010,7,33394,9,Restless legs syndrome (RLS)
+7,891941,10043646,27872010,8,42731,9,Atrial fibrillation
+8,597821,10043646,27872010,9,V5861,9,Long-term (current) use of anticoagulants
+9,3046323,10043646,27872010,10,V4986,9,Do not resuscitate status
+10,1194142,10043646,27872010,11,4280,9,"Congestive heart failure, unspecified"

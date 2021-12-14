@@ -1,0 +1,9 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,496080,13777833,29768655,1,2800,9,Iron deficiency anemia secondary to blood loss (chronic)
+1,2144866,13777833,29768655,2,5789,9,"Hemorrhage of gastrointestinal tract, unspecified"
+2,79019,13777833,29768655,3,2449,9,Unspecified acquired hypothyroidism
+3,296071,13777833,29768655,4,V1005,9,Personal history of malignant neoplasm of large intestine
+4,1001509,13777833,29768655,5,4139,9,Other and unspecified angina pectoris
+5,945064,13777833,29768655,6,2749,9,"Gout, unspecified"
+6,646133,13777833,29768655,7,5859,9,"Chronic kidney disease, unspecified"
+7,687984,13777833,29768655,8,40390,9,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified"

@@ -1,0 +1,5 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,1619503,16896254,25632866,1,71535,9,"Osteoarthrosis, localized, not specified whether primary or secondary, pelvic region and thigh"
+1,996737,16896254,25632866,2,V1046,9,Personal history of malignant neoplasm of prostate
+2,1981413,16896254,25632866,3,V1083,9,Personal history of other malignant neoplasm of skin
+3,581720,16896254,25632866,4,V1251,9,Personal history of venous thrombosis and embolism

@@ -1,0 +1,15 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,3160166,19142211,20407588,1,E6601,10,Morbid (severe) obesity due to excess calories
+1,3494730,19142211,20407588,2,Z6841,10,"Body mass index (BMI) 40.0-44.9, adult"
+2,3811874,19142211,20407588,3,G4733,10,Obstructive sleep apnea (adult) (pediatric)
+3,3420425,19142211,20407588,4,I4891,10,Unspecified atrial fibrillation
+4,3474800,19142211,20407588,5,Z7901,10,Long term (current) use of anticoagulants
+5,3126016,19142211,20407588,6,E039,10,"Hypothyroidism, unspecified"
+6,3742917,19142211,20407588,7,E785,10,"Hyperlipidemia, unspecified"
+7,4760584,19142211,20407588,8,M069,10,"Rheumatoid arthritis, unspecified"
+8,4245850,19142211,20407588,9,M21372,10,"Foot drop, left foot"
+9,4560751,19142211,20407588,10,E790,10,Hyperuricemia without signs of inflammatory arthritis and tophaceous disease
+10,4589581,19142211,20407588,11,Z96641,10,Presence of right artificial hip joint
+11,3530239,19142211,20407588,12,Z87891,10,Personal history of nicotine dependence
+12,4208325,19142211,20407588,13,M1712,10,"Unilateral primary osteoarthritis, left knee"
+13,4239052,19142211,20407588,14,K449,10,Diaphragmatic hernia without obstruction or gangrene

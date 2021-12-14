@@ -1,0 +1,14 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,2557240,16678149,22988907,1,1571,9,Malignant neoplasm of body of pancreas
+1,2041924,16678149,22988907,2,1977,9,"Malignant neoplasm of liver, secondary"
+2,1795285,16678149,22988907,3,78959,9,Other ascites
+3,83078,16678149,22988907,4,2449,9,Unspecified acquired hypothyroidism
+4,1342417,16678149,22988907,5,56400,9,"Constipation, unspecified"
+5,1101580,16678149,22988907,6,V1582,9,Personal history of tobacco use
+6,1901098,16678149,22988907,7,28860,9,"Leukocytosis, unspecified"
+7,2906543,16678149,22988907,8,3577,9,Polyneuropathy due to other toxic agents
+8,2025781,16678149,22988907,9,E9331,9,Antineoplastic and immunosuppressive drugs causing adverse effects in therapeutic use
+9,502985,16678149,22988907,10,3004,9,Dysthymic disorder
+10,2125601,16678149,22988907,11,78909,9,"Abdominal pain, other specified site"
+11,1663306,16678149,22988907,12,33829,9,Other chronic pain
+12,575608,16678149,22988907,13,V1251,9,Personal history of venous thrombosis and embolism

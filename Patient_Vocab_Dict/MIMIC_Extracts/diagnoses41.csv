@@ -1,0 +1,12 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,2212432,11900721,28633163,1,5715,9,Cirrhosis of liver without mention of alcohol
+1,1798497,11900721,28633163,2,78959,9,Other ascites
+2,2215603,11900721,28633163,3,45621,9,"Esophageal varices in diseases classified elsewhere, without mention of bleeding"
+3,1561931,11900721,28633163,4,4168,9,Other chronic pulmonary heart diseases
+4,1477676,11900721,28633163,5,135,9,Sarcoidosis
+5,1198715,11900721,28633163,6,4280,9,"Congestive heart failure, unspecified"
+6,254538,11900721,28633163,7,4019,9,Unspecified essential hypertension
+7,1271421,11900721,28633163,8,25000,9,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+8,2311844,11900721,28633163,9,6929,9,"Contact dermatitis and other eczema, unspecified cause"
+9,914199,11900721,28633163,10,2768,9,Hypopotassemia
+10,1358749,11900721,28633163,11,V1581,9,"Personal history of noncompliance with medical treatment, presenting hazards to health"

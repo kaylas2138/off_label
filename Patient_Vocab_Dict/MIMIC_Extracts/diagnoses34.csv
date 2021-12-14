@@ -1,0 +1,15 @@
+,index,subject_id,hadm_id,seq_num,icd_code,icd_version,long_title
+0,2126646,12648465,22744960,1,78909,9,"Abdominal pain, other specified site"
+1,1667025,12648465,22744960,2,33829,9,Other chronic pain
+2,236461,12648465,22744960,3,4019,9,Unspecified essential hypertension
+3,1263865,12648465,22744960,4,25000,9,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+4,475183,12648465,22744960,5,311,9,"Depressive disorder, not elsewhere classified"
+5,516102,12648465,22744960,6,30000,9,"Anxiety state, unspecified"
+6,853200,12648465,22744960,7,2859,9,"Anemia, unspecified"
+7,2389542,12648465,22744960,8,78321,9,Loss of weight
+8,447793,12648465,22744960,9,49390,9,"Asthma, unspecified type, unspecified"
+9,1061852,12648465,22744960,10,3051,9,Tobacco use disorder
+10,1952791,12648465,22744960,11,V1271,9,Personal history of peptic ulcer disease
+11,2328836,12648465,22744960,12,V850,9,"Body Mass Index less than 19, adult"
+12,2265928,12648465,22744960,13,V4579,9,Other acquired absence of organ
+13,1331070,12648465,22744960,14,V4586,9,Bariatric surgery status
