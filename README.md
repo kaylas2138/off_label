@@ -35,12 +35,12 @@ MIMICIV also includes patient demographic and insurance information. We use this
 
 ## Resources Navigation
 
-### Navigation
+### Mapping
 
 `off_label/mapping`
 
 `off_label.py` : Extracts relevant data from MIMICIV publicly available clinical data, which can be accessed at [<https://physionet.org/content/mimiciv/0.4/>](https://physionet.org/content/mimiciv/0.4/){.uri}.\
-`vocab_mappings.py` : Python script that defines functions that extract standard to non-standard terms or vice versa. Used to convert from ICD to SNOMED, and to MeSH codes.\
+`vocab_mappings.py` : Python script that defines functions that extract standard to non-standard terms or vice versa, as well as extracting hierarchical concepts. Used to convert from ICD to SNOMED, and to MeSH codes, and the associated hierarchical terms.\
 
 `off_label/Results`
 
