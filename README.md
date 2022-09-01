@@ -1,4 +1,4 @@
-# off_label
+# Project Description
 
 Automated mapping of Electronic Health Records to document off-label drug use. There are thousands of off-label medications that are being prescribed to patients on a daily basis. For this project, we have developed an automated method to detect and analyze off-label prescribing patterns by comparing diagnosis codes to FDA-approved indications, commonly occurring off-label uses, and uses being studied in clinical trials for prescribed medications within the [MIMICIV dataset](https://physionet.org/content/mimiciv/0.4/).
 
@@ -17,19 +17,23 @@ We also leverage the MeSH hierarchy to compare:
 1\. One-to-one MeSH terms 
 2\. Tree taversal of MeSH structure
 
+## Data Sources
+
 ### Indication Data
 
--   [Drug Central](https://drugcentral.org/): A database that includes formal, FDA-approved indications for each drug, as well as known off-label uses and contraindications. 
+- [Drug Central](https://drugcentral.org/): A database that includes formal, FDA-approved indications for each drug, as well as known off-label uses and contraindications. 
 
--   AACT : Clinical trial database that contains information on all clinical trials and their underlying conditions that use a particular drug as intervention / treatment.
+- [AACT](https://aact.ctti-clinicaltrials.org/schema): A clinical trial database that contains information on all clinical trials, the intervention being studied (for our purspsoses, the drug) and the conditions that intervention is studied as treating
 
--   NDF-RT : Included in OMOP vocabulary. Developed by the Veterans Health Association, and includes indication relationships within the vocabulary.
+- [NDF-RT](https://bioportal.bioontology.org/ontologies/NDFRT): Included in the OMOP vocabulary. Developed by the Veterans Health Association, and includes indication relationships within the vocabulary. 
 
-### Brief Description of MIMICIV
+### Brief Description of MIMICIV - Clinical Data Source
 
 MIMICIV is a de-identified, publicly available dataset originated from intensive care units at the Beth Israel Deaconess Medical Center (BIDMC). MIMICIV uses `ICD 9 / 10 (CM)` as their diagnosis codes, and `NDC` codes for medication prescriptions. Each patient is given a unique `subject_id`, and a unique `hadm_id` for each visit. We extract all `ICD` diagnoses and `NDC` medications for each `subject_id` and `hadm_id`, and map them both to `SNOMED` for convenience of vocabulary traversal.
 
 MIMICIV also includes patient demographic and insurance information. We use this information to conduct preliminary implication analysis based on our results.
+
+## Resources Navigation
 
 ### Navigation
 
