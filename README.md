@@ -15,7 +15,7 @@ We leverage the hierarchical vocabulary structure to compare indication matching
 We also leverage the MeSH hierarchy to compare: 
 
 1\. One-to-one MeSH terms 
-2.\ Tree taversal of MeSH structure
+2\. Tree taversal of MeSH structure
 
 ### Indication Data
 
