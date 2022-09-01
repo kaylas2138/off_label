@@ -1,14 +1,21 @@
 # off_label
 
-Automated mapping of Electronic Health Records to document off-label drug use. There are thousands of off-label medications that are being prescribed to patients on a daily basis. For this project, we have developed an automated method to detect and analyze off-label prescription pattern by comparing diagnosis codes and approved indications for prescribed medications within the [MIMICIV dataset](https://physionet.org/content/mimiciv/0.4/).
+Automated mapping of Electronic Health Records to document off-label drug use. There are thousands of off-label medications that are being prescribed to patients on a daily basis. For this project, we have developed an automated method to detect and analyze off-label prescribing patterns by comparing diagnosis codes to FDA-approved indications, commonly occurring off-label uses, and uses being studied in clinical trials for prescribed medications within the [MIMICIV dataset](https://physionet.org/content/mimiciv/0.4/).
 
-We utilize OMOP vocabulary to map nonstandard diagnosis codes to their standard `SNOMED` equivalent. For medications, we map `NDC` codes to their `RxNorm` equivalent, then to `SNOMED` to ensure that we are capturing the drug ingredient. We leverage the hierarchical vocabulary structure to compare indication matchings between:
+We utilize OMOP vocabulary to map nonstandard diagnosis codes (primarily ICD from MIMIC) to their standard `SNOMED` equivalent. For medications, we map `NDC` codes to their `RxNorm` equivalent, then to `SNOMED` to ensure that we are capturing the drug ingredient. 
+
+We leverage the hierarchical vocabulary structure to compare indication matchings between:
 
 1\. One-to-one Nonstandard `ICD` to standard `SNOMED` diagnosis mapping,
 
 2\. Horizontal mapping from Standard `SNOMED` to other non-standard `SNOMED`, and
 
 3\. Hierarchical mapping from Standard `SNOMED` to its parents and children vocabulary.
+
+We also leverage the MeSH hierarchy to compare: 
+
+1\. One-to-one MeSH terms 
+2.\ Tree taversal of MeSH structure
 
 ### Indication Data
 
