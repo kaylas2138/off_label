@@ -53,3 +53,10 @@ Extracted and mapped patient data store in json files. Processing time to extrac
 `off_label/Results`
 
 Finalized summary of Drug Central, AACT, and NDFRT analysis. Includes a powerpoint presentation that summarizes our project. `figures/` include visualizations of our result, and our initial implication analysis.
+
+
+### Code
+
+`off_label/Code`
+
+`DC_AACT_Results_Aggregation.ipynb`: Loading in jsons of patient data and converting to summary statistics for DrugCentral and AACT matches
