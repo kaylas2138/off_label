@@ -35,12 +35,20 @@ MIMICIV also includes patient demographic and insurance information. We use this
 
 ## Resources Navigation
 
+### Patient_vocab_dict
+
+`off_label/patient_vocab_dict`
+
+Extracted and mapped patient data store in json files. Processing time to extract these is intensive, and so storing them in jsons was most tractable solution for re-accessing original analysis data
+
 ### Mapping
 
 `off_label/mapping`
 
 `off_label.py` : Extracts relevant data from MIMICIV publicly available clinical data, which can be accessed at [<https://physionet.org/content/mimiciv/0.4/>](https://physionet.org/content/mimiciv/0.4/){.uri}.\
 `vocab_mappings.py` : Python script that defines functions that extract standard to non-standard terms or vice versa, as well as extracting hierarchical concepts. Used to convert from ICD to SNOMED, and to MeSH codes, and the associated hierarchical terms.\
+
+### Results
 
 `off_label/Results`
 
