@@ -64,3 +64,4 @@ Finalized summary of Drug Central, AACT, and NDFRT analysis. Includes a powerpoi
 ----------
 
 # To Do
+* Leverage existing code of extracting all descendants to expand from 1-degree to full hierarchy https://github.com/WengLab-InformaticsResearch/ehr_prevalence/blob/master/ehr_prevalence.py
