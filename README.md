@@ -19,7 +19,7 @@ We also leverage the MeSH hierarchy to compare:
 
 ### Indication Data
 
--   [Drug Central]((https://drugcentral.org/)): A database that includes formal, FDA-approved indications for each drug, as well as known off-label uses and contraindications. 
+-   [Drug Central](https://drugcentral.org/): A database that includes formal, FDA-approved indications for each drug, as well as known off-label uses and contraindications. 
 
 -   AACT : Clinical trial database that contains information on all clinical trials and their underlying conditions that use a particular drug as intervention / treatment.
 
