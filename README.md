@@ -61,6 +61,8 @@ Finalized summary of Drug Central, AACT, and NDFRT analysis. Includes a powerpoi
 
 `DC_AACT_Results_Aggregation.ipynb`: Loading in jsons of patient data and converting to summary statistics for DrugCentral and AACT matches
 
+`AACT_DC_Ind_Extraction.ipynb`: Pulling all indications listed for drug in question from AACT and DrugCentral databases - interfacing with SQL 
+
 ----------
 
 # To Do
